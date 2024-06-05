@@ -111,7 +111,7 @@ function Test() {
       )}
       {isTestStarted &&
         (timer > 0 ? (
-          <div className="w-[80%] p-4 bg-blue-200 bg-opacity-20 rounded-lg">
+          <div className="w-full p-4 bg-blue-200 bg-opacity-20 rounded-lg">
             {questions.map((question, index) => (
               <div key={question.id}>
                 <h2 className="text-2xl my-4 p-2 rounded-lg bg-blue-300">
