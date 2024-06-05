@@ -78,7 +78,27 @@ function Test() {
   };
 
   return (
-    <div className="flex p-4">
+    <div className="flex p-4 flex-col ">
+      {isTestStarted &&
+        (timer > 0 ? (
+          <div className="p-4 bg-blue-500 h-10 w-full rounded-lg sticky top-0 right-0 text-white flex items-center gap-4">
+            <div>
+              <div className="font-bold text-red-500 text-xl text-center">
+                {Math.floor(timer / 60)}:
+                {timer % 60 < 10 ? `0${timer % 60}` : timer % 60}
+              </div>
+            </div>
+            <div>To'g'ri javoblar: {correctAnswersCount}</div>
+            <button
+              onClick={startTest}
+              className="bg-red-500 rounded-lg p-0.5 px-2"
+            >
+              Restart
+            </button>
+          </div>
+        ) : (
+          ""
+        ))}
       {!isTestStarted && (
         <div className="w-[100vw] h-[100vh] flex justify-center items-center">
           <button
@@ -140,27 +160,6 @@ function Test() {
               Testni qaytadan boshlash
             </button>
           </div>
-        ))}
-      {isTestStarted &&
-        (timer > 0 ? (
-          <div className="p-4 bg-blue-500 h-60 w-[18%] rounded-lg mt-4 ml-4 sticky top-6 right-6 text-white flex flex-col items-center">
-            <div>
-              Qolgan vaqtingiz:
-              <div className="font-bold text-red-500 text-xl text-center">
-                {Math.floor(timer / 60)}:
-                {timer % 60 < 10 ? `0${timer % 60}` : timer % 60}
-              </div>
-            </div>
-            <div>To'g'ri javoblar: {correctAnswersCount}</div>
-            <button
-              onClick={startTest}
-              className="bg-red-500 rounded-lg mt-4 p-2"
-            >
-              Testni qaytadan boshlash
-            </button>
-          </div>
-        ) : (
-          ""
         ))}
     </div>
   );
