@@ -82,7 +82,7 @@ function Test() {
       {!isTestStarted && (
         <div className="w-[100vw] h-[100vh] flex justify-center items-center">
           <button
-            className="bg-blue-500 rounded-lg mt-4 p-2"
+            className="bg-blue-500 rounded-lg mt-4 p-2 text-white text-2xl"
             onClick={startTest}
           >
             Testni boshlash
