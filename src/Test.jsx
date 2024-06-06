@@ -7,6 +7,7 @@ function Test() {
   const [timer, setTimer] = useState(20 * 60); // 20 minutes in seconds
   const [isTestStarted, setIsTestStarted] = useState(false);
   const [correctAnswersCount, setCorrectAnswersCount] = useState(0);
+  const [totalAnswersCount, setTotalAnswersCount] = useState(0);
 
   const shuffleArray = (array) => {
     for (let i = array.length - 1; i > 0; i--) {
@@ -63,7 +64,11 @@ function Test() {
     setTimer(20 * 60); // Reset timer
     setSelectedAnswers({});
     setCorrectAnswersCount(0);
+    setTotalAnswersCount(0);
     fetchTestQuestions(); // Refetch and shuffle questions
+  };
+  const endTest = () => {
+    setTimer(0);
   };
 
   const handleAnswerSelection = (questionId, option) => {
@@ -72,6 +77,7 @@ function Test() {
     }
 
     setSelectedAnswers((prev) => ({ ...prev, [questionId]: option.id }));
+    setTotalAnswersCount((prevCount) => prevCount + 1);
     if (option.isCorrect) {
       setCorrectAnswersCount((prevCount) => prevCount + 1);
     }
@@ -88,12 +94,21 @@ function Test() {
                 {timer % 60 < 10 ? `0${timer % 60}` : timer % 60}
               </div>
             </div>
-            <div>To'g'ri javoblar: {correctAnswersCount}</div>
+            <div>
+              To'g'ri javoblar: {correctAnswersCount} Umumiy:{" "}
+              {totalAnswersCount}
+            </div>
             <button
               onClick={startTest}
-              className="bg-red-500 rounded-lg p-0.5 px-2"
+              className="bg-blue-400 rounded-lg p-0.5 px-2 hover:bg-blue-200"
             >
-              Restart
+              Qayta boshlash
+            </button>
+            <button
+              onClick={endTest}
+              className="bg-blue-400 rounded-lg p-0.5 px-2 hover:bg-blue-200"
+            >
+              Tugatish
             </button>
           </div>
         ) : (
@@ -113,12 +128,12 @@ function Test() {
         (timer > 0 ? (
           <div className="w-full p-4 bg-blue-200 bg-opacity-20 rounded-lg">
             {questions.map((question, index) => (
-              <div key={question.id}>
-                <h2 className="text-2xl my-4 p-2 rounded-lg bg-blue-300">
+              <div key={question.id} className="p-2 mt-4 rounded-md">
+                <h2 className="text-xl my-4 p-2 rounded-lg bg-blue-300">
                   {index + 1} {question.text}
                 </h2>
                 <ul className="flex flex-col gap-2">
-                  {question.options.map((option) => (
+                  {/* {question.options.map((option) => (
                     <li
                       className="px-2 py-1 border-black rounded-lg hover:bg-emerald-400"
                       key={option.id}
@@ -144,18 +159,49 @@ function Test() {
                     >
                       {option.text}
                     </li>
+                  ))} */}
+                  {question.options.map((option) => (
+                    <li
+                      className="px-2 py-1 border-black bg-white rounded-lg hover:bg-emerald-300"
+                      key={option.id}
+                      onClick={() => handleAnswerSelection(question.id, option)}
+                      style={{
+                        cursor: "pointer",
+                        backgroundColor:
+                          selectedAnswers[question.id] === option.id
+                            ? option.isCorrect
+                              ? "#69c463"
+                              : "red"
+                            : selectedAnswers[question.id] && option.isCorrect
+                            ? "#7cee74"
+                            : "bg-white",
+                        border:
+                          selectedAnswers[question.id] === option.id
+                            ? option.isCorrect
+                              ? "2px solid green"
+                              : "2px solid red"
+                            : selectedAnswers[question.id] && option.isCorrect
+                            ? "2px solid red"
+                            : "2px solid transparent",
+                        pointerEvents: selectedAnswers[question.id]
+                          ? "none"
+                          : "auto", // Disable further clicks if an answer is already selected
+                      }}
+                    >
+                      {option.text}
+                    </li>
                   ))}
                 </ul>
-                <hr />
               </div>
             ))}
           </div>
         ) : (
-          <div className="w-[100vw] h-[100vh] flex justify-center items-center text-4xl flex-col">
-            To'g'ri javoblar : {correctAnswersCount}
+          <div className="w-[100vw] h-[100vh] flex justify-center items-center text-4xl flex-col gap-4">
+            <span>To'g'ri javoblar : {correctAnswersCount}</span>
+            <span className="text-center">Umumiy: {totalAnswersCount}</span>
             <button
               onClick={startTest}
-              className="bg-blue-500 rounded-lg mt-4 p-2"
+              className="bg-blue-500 rounded-lg p-2 hover:bg-blue-300 text-white"
             >
               Testni qaytadan boshlash
             </button>
