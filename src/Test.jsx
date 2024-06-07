@@ -27,7 +27,7 @@ function Test() {
       const formattedQuestions = questionsData.map((questionBlock, index) => {
         const [questionText, ...optionsData] = questionBlock
           .trim()
-          .split("=====");
+          .split("========");
         let options = optionsData.map((option, optionIndex) => ({
           id: `${index}-${optionIndex}`, // Unique identifier for options
           text: option.trim().replace(/^#+/, ""), // Remove leading #

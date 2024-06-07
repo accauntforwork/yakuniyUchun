@@ -1,2223 +1,855 @@
-Didaktika – bu ?
-=====
-# pedagogik fan bo’lib, u ta’limning nazariy jihatlarini o’rganadi 
-=====
-pedagogik fan bo’lib, u ta’limning amaliy jihatlarini o’rganadi 
-=====
-pedagogik fan bo’lib, u ta’limning ma’muriy jihatlarini o’rganadi 
-=====
-pedagogik fan bo’lib, u tarbiya jihatlarini o’rganadi 
-
-+++++
-
-…. davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmuidan iborat — bu?
-=====
-# Baholash tizimi 
-=====
-Ta’lim qoidalari 
-=====
-Qonuniyat
-=====
-O'quv rejasi 
-
-+++++
-
-Tadqiqotchilar mavjud didaktik kontseptsiya (tizim)larni umumlashtirib  guruhlarga ajratadilar. Ro’yhatda ortiqcha variantni belgilang
-=====
-an’anaviy;
-=====
-progressiv;
-=====
-zamonaviy
-=====
-# affektiv
-
-+++++
-
-Ta’lim shakllari metodlari, usullari, vositalari, ta’lim jarayoni ishtirokchilarining faoliyat mazmuniga qo’yiladigan talablarni anglatuvchi dastlabki qoidalar tushuniladi– bu?
-=====
-# Ta’lim tamoyillari
-=====
-Ta’lim qoidalari 
-=====
-Qonuniyat
-=====
-O'quv rejasi 
-
-+++++
-
-… umuminsoniy tarbiyaning maqsad va vazifalarini amalga oshirishga qaratilgan o’qish va o’qitish jarayonlarining yo’nalishi, o’quvchilar tomonidan ilmiy bilimlarning o’zlashtirilishi, bilim va malakalar hosil qilishining asosiy qonun va qoidalarining yig’indisiga aytiladi?
-=====
-# Ta’lim qoidalari 
-=====
-Qonuniyat
-=====
-O'quv rejasi 
-=====
-Baholash 
-
-+++++
-
-… bu barqaror, zaruriy, u yoki bu xodisalar va jarayonlar o’rtasidagi mutanosiblik va muhim aloqa ?
-=====
-# Qonuniyat
-=====
-O'quv rejasi 
-=====
-Baholash 
-=====
-Ta’lim qoidalari
-
-+++++
-
-bu fanlarning ro'yxati, ish vaqti miqdori, o'quv intizomlarini tayyorlashning navbatma-bosqichligi va individual bosqichlari, amaliyot stajlari, fakultativ mashg'ulotlar, o'quv modullari va boshqa amaliy o'quv faoliyatining turlarini belgilaydigan hujjat – bu?
-=====
-# O'quv rejasi
-=====
-Baholash 
-=====
-Ta’lim qoidalari 
-=====
-Qonuniyat
-
-+++++
-
-Baholash – bu?
-=====
-# bu baholash bilan yakunlanadigan rasmiy yoki ekspert ishtirokidagi har qanday jarayon
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
-=====
-bu barqaror, zaruriy, u yoki bu xodisalar va jarayonlar o’rtasidagi mutanosiblik va muhim aloqa
-
-+++++
-
-Formativ baholash – bu? 
-=====
-# sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir.
-=====
-chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi 
-=====
-voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega 
-=====
-o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik O.Dekandol tomonidan taklif qilingan
-
-+++++
-
-Chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi – bu?
-=====
-# Summativ baholash
-=====
-Formativ (ichki) baholash
-=====
-Taksonomiya 
-=====
-Kredit 
-
-+++++
-
-Taksonomiya (yunoncha taxis - tartibga solish, tuzilish, tartib va nomos - qonun) - =====
-# voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega
-=====
-chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi 
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir 
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
+viewBinding true - ushbu metodi vazifasi nima?
+========
+# Ko'rishni ulash modul bo'yicha ko`rinishni yoqish.
+========
+Servicelarni ulashni yoqish
+========
+faoliyatlarni MBga ulashni yoqish
+========
+hech qanday vazifa bajarmaydi
+
++++++
+
+Quyidagi Android qurilmalaridan qaysi biri litsenziyalangan?
+========
+# Apache/MIT
+========
+OSS
+========
+Sourceforge
+========
+Yuqoridagilardan hech qaysisi
+
++++++
+
+Quyidagi Android qaysi biri uchun asosan ishlab chiqarilgan?
+========
+# Mobil qurilmalar
+========
+Serverlar
+========
+Ish stollari
+========
+Noutbuklar
+
++++++
+
+Quyidagilardan qaysi biri Android operatsion tizimida ishlaydigan birinchi mobil telefon hisoblanadi?
+========
+# Java 
 
-+++++
-
-“Taksonomiya” tushunchasi …
-=====
-# o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik O.Dekandol tomonidan taklif qilingan
-=====
-o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik V.Bush tomonidan taklif qilingan
-=====
-o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik O.Reyli tomonidan taklif qilingan
-=====
-o‘simliklar tasnifini ishlab chiqqan Italiyalik botanik B.Blum tomonidan taklif qilingan
++++++
 
-+++++
-
-Ta'lim texnologiyasi doirasida kim va qachon pedagogik maqsadlarning birinchi taksonomiyasini yaratdi?
-=====
-# B.Blum 1956 yilda
-=====
-O.Dekandol 1361 yilda
-=====
-Anderson va Krathwohl 1983 yilda
-=====
-Ch.Elliot 1520 yilda
+Catch-ni sinab ko'ring
+========
+# T - Mobil G1
+========
+HTC qahramoni
+========
+Google gPhone
+========
+Yuqoridagilardan hech qaysisi
 
-+++++
-
-Blum taksonomiyasini belgilang
-=====
-# Bilim, Tushunish, Qo'llash, Tahlil, Sintez, Baho
-=====
-Eslab qolish, Tushunish, Qo'llash, Tahlil qilish, Baholash, Yaratish 
-=====
-Anglash, Tushunish, Qo'llash, Tahlil qilish, Yaratish 
-=====
-Tushunish, Qo'llash, Eslab qolish, Tahlil qilish, Baholash
++++++
 
-+++++
-
-Kredit-modul tizimi, bu — ?
-=====
-# ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-=====
-oddiy idrok va qiziqishdan tortib, qadriyatlar yo'nalishlari va munosabatlarini o'zlashtirish, ularning faol namoyon bo'lishigacha bo'lgan atrofdagi dunyo hodisalariga hissiy va shaxsiy munosabatni shakllantirish maqsadlarini o'z ichiga oluvchi soha
+Quyidagi virtual mashinalardan qaysi biri Android operatsion tizimi tomonidan qo'llaniladi?
+========
+# Dalvik virtual mashinasi
+========
+JVM
+========
+Oddiy virtual mashina
+========
+Yuqoridagilardan hech qaysisi
 
-+++++
-
-Kredit-modul tamoyilida qanday asosiy masalalarga ahamiyat beriladi?
-=====
-# talabalarning mustaqil ishlashini ta’minlash va talabalar bilimini reyting asosida baholash
-=====
-talabalarning tizimli ishlashini ta’minlash va talabalar bilimini baholash
-=====
-talabalarning hamkorlikda ishlashini ta’minlash va bilimini kreditlar asosida baholash
-=====
-talabalarning loyihalar asosida ishlashini ta’minlash va bilimini modul asosida baholash
++++++
 
-+++++
-
-Modul — bu?
-=====
-# bu, bir nechta fan hamda kurslar o‘rganiladigan o‘quv rejasining bir qismi
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiruvchi soha 
-=====
-bu, bir nechta fan o‘rganiladigan o‘quv rejasining asosiy qismi 
-=====
-bu, bir nechta kurslar o‘rganiladigan o‘quv dasturining bir qismi 
+Android quyidagi tillarning qaysi biriga asoslangan?
+========
+# Java
+========
+C++
+========
+C
+========
+Yuqoridagilardan hech qaysisi
 
-+++++
- 
-Kredit (credit) — bu? 
-=====
-# talabaning alohida ta’lim yo‘nalishi yoki dasturi (kurs) bo‘yicha fanlarni o‘qib o‘rganishi va o‘zlashtirishi uchun sarflangan o‘quv yuklamasining (vaqtning) o‘lchov birligidir. ¬
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
++++++
 
-+++++
-
-Bolonya deklaratsiyasi qachon va qayerda imzolangan?
-=====
-1999-yilda Ispaliyaning Bolonya shahrida 26 ta mamlakat vakillari
-=====
-# 1999-yilda Italiyaning Bolonya shahrida 29 ta mamlakat vakillari
-=====
-1999-yilda Angliyaning Bolonya shahrida 27 ta mamlakat vakillari
-=====
-1997-yilda Vengriyaning Bolonya shahrida 29 ta mamlakat vakillari
+APK qisqartmasi -
+========
+# Android paketlar to'plami
+========
+Android telefonlar to'plami
+========
+Android sahifalar to'plami
+========
+Yuqoridagilardan hech qaysisi
 
-+++++
-
-Formativ (ichki) baholash bu?
-=====
-chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi
-=====
-umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-# sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
++++++
 
-+++++
-
-Summativ baholash – bu?
-=====
-# chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turi
+API nimani anglatadi?
+========
+# Ilova dasturlash interfeysi
+========
+Android dasturlash interfeysi
+========
+Android sahifa interfeysi
+========
+Ilova sahifasi interfeysi
 
-+++++
-
-Taksonomiya bu?
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar
-=====
-# voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi 
-=====
-o'quv jarayonini tugatgandan so'ng o'quvchi bilishi, tushunishi va/yoki ko'rsatishi kerak bo'lgan narsaning bayonoti
++++++
 
-+++++
-
-B.Blum va D.Kratvollar ta'lim maqsadlarini qanday yo'nalishga ajratdilar?
-=====
-Kognitiv, pozitiv va affektiv 
-=====
-# Kognitiv, psixomotor va affektiv 
-=====
-Kognitiv, jismoniy va affektiv 
-=====
-Kognitiv, ruhiy va jismoniy 
+Quyidagilardan qaysi biri Java bayt kodini Dalvik bayt kodiga aylantiradi?
+========
+# Dex kompilyator
+========
+Dalvik konvertori
+========
+Mobil sharhlovchi kompilyator (MIC)
+========
+Yuqoridagilardan hech qaysisi
 
-+++++
-
-Blum taksonomiyasi tarkibi?
-=====
-Bilim, Anglash, Qo'llash, Tahlil, Sintez, Baho 
-=====
-Bilim, Tushunish, Isbotlash, Tahlil, Sintez, Baho 
-=====
-# Bilim, Tushunish, Qo'llash, Tahlil, Sintez, Baho
-=====
-Bilim, Tushunish, Qo'llash, Natija, Sintez, Baho 
++++++
 
-+++++
-
-“Kredit soati” tushunchasini kim iste’molga kiritgan?
-=====
-Anderson&Krathwohl
-=====
-Benjamin Blum
-=====
-V.P. Bespalko
-=====
-#Charlz Uilyam Eliot
+Androidda xizmatlarni qanday to'xtatishimiz mumkin?
+========
+# StopSelf() va stopService() usullaridan foydalangan holda
+========
+Finish() usuli yordamida
+========
+system.exit() usuli yordamida
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-SCQF bu?
-=====
-Osiyo-Tinch okeani mintaqasi uchun universitet kreditlarini uzatish tizimi
-=====
-Buyuk britaniyaning kredit tizimi
-=====
-# Shotlandiya malaka ramkasi deb nomlanib, unga ko‘ra bir kredit 10 soatga teng
-===== 
-AQSh kredit tizimi
+Androidda faoliyat nima?
+========
+# Java kodini qo'llab-quvvatlaydigan ilovada bitta ekran
+========
+android sinfi
+========
+android to'plami
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-UCTS bu?
-=====
-# Osiyo-Tinch okeani mintaqasi uchun universitet kreditlarini uzatish tizimi
-=====
-Buyuk britaniyaning kredit tizimi
-=====
-Shotlandiya malaka ramkasi deb nomlanib, unga ko‘ra bir kredit 10 soatga teng
-===== 
-AQSh kredit tizimi
+Quyidagi yadrolardan qaysi biri Androidda qo'llaniladi?
+========
+# Linux
+========
+MAC
+========
+Windows
+========
+Redhat
 
 +++++
 
-GPA (Grade Point Average) bu?
-=====
-— ta’lim oluvchining reja bo‘yicha ko’rsatkichlari 
-=====
-— ta’lim oluvchining modul bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-# — ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-— ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan fanlari ro’yhati
+Quyidagilardan qaysi biri faoliyatning hayot tsikli davomida tizim tomonidan chaqiriladigan birinchi qayta qo'ng'iroq qilish usuli hisoblanadi?
+========
+# onCreate() usuli
+========
+onClick() usuli
+========
+onStart() usuli
+========
+onRestart() usuli
 
 +++++
 
-Ta'lim tizimining integral xarakteristikasi bo’lib, amalda erishilgan ta'lim natijalarining normativ talablarga, ijtimoiy va shaxsiy talablarga muvofiqligi darajasini aks ettiradi, bu?
-=====
-# Ta'lim sifati
-=====
-Dastlabki nazorat 
-=====
-CATS 
-=====
-Nazoratning axborot funktsiyasi 
+Quyidagilardan qaysi biri faoliyatning hayotiy siklini qayta chaqirish usuli emas?
+========
+# onBackPressed() usuli
+========
+onClick() usuli
+========
+onCreate() usuli
+========
+onStart() usuli
 
 +++++
 
-Nazoratning axborot funktsiyasi bu?
-=====
-# o'rganish dinamikasini kuzatish uchun o'quv natijalarini tizimli qayd etish
-=====
-o'qitish usullariga tuzatishlar kiritish, o'quv vaqtini qayta taqsimlash, o'qitishdagi kamchiliklarni bartaraf etish
-=====
-talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati 
+Emulator yaratish uchun bizga AVD kerak. AVD nimani anglatadi?
+========
+# Android Virtual qurilma
+========
+Android virtual displey
+========
+Faol virtual displey
+========
+Faol virtual qurilma
 
 +++++
 
-Nazoratning diagnostik (nazorat va tuzatuvchi) funktsiyasi bu?
-=====
-# - o'qitish usullariga tuzatishlar kiritish, o'quv vaqtini qayta taqsimlash, o'qitishdagi kamchiliklarni bartaraf etish.
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish 
+Android javadan boshqa tillarni qo'llab-quvvatlaydimi?
+========
+# Ha
+========
+Yo'q
+========
+Balki
+========
+Aytish mumkin emas
 
 +++++
 
-Psixologik yo’nalish bo’yicha testlar qatorini belgilang?
-=====
-Prognostik, aql, muvaffaqiyat testlari
-=====
-# Temperament, aql, muvaffaqiyat testlari
-=====
-Kriteriyalarga asoslangan, aql, pragnostik testlar
-=====
-Ijodiy,muvaffaqiyat,temperament testlari
+Androidda kontent provayderidan qanday foydalanish kerak?
+========
+# Ilovalar o'rtasida ma'lumotlarni almashish uchun
+========
+Ilovadan boshqa ilovaga ma'lumotlarni yuborish uchun
+========
+Ma'lumotlar bazasida ma'lumotlarni saqlash uchun
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-Dastlabki yakuniy turi bu?
-=====
-#– (tematik, bosqichli, yillik, kurs oxirida) ta’lim natijalarini aniqlash va baholash
-=====
-- (har bir darsda, har bir mavzu uchun) talabalarning materialni o'zlashtirish jarayoni haqida ma'lumot olish;
-=====
-- bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish;
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
+AAPT qisqartmasi -
+========
+# Android Asset Packaging Tool
+========
+Android Activity Packaging Tool
+========
+Android Action Packaging Tool
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-Semestr davomida o‘quv dasturining tegishli (fanning bir necha mavzularini o‘z ichiga olgan) bo‘limi tugallangandan keyin talabaning bilim va amaliy ko‘nikma darajasini aniqlash va baholash usuli qanday nazorat turi hisoblanadi?
+NDK - degan ma'noni anglatadi
+========
+# Native Development Kit
+========
+Yangi rivojlanish to'plami
+========
+Mahalliy dizayn to'plami
+========
+Yuqoridagilardan hech qaysisi
 
-=====
-# oraliq nazorat
-=====
-mustaqil ta'lim
-=====
-yakuniy nazorat
-=====
-joriy nazorat
-
 +++++
 
-Ta'lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati nima deb ataladi?
-
-=====
-# GPA	
-=====
-kredit	
-=====
-kredit to‘plash
-=====
- ta'lim trayektoriyasi
+Quyidagilardan qaysi biri src papkasida joylashgan?
+========
+# Java manba kodi
+========
+XML
+========
+Manifest
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-Oliy ta'lim muassasasi talabalarining muayyan vaqt mobaynida respublika hududidagi yoki chet eldagi boshqa bir oliy ta'lim muassasasiga o‘qish maqsadida borish jarayoni nima deb ataladi?
-=====
-# akademik mobillik
-=====
-mobillik dasturi
-=====
-GPA
-=====
-o‘qish yuklamasi
+Quyidagi usullardan qaysi biri tugmani bosgandan keyin sodir bo'lishini boshqarish uchun ishlatiladi?
+========
+# onClick
+========
+onCreate
+========
+onSelect
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-Malaka yoki uning alohida qismlariga qo‘yilgan talablarga muvofiq erishilgan ta'lim olish natijalariga ko‘ra talaba yoki boshqa ta'lim oluvchilarga kreditlarni rasmiy taqdim etish jarayoni nima deb ataladi?
-=====
-# kreditlarni berish
-=====
-ta'lim dasturi
-=====
-o‘qish yuklamasi 
-=====
-ta'lim natijalari
+Quyidagi android komponentlaridan qaysi biri ekranda faoliyat qismini aks ettiradi?
+========
+# Fragment
+========
+Ko'rinish
+========
+Manifest
+========
+Niyat
 
 +++++
 
-Talabalarning akademik mobilligini ta'minlash maqsadida bir oliy ta'lim muassasasi ta'lim dasturi bo‘yicha olingan kreditlarni boshqa oliy ta'lim muassasasiga ko‘chirish va tan olinishi nima deb ataladi?
-=====
-# kreditlarni ko‘chirish
-=====
-kreditlarni berish
-=====
-ro‘yxatga olish xizmati
-=====
-ta'lim elementlari
+Quyidagilardan qaysi biri Faoliyatning asosiy sinfidir?
+========
+# contextThemeWrapper
+========
+kontekst
+========
+obyekt
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-Talaba tomonidan tanlangan hamda unga ketma-ketlikda bilimlar to‘plash va xohlagan kompetensiyalar yig‘indisiga ega bo‘lish imkoniyatini beradigan yo‘nalish nima deb ataladi?
-=====
-# talabaning shaxsiy ta'lim trayektoriyasi
-=====
-ta'lim dasturi
-=====
-ta'lim dasturi katalogi
-=====
-ta'lim natijalari
+Quyidagilardan qaysi biri xizmatning asosiy toifasi hisoblanadi?
+========
+# contextWrapper
+========
+kontekst
+========
+obyekt
+========
+contextThemeWrapper
 
 +++++
 
-Blum taksonomiyasini to’g’ri tartibda belgilang?
-=====
-Bilim, Tahlil, Ko’nikma, Sintez, Qo’llash, Baho
-=====
-Bilim, Tushunish, Qo’llash, Tahlil, Sintez, Baho
-=====
-# Bilim, Sintez, Tushunish, Qo’llash, Tahlil, Baho
-=====
-Baho, Tahlil, Qo’llash, Sintez, Tushunish, Sintez 
+Quyidagi qaysi varaqda xatolik ko'rsatilgan?
+========
+# Logcat
+========
+Markaziy protsessor
+========
+Xotira
+========
+OTB jurnallari
 
 +++++
 
-UCTS…?
-=====
-AQSHning kredit tizimi
-=====
-# Osiyo-Tinch okeni mamlakatlari kredit tizimi
-=====
-Buyuk Britanyaning kredit tizimi
-=====
-Yevropa Mamlakatlarining  kreidt tizimi
+Qaysi yilda OHA (Open Handset Alliance) e'lon qilinadi?
+========
+# 2007 yil
+========
+2005 yil
+========
+2006 yil
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
-Didaktika so’zi kim tomondan va qachon kiritildi?
-=====
-# 1613 yili Germaniyada nemis pedagogi Volfgang Ratke tomonidan
-=====
-1163 yili Angliyada nemis pedagogi Volfgang Ratke tomonidan
-=====
-1136 yili Germaniyada nemis pedagogi Vanniner Bush tomonidan
-=====
-1316 yili Germaniyada nemis pedagogi Charlz Eliot tomonidan
+
+Quyidagilardan qaysi biri Android 1.5 versiyasining nomi?
+========
+# Ponchik
+========
+Kek
+========
+Ekler
+========
+Froyo
 
 +++++
 
-Didaktika – bu ?
-=====
-# pedagogik fan bo’lib, u ta’limning nazariy jihatlarini o’rganadi 
-=====
-pedagogik fan bo’lib, u ta’limning amaliy jihatlarini o’rganadi 
-=====
-pedagogik fan bo’lib, u ta’limning ma’muriy jihatlarini o’rganadi 
-=====
-pedagogik fan bo’lib, u tarbiya jihatlarini o’rganadi 
+Quyidagilardan qaysi biri Android 1.6 versiyasining nomi?
+========
+# Ponchik
+========
+Ekler
+========
+Froyo
+========
+Kek
 
 +++++
 
-Didaktikaning vazifalari quyida keltirilgan. Qaysi javob ortiqcha?
-=====
-# pedagogik fan bo’lib, u tarbiya jihatlarini o’rganadi
-=====
-- ta’lim jarayonlari va ularni amalga oshiri shartlarini ta’riflash va tushuntirish;
-=====
-- ta’lim jarayonini yanada mukammal tashkil etish, ya’ni, ta’lim tizimlari va texnologiyalarini ishlab chiqish;
-=====
-- ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash.
+Quyidagilardan qaysi biri android arxitekturasining eng yuqori qatlami hisoblanadi?
+========
+# Ilovalar
+========
+Tizim kutubxonalari va Android Runtime
+========
+Linux yadrosi
+========
+Ilovalar ramkasi
 
 +++++
 
-Bilim — bu?
-=====
-# o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash 
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
+Qatlamlarning qaysi biri android arxitekturasining eng yuqori qatlami ostida joylashgan?
+========
+# Ilovalar ramkasi
+========
+Tizim kutubxonalari va Android Runtime
+========
+Linux yadrosi
+========
+Ilovalar
 
 +++++
 
-… umuminsoniy tarbiyaning maqsad va vazifalarini amalga oshirishga qaratilgan o’qish va o’qitish jarayonlarining yo’nalishi, o’quvchilar tomonidan ilmiy bilimlarning o’zlashtirilishi, bilim va malakalar hosil qilishining asosiy qonun va qoidalarining yig’indisiga aytiladi?
-=====
-# Ta’lim qoidalari 
-=====
-Qonuniyat
-=====
-O'quv rejasi 
-=====
-Baholash 
+Qatlamlarning qaysi biri android arxitekturasining eng quyi qatlami hisoblanadi?
+========
+# Linux yadrosi
+========
+Tizim kutubxonalari va Android Runtime
+========
+Ilovalar
+========
+Ilovalar ramkasi
 
 +++++
 
-bu fanlarning ro'yxati, ish vaqti miqdori, o'quv intizomlarini tayyorlashning navbatma-bosqichligi va individual bosqichlari, amaliyot stajlari, fakultativ mashg'ulotlar, o'quv modullari va boshqa amaliy o'quv faoliyatining turlarini belgilaydigan hujjat – bu?
-=====
-# O'quv rejasi
-=====
-Baholash 
-=====
-Ta’lim qoidalari 
-=====
-Qonuniyat
+manifest.xml da nima bor?
+========
+# Ilova talab qiladigan ruxsat
+========
+Manba kodi
+========
+Ilovada ishlatiladigan satrlar ro'yxati
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-Baholash – bu?
-=====
-# bu baholash bilan yakunlanadigan rasmiy yoki ekspert ishtirokidagi har qanday jarayon
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
-=====
-bu barqaror, zaruriy, u yoki bu xodisalar va jarayonlar o’rtasidagi mutanosiblik va muhim aloqa
+Quyidagilardan qaysi biri xizmat muddatining holatiga kirmaydi?
+========
+# Pauza qilingan
+========
+Vayron qilingan
+========
+Boshlash
+========
+Yugurish
 
 +++++
 
-Baholash funksiyalari bu?
-=====
-# o'qitish, tarbiyaviy, yo'naltirish, rag'batlantiruvchi, diagnostika, nazorat va baholash
-=====
-o'qitish, tarbiyaviy, rag'batlantiruvchi, diagnostika, nazorat va baholash
-=====
-o'qitish, rag'batlantiruvchi, diagnostika, nazorat va baholash
-=====
-rag'batlantiruvchi, diagnostika, nazorat va baholash
+Android dasturchisi sifatida biz Androidning qaysi versiyasidan minimal rivojlanish maqsadi sifatida foydalanishimiz kerak?
+========
+# 1.6 yoki 2.0 versiyasi
+========
+1.2 versiyasi yoki 1.3 versiyasi
+========
+1.0 versiyasi yoki 1.1 versiyasi
+========
+2.3 yoki 3.0 versiyasi
 
 +++++
 
-Baholashning o'qitish funktsiyasi  bu?
-=====
-# bu baholash funktsiyasi mavjud bilim va tayyorgarlik darajalarini ro'yxatdan o'tkazishni emas, balki bilimlar hajmini, ularni qo'llashda ko'nikma va tajriba sifatini qo'shish va kengaytirishni o'z ichiga oladi
-=====
-tarbiyaviy vazifalarga tizimli va vijdonan munosabatda bo'lish ko'nikmalarini shakllantirish
-=====
-talabaning aqliy ishiga ta'sir qilish, uni ushbu ish jarayonidan xabardor qilish va o'z bilimi va tajribasini  tushunish
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiradi 
-
-+++++
-
-Baholashning tarbiyaviy funktsiyasi bu?
-=====
-# tarbiyaviy vazifalarga tizimli va vijdonan munosabatda bo'lish ko'nikmalarini shakllantirish
-=====
-talabaning aqliy ishiga ta'sir qilish, uni ushbu ish jarayonidan xabardor qilish va o'z bilimi va tajribasini  tushunish
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiradi 
-=====
-voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega
-
-+++++
-
-Blum taksonomiyasi tarkibi?
-=====
-Bilim, Anglash, Qo'llash, Tahlil, Sintez, Baho 
-=====
-Bilim, Tushunish, Isbotlash, Tahlil, Sintez, Baho 
-=====
-# Bilim, Tushunish, Qo'llash, Tahlil, Sintez, Baho
-=====
-Bilim, Tushunish, Qo'llash, Natija, Sintez, Baho 
-
-+++++
-
-“Taksonomiya” tushunchasi …
-=====
-# o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik O.Dekandol tomonidan taklif qilingan
-=====
-o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik V.Bush tomonidan taklif qilingan
-=====
-o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik O.Reyli tomonidan taklif qilingan
-=====
-o‘simliklar tasnifini ishlab chiqqan Italiyalik botanik B.Blum tomonidan taklif qilingan
-
-+++++
-
-Ta'lim texnologiyasi doirasida kim va qachon pedagogik maqsadlarning birinchi taksonomiyasini yaratdi?
-=====
-# B.Blum 1956 yilda
-=====
-O.Dekandol 1361 yilda
-=====
-Anderson va Krathwohl 1983 yilda
-=====
-Ch.Elliot 1520 yilda
-
-+++++
-
-Blum taksonomiyasini belgilang
-=====
-# Bilim, Tushunish, Qo'llash, Tahlil, Sintez, Baho
-=====
-Eslab qolish, Tushunish, Qo'llash, Tahlil qilish, Baholash, Yaratish 
-=====
-Anglash, Tushunish, Qo'llash, Tahlil qilish, Yaratish 
-=====
-Tushunish, Qo'llash, Eslab qolish, Tahlil qilish, Baholash
-
-+++++
-
-Anderson va Krathwohl tomonidan qayta ko'rib chiqilgan Blum taksonomiyasini belgilang
-=====
-# Eslab qolish, Tushunish, Qo'llash, Tahlil qilish, Baholash, Yaratish
-=====
-Bilim, Tushunish, Qo'llash, Tahlil, Sintez, Baho 
-=====
-Anglash, Tushunish, Qo'llash, Tahlil qilish, Yaratish 
-=====
-Tushunish, Qo'llash, Eslab qolish, Tahlil qilish, Baholash
-
-+++++
-
-Bu o'rganilgan materialni yodlash va takrorlashdan tortib muammolarni hal qilishgacha bo'lgan maqsadlarni o'z ichiga oladi, bunda mavjud bilimlarni qayta ko'rib chiqish, ularning ilgari o'rganilgan g'oyalar, usullar, protseduralar (harakat usullari) bilan yangi birikmalarini yaratish bu?
-=====
-# Taksonomiyaning kognitiv sohasi
-=====
-Taksonomiyaning affektiv (emotsional-qiymat) sohasi
-=====
-Taksonomiyaning psixomotor sohasi 
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-
-+++++
-
-Modul — bu?
-=====
-# bu, bir nechta fan hamda kurslar o‘rganiladigan o‘quv rejasining bir qismi
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiruvchi soha 
-=====
-bu, bir nechta fan o‘rganiladigan o‘quv rejasining asosiy qismi 
-=====
-bu, bir nechta kurslar o‘rganiladigan o‘quv dasturining bir qismi 
-
-+++++
- 
-Kredit (credit) — bu? 
-=====
-# talabaning alohida ta’lim yo‘nalishi yoki dasturi (kurs) bo‘yicha fanlarni o‘qib o‘rganishi va o‘zlashtirishi uchun sarflangan o‘quv yuklamasining (vaqtning) o‘lchov birligidir. ¬
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
-
-+++++
-
-Kredit — bu?
-=====
-# talabaning me’yoriy hujjat bilan belgilangan, odatda bir hafta davomida auditoriyada va mustaqil ravishda ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir.
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
-
-+++++
-
-Umumiy o‘rta ta’limning tayanch o‘quv rejasi?
-=====
-tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-# umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-
-+++++
-
-Umumiy o‘rta ta’limning o‘quv dasturi bu?
-=====
-# tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-o‘quv fanlarining mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalar
-
-+++++
-
-Didaktika so’zi?
-=====
-yunoncha didaktikos “o’rganuvchi”,  didasko esa – “o’rgatuvchi” ma’nosini bildiradi
-=====
-lotincha didaktikos “o’rgatuvchi”, didasko esa – “o’rganuvchi” ma’nosini bildiradi
-=====
-# yunoncha didaktikos “o’rgatuvchi”, didasko esa – “o’rganuvchi” ma’nosini bildiradi
-=====
-yunoncha didaktikos “yetaklovchi”,  didasko esa – “ergashtiruvchi” ma’nosini bildiradi
-
-+++++
-
-Maktab o'quv dasturi nimalar asosida tuziladi?
-=====
-# Bazis va tipik(namunaviy) rejalar 
-=====
-Ishchi va o’quv dasturlar
-=====
-Darslik va o’quv qo’llanmalar
-=====
-Asosiy va qo’shimcha materiallar
-
-+++++
-
-Formativ (ichki) baholash bu?
-=====
-chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi
-=====
-umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-# sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-
-+++++
-
-Summativ baholash – bu?
-=====
-# chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turi
-
-+++++
-
-Taksonomiya bu?
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar
-=====
-# voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi 
-=====
-o'quv jarayonini tugatgandan so'ng o'quvchi bilishi, tushunishi va/yoki ko'rsatishi kerak bo'lgan narsaning bayonoti
-
-+++++
-
-Bolonya deklaratsiyasi qachon va qayerda imzolangan?
-=====
-1999-yilda Ispaliyaning Bolonya shahrida 26 ta mamlakat vakillari
-=====
-# 1999-yilda Italiyaning Bolonya shahrida 29 ta mamlakat vakillari
-=====
-1999-yilda Angliyaning Bolonya shahrida 27 ta mamlakat vakillari
-=====
-1997-yilda Vengriyaning Bolonya shahrida 29 ta mamlakat vakillari
-
-+++++
-
-Bolonya tizimi bo‘yicha oliy malakali kadrlarni tayyorlash qanday bosqichlarda amalga oshiriladi?
-=====
-to’rt yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 2 yillik magistratura
-=====
-uch yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 1 yillik magistratura
-=====
-# uch yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 1-2 yillik magistratura
-=====
-besh yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 3 yillik magistrature
-
-+++++
-
-Kredit bu?
-=====
-# — talabaning me’yoriy hujjat bilan belgilangan, odatda bir hafta davomida auditoriyada va mustaqil ravishda ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir
-=====
-— talabaning me’yoriy hujjat bilan belgilangan mustaqil ravishda ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir
-=====
-— talabaning odatda bir hafta davomida auditoriyada ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir
-=====
-— talabaning odatda bir hafta davomida mustaqil ravishda ta’lim olishi uchun ajratilgan maksimal vaqt o‘lchovidir
-
-+++++
-
-ECTS tizimi bo‘yicha talabalarning bir yilda to‘plashi lozim bo‘lgan kredit miqdori qanchani tashkil etadi?
-=====
-# 60
-=====
-30
-=====
-120
-=====
-90
-
-+++++
-
-CATS bu?
-=====
-— kredit yig‘ish va almashish sxemasi/tizimi kredit-modul tizimiga asoslangan bo‘lib, uning maqsadi ko‘plab muayyan miqdordagi kreditlarni belgilash orqali ularni tartibga solish va birlashtirishdan iborat
-=====
-— kredit yig‘ish va almashish sxemasi/tizimi uning maqsadi ko‘plab malaka sertifikatlari tizimining har bir turiga muayyan miqdordagi kreditlarni belgilash orqali ularni tartibga solishdan iborat
-=====
-# — kredit yig‘ish va almashish sxemasi/tizimi kredit-modul tizimiga asoslangan bo‘lib, uning maqsadi ko‘plab malaka sertifikatlari tizimining har bir turiga muayyan miqdordagi kreditlarni belgilash orqali ularni tartibga solish va birlashtirishdan iborat
+Quyidagilardan qaysi biri android versiyasining taxallusi emas?
+========
+# Muffin
+========
+Ponchik
+========
+Asal uyasi
+========
+Kek
 
 +++++
-
-CATS bu?
-=====
-Shotlandiya malaka ramkasi
-=====
-Osiyo-Tinch okeani mintaqasi uchun universitet kreditlarini uzatish tizimi
-=====
-# Buyuk britaniyaning kredit tizimi
-===== 
-AQSh kredit tizimi
 
-+++++
-
-Britaniya universitetida bakalavr darajasini olish uchun …
-=====
-4 yil ta’lim olish hamda 240 ingliz kreditlarini yig‘ish talab etiladi. 
-=====
-# 3 yil ta’lim olish hamda 360 ingliz kreditlarini yig‘ish talab etiladi.
-=====
-5 yil ta’lim olish hamda 420 ingliz kreditlarini yig‘ish talab etiladi.
-=====
-2 yil ta’lim olish hamda 420 ingliz kreditlarini yig‘ish talab etiladi.
+Quyidagilardan qaysi biri android SDK tarkibiy qismlaridan biri hisoblanadi?
+========
+# SDK vositalari
+========
+OYD
+========
+AVD
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
-
-SCQF bu?
-=====
-Osiyo-Tinch okeani mintaqasi uchun universitet kreditlarini uzatish tizimi
-=====
-Buyuk britaniyaning kredit tizimi
-=====
-# Shotlandiya malaka ramkasi deb nomlanib, unga ko‘ra bir kredit 10 soatga teng
-===== 
-AQSh kredit tizimi
 
-+++++
-
-UCTS bu?
-=====
-# Osiyo-Tinch okeani mintaqasi uchun universitet kreditlarini uzatish tizimi
-=====
-Buyuk britaniyaning kredit tizimi
-=====
-Shotlandiya malaka ramkasi deb nomlanib, unga ko‘ra bir kredit 10 soatga teng
-===== 
-AQSh kredit tizimi
+NDD qisqartmasi -
+========
+# Mahalliy dasturlarni ishlab chiqish
+========
+Mahalliy dizaynni ishlab chiqish
+========
+Yangi dizaynni ishlab chiqish
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
-
-GPA (Grade Point Average) bu?
-=====
-— ta’lim oluvchining reja bo‘yicha ko’rsatkichlari 
-=====
-— ta’lim oluvchining modul bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-# — ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati
-=====
-— ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan fanlari ro’yhati
 
-+++++
-
-Ta'lim tizimining integral xarakteristikasi bo’lib, amalda erishilgan ta'lim natijalarining normativ talablarga, ijtimoiy va shaxsiy talablarga muvofiqligi darajasini aks ettiradi, bu?
-=====
-# Ta'lim sifati
-=====
-Dastlabki nazorat 
-=====
-CATS 
-=====
-Nazoratning axborot funktsiyasi 
+Android SDK tarkibiy qismi nima?
+========
+# SDK vositalari
+========
+EDK vositalari
+========
+IDK vositalari
+========
+ODK vositalari
 
 +++++
-
-Nazoratning axborot funktsiyasi bu?
-=====
-# o'rganish dinamikasini kuzatish uchun o'quv natijalarini tizimli qayd etish
-=====
-o'qitish usullariga tuzatishlar kiritish, o'quv vaqtini qayta taqsimlash, o'qitishdagi kamchiliklarni bartaraf etish
-=====
-talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-ta’lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati 
 
+Android SDK nimani anglatadi?
+========
+# Dasturiy ta'minotni ishlab chiqish to'plami
+========
+Dizaynni ishlab chiqish to'plami
+========
+Rivojlanishni qo'llab-quvvatlash to'plami
+========
+Rivojlanish dizayn to'plami
+
 +++++
 
-Talaba tomonidan tanlangan hamda unga ketma-ketlikda bilimlar to‘plash va xohlagan kompetensiyalar yig‘indisiga ega bo‘lish imkoniyatini beradigan yo‘nalish nima deb ataladi?
-=====
-# talabaning shaxsiy ta'lim trayektoriyasi
-=====
-ta'lim dasturi
-=====
-ta'lim dasturi katalogi
-=====
-ta'lim natijalari
+AVD qisqartmasi -
+========
+# Android Virtual Qurilma
+========
+Faol Virtual Qurilma
+========
+Faoliyat virtual displey
+========
+Faoliyat virtual displey
 
 +++++
 
-Nazoratning diagnostik (nazorat va tuzatuvchi) funktsiyasi bu?
-=====
-# - o'qitish usullariga tuzatishlar kiritish, o'quv vaqtini qayta taqsimlash, o'qitishdagi kamchiliklarni bartaraf etish.
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish 
+Android SDK tarkibiy qismi nima?
+========
+# SDK vositalari
+========
+NVM vositalari
+========
+IDK vositalari
+========
+NIM vositalari
 
 +++++
 
-Nazoratning o'qitish funktsiyasi bu?
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'qitish usullariga tuzatishlar kiritish, o'quv vaqtini qayta taqsimlash, o'qitishdagi kamchiliklarni bartaraf etish 
-=====
-# - o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
+Androidda xizmatlarni qanday to'xtatishimiz mumkin?
+========
+# StopSelf() va stopService() usullaridan foydalanish
+========
+finish() usuli yordamida
+========
+system.exit() usuli yordamida
+========
+Yuqoridagilardan hech qaysisi
 
 +++++
 
-Nazoratning tarbiya (motivatsion) funktsiyasi bu?
- =====
-# - o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
+Quyidagi dasturiy vositalardan qaysi biri Android uchun grafik foydalanuvchi interfeysini (GUI) loyihalashda ishlatiladi?
+========
+# Android Studio
+========
+Eclipse
+========
+Xcode
+========
+IntelliJ IDEA
 
 +++++
 
-Nazoratning attestatsiya funktsiyasi bu? 
-=====
-# - talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
-=====
-- bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish
+Android operatsion tizimi kim tomonidan yaratilgan?
+========
+# Andy Rubin
+========
+Larry Page
+========
+Sergey Brin
+========
+Sundar Pichai
 
 +++++
 
-Dastlabki nazorat turi bu?
-=====
-# - bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
+Android operatsion tizimining asosiy komponentlari qaysi?
+========
+# Faoliyat, xizmatlar, kontent provayderlari, e'lon qabul qiluvchilar
+========
+Ma'lumotlar bazalari, XML, JSON, Faoliyat
+========
+Java, Kotlin, Swift, Objective-C
+========
+Android Studio, Eclipse, IntelliJ IDEA, Xcode
 
 +++++
 
-Dastlabki joriy turi bu?
-=====
-# - (har bir darsda, har bir mavzu uchun) talabalarning materialni o'zlashtirish jarayoni haqida ma'lumot olish;
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-(tematik, bosqichli, yillik, kurs oxirida) ta’lim natijalarini aniqlash va baholash
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
+Android operatsion tizimining bir qismi bo'lgan Dalvik nima?
+========
+# Android uchun maxsus virtual mashina
+========
+Java Virtual Machine
+========
+Sun Microsystems tomonidan yaratilgan virtual mashina
+========
+Microsoft tomonidan yaratilgan virtual mashina
 
 +++++
 
-Dastlabki yakuniy turi bu?
-=====
-#– (tematik, bosqichli, yillik, kurs oxirida) ta’lim natijalarini aniqlash va baholash
-=====
-- (har bir darsda, har bir mavzu uchun) talabalarning materialni o'zlashtirish jarayoni haqida ma'lumot olish;
-=====
-- bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish;
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
+Android operatsion tizimida foydalaniladigan manifest fayli qanday formatda bo'ladi?
+========
+# XML
+========
+JSON
+========
+YAML
+========
+CSV
 
 +++++
-
-Semestr davomida o‘quv dasturining tegishli (fanning bir necha mavzularini o‘z ichiga olgan) bo‘limi tugallangandan keyin talabaning bilim va amaliy ko‘nikma darajasini aniqlash va baholash usuli qanday nazorat turi hisoblanadi?
 
-=====
-# oraliq nazorat
-=====
-mustaqil ta'lim
-=====
-yakuniy nazorat
-=====
-joriy nazorat
+Android Studio nimani anglatadi?
+========
+# Android ilovalarini ishlab chiqish uchun Google tomonidan yaratilgan IDE
+========
+Apple iOS ilovalarini ishlab chiqish uchun IDE
+========
+Microsoft Windows ilovalarini ishlab chiqish uchun IDE
+========
+Linux dasturlarini ishlab chiqish uchun IDE
 
 +++++
 
-Ta'lim oluvchining dastur bo‘yicha o‘zlashtirgan ballari o‘rtacha qiymati nima deb ataladi?
+Android Studio'da yangi loyiha yaratishda asosiy komponentlar qanday?
+========
+# Faoliyat, Fragments, View, Layout
+========
+Adapter, RecyclerView, Services, Content Providers
+========
+Database, XML, JSON, Faoliyat
+========
+Intent, Broadcast Receiver, Content Resolver, Content Provider
 
-=====
-# GPA	
-=====
-kredit	
-=====
-kredit to‘plash
-=====
- ta'lim trayektoriyasi
-
 +++++
 
-Oliy ta'lim muassasasi talabalarining muayyan vaqt mobaynida respublika hududidagi yoki chet eldagi boshqa bir oliy ta'lim muassasasiga o‘qish maqsadida borish jarayoni nima deb ataladi?
-=====
-# akademik mobillik
-=====
-mobillik dasturi
-=====
-GPA
-=====
-o‘qish yuklamasi
+Quyidagi tilardan qaysi biri Android dasturlashda ishlatilmaydi?
+========
+# Swift
+========
+Java
+========
+Kotlin
+========
+C++
 
 +++++
 
-Malaka yoki uning alohida qismlariga qo‘yilgan talablarga muvofiq erishilgan ta'lim olish natijalariga ko‘ra talaba yoki boshqa ta'lim oluvchilarga kreditlarni rasmiy taqdim etish jarayoni nima deb ataladi?
-=====
-# kreditlarni berish
-=====
-ta'lim dasturi
-=====
-o‘qish yuklamasi 
-=====
-ta'lim natijalari
+Android ilovalarini ishlab chiqishda foydalaniladigan XML fayllarining asosiy turlari qaysi?
+========
+# Tartib fayllari, Manba fayllari, Manba fayllari
+========
+Ma'lumotlar bazasi fayllari, XML fayllari, JSON fayllari
+========
+Adapter fayllari, RecyclerView fayllari, Services fayllari
+========
+Faoliyat fayllari, Fragments fayllari, View fayllari
 
 +++++
 
-Talabalarning akademik mobilligini ta'minlash maqsadida bir oliy ta'lim muassasasi ta'lim dasturi bo‘yicha olingan kreditlarni boshqa oliy ta'lim muassasasiga ko‘chirish va tan olinishi nima deb ataladi?
-=====
-# kreditlarni ko‘chirish
-=====
-kreditlarni berish
-=====
-ro‘yxatga olish xizmati
-=====
-ta'lim elementlari
+Quyidagi Android komponentlaridan qaysi biri ekranda foydalanuvchi bilan o'zaro aloqani boshqaradi?
+========
+# Faoliyat
+========
+Kontent provayderi
+========
+E'lon qabul qiluvchi
+========
+Xizmatlar
 
 +++++
 
-Talaba tomonidan o‘zlashtirilgan va baho bilan tasdiqlangan malaka darajasini aks ettiradigan, ta'lim jarayonini muvaffaqiyatli tugallagach talaba o‘zlashtirgan ko‘nikmalar va ularning amalda bajarish qobiliyatining tavsifi nima deb ataladi?
-=====
-# ta'lim natijalari
-=====
-ta'lim dasturi katalogi
-=====
- ta'lim elementlari	
-=====
- akademik mobillik
+Android operatsion tizimida 'Intent' nima?
+========
+# Foydalanuvchi niyatini aks ettiruvchi ob'ekt
+========
+XML fayl
+========
+Manba fayli
+========
+Java sinfi
 
 +++++
 
-Talaba tomonidan o‘quv faoliyatining barcha turlari - ma'ruza, amaliy maahg‘ulot, seminar, labaratoriya ishi, kurs loyihasi (ishi), amaliyot va mustaqil ishni amalga oshirish asosida kutilgan o‘quv natijalariga erishish uchun zarur bo‘lgan soatlar hajmi nima deb ataladi?
-=====
-#o‘qish yuklamasi	
-=====
-ta'lim dasturi	
-=====
-akademik mobillik
-=====
-ta'lim natijalari
+Android Studio'da loyihani qanday tuzamiz?
+========
+# 'Build' menyusidan 'Rebuild Project' yoki 'Build APK' ni tanlash orqali
+========
+'File' menyusidan 'Open Project' ni tanlash orqali
+========
+'Tulbar' menyusidan 'Run' ni tanlash orqali
+========
+'Tools' menyusidan 'Sync Project with Gradle Files' ni tanlash orqali
 
 +++++
 
-Fanlarning ishchi dasturi nima deb ataladi?
-=====
-# syllabus
-=====
-Katalog
-=====
-element 
-=====
-yuklama
+Quyidagi komponentlardan qaysi biri Androidda ma'lumotlarni saqlash uchun ishlatiladi?
+========
+# Ma'lumotlar bazasi
+========
+RecyclerView
+========
+Faoliyat
+========
+Fragments
 
 +++++
 
-Test birinchi marta qayerda, kim tomonidan qo‘llanilgan?
-=====
-Buyuk Britaniya, F.Gamelton.
-=====
-Niderlandiya, B.Bloom.
-=====
-# Buyuk Britaniyada, J.Fisher.
-=====
-Angliya, I.Leyner.
+Android operatsion tizimining arxitekturasida 'Content Providers' nima vazifasini bajaradi?
+========
+# Ilovalar o'rtasida ma'lumotlarni almashish
+========
+Ma'lumotlar bazasida ma'lumotlarni saqlash
+========
+Foydalanuvchi interfeysini boshqarish
+========
+Tizim xizmatlarini boshqarish
 
 +++++
 
-Tavsif…?
-=====
- Obyektning mohiyatini ochib berish qobiliyati.
-=====
-Olingan bilimlarni hayotda qo’llash qobiliyati.
-=====
-# O’rganish obyektlari,ularrni muhim belgilari,xususiyatlari.
-=====
-Yangi vaziyatda bilimlarni qo’llay olish xususiyati.
+Android operatsion tizimida 'Broadcast Receiver' nima?
+========
+# E'lonlarni qabul qiluvchi komponent
+========
+Foydalanuvchi interfeysini boshqaruvchi komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
 
 +++++
 
-ECTS hisob birligi?
-=====
-Ishonchga asoslangan
-=====
-Hamma joyda tanilgan
-=====
-Almashish imkoni
-=====
-# Barcha javoblar to’g’ri
+Android Studio'da loyihani qanday ishga tushiramiz?
+========
+# 'Run' menyusidan 'Run' ni tanlash orqali
+========
+'File' menyusidan 'Open Project' ni tanlash orqali
+========
+'Tulbar' menyusidan 'Sync Project with Gradle Files' ni tanlash orqali
+========
+'Tools' menyusidan 'Rebuild Project' ni tanlash orqali
 
 +++++
 
-AQSH kredit tizmi?
-=====
-UCTS
-=====
-CATS
-=====
-# USCS
-=====
-ESTC
-
-+++++
-
-USCS tizimida kreditlar, auditoryada ishlash, seminar yoki laboratoriya ishlari, kurs nomini kuzatib boradigan uchta raqam bilan aks ettiriladi:
-=====
-0.3.3
-=====
-3.0.3
-=====
-0.3.0
-=====
-# 3.3.0
-
-+++++
-
-Buyuk Britaniya universitetida bakalavr darajasini olish uchun 3yil davomida necha ingliz kreditini yeg’ish kerak?
-=====
-120
-=====
-180
-=====
-240
-=====
-# 360
-
-+++++
-
-Agar test topshirig’i matnida, uning tayanch so’zari yoki gap tushurib qoldirilgan bo’lsa bunday topshiriq…dep ataladi.
-=====
-Yopiq test
-=====
-# Ochiq test
-=====
-Standartlashtirilgan test 
-=====
-Standartlashtirilmagan test
-
-+++++
-
-Psixologik yo’nalish bo’yicha testlar qatorini belgilang?
-=====
-Prognostik, aql, muvaffaqiyat testlari
-=====
-# Temperament, aql, muvaffaqiyat testlari
-=====
-Kriteriyalarga asoslangan, aql, pragnostik testlar
-=====
-Ijodiy,muvaffaqiyat,temperament testlari
-
-+++++
-
-Blum taksonomiyasini to’g’ri tartibda belgilang?
-=====
-Bilim, Tahlil, Ko’nikma, Sintez, Qo’llash, Baho
-=====
-Bilim, Tushunish, Qo’llash, Tahlil, Sintez, Baho
-=====
-# Bilim, Sintez, Tushunish, Qo’llash, Tahlil, Baho
-=====
-Baho, Tahlil, Qo’llash, Sintez, Tushunish, Sintez 
-
-+++++
-
-UCTS…?
-=====
-AQSHning kredit tizimi
-=====
-# Osiyo-Tinch okeni mamlakatlari kredit tizimi
-=====
-Buyuk Britanyaning kredit tizimi
-=====
-Yevropa Mamlakatlarining  kreidt tizimi
-
-+++++
-
-
-Formativ baholashning asosiy maqsadi nima? 
-=====
- O'quvchilarni yakuniy imtihonga tayyorlash
-=====
-O'quvchilarni nazorat qilish
-=====
-# O'quvchilarning o'rganish jarayonida qayerda ekanligini aniqlash va ularga yordam berish
-=====
-O'quvchilarni saralash
-
-+++++
-
-AFL (Assessment for Learning) nima? 
-=====
- O'quvchilarni imtihonlardan o'tkazish
-=====
-O'quvchilarni rag'batlantirish uchun mukofotlash
-=====
-# O'quvchilarning o'rganish jarayonida doimiy baholab borish
-=====
-O'quvchilarga dars rejasini tarqatish
-Formativ baholashda o'qituvchilarning roli nima?
-=====
-O'quvchilarga faqat yakuniy baho qo'yish
-=====
-O'quvchilarga qo'shimcha vazifalar berish
-=====
-# c. O'quvchilarga o'rganish jarayonida fikr-mulohazalar berish va yordam ko'rsatish
-=====
-O'quvchilarga o'quv materiallarini tarqatish
+Quyidagi komponentlardan qaysi biri Androidda tarmoq operatsiyalarini bajarish uchun ishlatiladi?
+========
+# AsyncTask
+========
+RecyclerView
+========
+Faoliyat
+========
+Fragments
 
 +++++
-
-AFL metodologiyasida o'qituvchilar qaysi strategiyani qo'llaydilar?
-=====
-O'quvchilarni uy vazifalari bilan sinash
-=====
- O'quvchilarga yozma ishlar berish
-=====
-# O'quvchilarni o'rganish jarayonida rag'batlantirish va ularga doimiy fikr-mulohazalar berish
-=====
-O'quvchilarga test sinovlari o'tkazish
 
-+++++
-
-Formativ baholash qachon o'tkaziladi?
-=====
-O'quv yilining oxirida
-=====
-Har chorakda
-=====
- O'quv yilining boshida
-=====
-# O'quv jarayonining har qanday vaqti davomida
+Android ilovalarida 'Fragments' nima?
+========
+# Faoliyat ichida ishlatiladigan foydalanuvchi interfeysi komponenti
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
 
 +++++
-
-AFL qanday o'rganish usulini qo'llab-quvvatlaydi? 
-=====
- Reproduktiv o'rganish
-=====
-Yodlash orqali o'rganish
-=====
-# Reflektiv va analitik o'rganish
-=====
-Faol o'rganish
 
-+++++
-
-O'qituvchilar formativ baholash natijalarini qanday qo'llaydilar?
-=====
-O'quvchilarni tanlash uchun
-=====
-# O'quvchilarning kamchiliklarini aniqlash va ularni bartaraf etish uchun
-=====
-O'quvchilarni baholash uchun
-=====
-O'quvchilarga qo'shimcha topshiriqlar berish uchun
+Android ilovalarida 'RecyclerView' nima?
+========
+# Ma'lumotlar ro'yxatini ko'rsatish uchun ishlatiladigan komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
 
 +++++
-
-AFL metodologiyasida o'quvchilar nima qiladi?
-=====
-Faqat o'qituvchi beradigan materiallarni o'qiydi
-=====
-# O'zlarining o'qish maqsadlarini aniqlaydi va ularga erishish yo'llarini izlaydi
-=====
-O'qituvchining barcha ko'rsatmalarini bajaradi
-=====
-Faqat test sinovlariga tayyorlanadi
 
-+++++
-
-Formativ baholash qanday o'quvchilarni rag'batlantiradi?
-=====
-# Faol va mustaqil o'rganishni
-=====
-Faol bo'lmagan o'rganishni
-=====
-Yodlash orqali o'rganishni
-=====
-Passiv o'rganishni
+Android ilovalarida 'Intent' nima vazifasini bajaradi?
+========
+# Foydalanuvchi niyatini aks ettiruvchi ob'ekt
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Foydalanuvchi interfeysini boshqaruvchi komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
 
 +++++
-
-AFL metodologiyasi qaysi kompetensiyalarni rivojlantiradi?
-=====
-Faqat akademik bilimlarni
-=====
-Faoliyat ko'nikmalarini
-=====
-# Analitik va reflektiv ko'nikmalarni
-=====
-Texnik ko'nikmalarni
 
-+++++
-
-Pedagogik test nima?
-=====
-# O'quvchilarning bilim va ko'nikmalarini baholash uchun tuzilgan savollar to'plami.  
-=====
-O'qituvchilarning ish faoliyatini baholash uchun tuzilgan savollar to'plami.  
-=====
- O'quv dasturining muvaffaqiyatini baholash uchun tuzilgan savollar to'plami.  
-=====
-Har qanday o'qituvchining ishini baholash uchun tuzilgan savollar to'plami.  
-
-+++++
-
-Test mezonlari nima?
-=====
-Test natijalarini baholash uchun belgilangan ko'rsatkichlar.  
-=====
-# Test tuzishda qo'llaniladigan qoidalar.  
-=====
-O'quvchilarning javoblari uchun belgilangan vaqt.  
-=====
-O'quvchilarning test natijalari bo'yicha qayta o'qitish usullari.  
-
-+++++
-
- Quyidagi qaysi biri pedagogik testning asosiy xususiyatlaridan biri hisoblanadi?
-=====
- Testning qiyinligi.  
-=====
- Testning qiziqarli bo'lishi.  
-=====
-# Testning ob'ektivligi.  
-=====
- Testning qisqaligi.  
-
-+++++
-
-Testning validligi nimani bildiradi?
-=====
-Testning aniqligi.  
-=====
-Testning qiyinligi.  
-=====
-# Testning tegishli bilim va ko'nikmalarni o'lchash qobiliyati.  
-=====
-Testning qisqa bo'lishi.  
-
-+++++
-
- Testning ishonchliligi nimani anglatadi?
-=====
-# Testning doimiy va barqaror natijalar berish qobiliyati.  
-=====
-Testning qiziqarli bo'lishi.  
-=====
-Test savollarining ko'pligi.  
-=====
-Test natijalarining aniq bo'lishi.  
-
-+++++
-
-Pedagogik test savollarining turli turlari nimaga xizmat qiladi?
-=====
-Testni yanada murakkab qilish uchun.  
-=====
-# O'quvchilarning har xil bilim va ko'nikmalarini baholash uchun.  
-=====
-O'qituvchilarning ishini baholash uchun.  
-=====
-Testni qisqa qilish uchun.  
-
-+++++
-
-Test savollarining qiyinlik darajasini qanday aniqlash mumkin?
-=====
-O'qituvchining fikri bilan.  
-=====
-O'quvchilarning javob berish tezligi bilan.  
-=====
-#Test sinov natijalari tahlili bilan.  
-=====
-Savollar soni bilan.  
-
-+++++
-
-Test natijalarini baholashda qanday mezonlar qo'llaniladi?
-=====
-Foydalanilgan testning qiyinlik darajasi.  
-=====
-O'quvchining javoblari soni.  
-=====
-# Belgilangan baholash mezonlari.  
-=====
-O'qituvchining fikri.  
-
-+++++
-
-Pedagogik testlarda savollarni qanday taqsimlash tavsiya etiladi?
-=====
-Faqat qiyin savollarni berish.  
-=====
-Faqat oson savollarni berish.  
-=====
-# Oson, o'rta va qiyin savollarni aralash berish.  
-=====
-O'rta savollarni ko'proq berish.
-
-+++++
-Didaktika so’zi kim tomondan va qachon kiritildi?
-=====
-# 1613 yili Germaniyada nemis pedagogi Volfgang Ratke tomonidan
-=====
-1163 yili Angliyada nemis pedagogi Volfgang Ratke tomonidan
-=====
-1136 yili Germaniyada nemis pedagogi Vanniner Bush tomonidan
-=====
-1316 yili Germaniyada nemis pedagogi Charlz Eliot tomonidan
-
-+++++
-
-Baholash funksiyalari bu?
-=====
-# o'qitish, tarbiyaviy, yo'naltirish, rag'batlantiruvchi, diagnostika, nazorat va baholash
-=====
-o'qitish, tarbiyaviy, rag'batlantiruvchi, diagnostika, nazorat va baholash
-=====
-o'qitish, rag'batlantiruvchi, diagnostika, nazorat va baholash
-=====
-rag'batlantiruvchi, diagnostika, nazorat va baholash
-
-+++++
-
-Baholashning o'qitish funktsiyasi  bu?
-=====
-# bu baholash funktsiyasi mavjud bilim va tayyorgarlik darajalarini ro'yxatdan o'tkazishni emas, balki bilimlar hajmini, ularni qo'llashda ko'nikma va tajriba sifatini qo'shish va kengaytirishni o'z ichiga oladi
-=====
-tarbiyaviy vazifalarga tizimli va vijdonan munosabatda bo'lish ko'nikmalarini shakllantirish
-=====
-talabaning aqliy ishiga ta'sir qilish, uni ushbu ish jarayonidan xabardor qilish va o'z bilimi va tajribasini  tushunish
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiradi 
-
-+++++
-
-Baholashning tarbiyaviy funktsiyasi bu?
-=====
-# tarbiyaviy vazifalarga tizimli va vijdonan munosabatda bo'lish ko'nikmalarini shakllantirish
-=====
-talabaning aqliy ishiga ta'sir qilish, uni ushbu ish jarayonidan xabardor qilish va o'z bilimi va tajribasini  tushunish
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiradi 
-=====
-voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega
-
-+++++
-
-Baholashning yo'naltirish funksiyasi?
-=====
-# talabaning aqliy ishiga ta'sir qilish, uni ushbu ish jarayonidan xabardor qilish va o'z bilimi va tajribasini  tushunish
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiradi 
-=====
-tarbiyaviy vazifalarga tizimli va vijdonan munosabatda bo'lish ko'nikmalarini shakllantirish 
-=====
-voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega
-
-+++++
-
-…  har bir o'quvchining individual yutuqlarini aniqlashga qaratilgan bo'lib, u turli talabalar tomonidan ko'rsatilgan natijalarni taqqoslashni yoki ta'lim natijalari bo'yicha ma'muriy xulosalarni o'z ichiga olmaydi, bu?
-=====
-# Formativ (ichki) baholash
-=====
-Summativ baholash
-=====
-Taksonomiya 
-=====
-Kredit 
-
-+++++
-
-B.Blum va D.Kratvollar ta'lim maqsadlarini qanday yo'nalishga ajratdilar?
-=====
-Kognitiv, pozitiv va affektiv 
-=====
-# Kognitiv, psixomotor va affektiv 
-=====
-Kognitiv, jismoniy va affektiv 
-=====
-Kognitiv, ruhiy va jismoniy 
-
-+++++
-
-Anderson va Krathwohl tomonidan qayta ko'rib chiqilgan Blum taksonomiyasini belgilang
-=====
-# Eslab qolish, Tushunish, Qo'llash, Tahlil qilish, Baholash, Yaratish
-=====
-Bilim, Tushunish, Qo'llash, Tahlil, Sintez, Baho 
-=====
-Anglash, Tushunish, Qo'llash, Tahlil qilish, Yaratish 
-=====
-Tushunish, Qo'llash, Eslab qolish, Tahlil qilish, Baholash
-
-+++++
-
-Bu o'rganilgan materialni yodlash va takrorlashdan tortib muammolarni hal qilishgacha bo'lgan maqsadlarni o'z ichiga oladi, bunda mavjud bilimlarni qayta ko'rib chiqish, ularning ilgari o'rganilgan g'oyalar, usullar, protseduralar (harakat usullari) bilan yangi birikmalarini yaratish bu?
-=====
-# Taksonomiyaning kognitiv sohasi
-=====
-Taksonomiyaning affektiv (emotsional-qiymat) sohasi
-=====
-Taksonomiyaning psixomotor sohasi 
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-
-+++++
-
-Oddiy idrok va qiziqishdan tortib, qadriyatlar yo'nalishlari va munosabatlarini o'zlashtirish, ularning faol namoyon bo'lishigacha bo'lgan atrofdagi dunyo hodisalariga hissiy va shaxsiy munosabatni shakllantirish maqsadlarini o'z ichiga oluvchi soha? 
-=====
-# Taksonomiyaning affektiv (emotsional-qiymat) sohasi
-=====
-Taksonomiyaning kognitiv sohasi
-=====
-Taksonomiyaning psixomotor sohasi 
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-
-+++++
-
-Ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiruvchi soha? 
-=====
-# Taksonomiyaning psixomotor sohasi 
-=====
-Taksonomiyaning affektiv (emotsional-qiymat) sohasi
-=====
-Taksonomiyaning kognitiv sohasi
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-
-+++++
-\
-“O‘zbekiston Respublikasi oliy ta’lim tizimini 2030-yilgacha rivojlantirish konsepsiyasini tasdiqlash to‘g‘risida”gi farmon qachon qabul qilingan 
-=====
-# 2019-yil 8-oktabr 
-=====
-2018-yil 8-oktabr
-=====
-2017-yil 9-oktabr
-=====
-2019-yil 7-oktabr
-
-+++++
-
-Pedagogik testni tuzishda qanday mezonlar hisobga olinadi?
-=====
-O'qituvchining tajribasi va malakasi.  
-=====
-O'quvchilarning qobiliyati va bilim darajasi.  
-=====
-Testning maqsadi va mazmuni.  
-=====
-# Yuqoridagilarning barchasi.  
-
-+++++
-
-Kredit — bu?
-=====
-# talabaning me’yoriy hujjat bilan belgilangan, odatda bir hafta davomida auditoriyada va mustaqil ravishda ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir.
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
-
-+++++
-
-Umumiy o‘rta ta’limning tayanch o‘quv rejasi?
-=====
-tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-# umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-
-+++++
-
-Umumiy o‘rta ta’limning o‘quv dasturi bu?
-=====
-# tayanch o‘quv rejaga muvofiq o‘quv fanlarining sinflar va mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalari belgilangan hujjat
-=====
-davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmui
-=====
-umumiy o‘rta ta’lim muassasalarida o‘qitiladigan o‘quv fanlari nomi, o‘quv yuklamasining minimal hajmi hamda ularning sinflar bo‘yicha taqsimoti belgilangan hujjat
-=====
-o‘quv fanlarining mavzular bo‘yicha hajmi, mazmuni, o‘rganish ketma-ketligi va shakllantiriladigan kompetensiyalar
-
-+++++
-
-Didaktika so’zi?
-=====
-yunoncha didaktikos “o’rganuvchi”,  didasko esa – “o’rgatuvchi” ma’nosini bildiradi
-=====
-lotincha didaktikos “o’rgatuvchi”, didasko esa – “o’rganuvchi” ma’nosini bildiradi
-=====
-# yunoncha didaktikos “o’rgatuvchi”, didasko esa – “o’rganuvchi” ma’nosini bildiradi
-=====
-yunoncha didaktikos “yetaklovchi”,  didasko esa – “ergashtiruvchi” ma’nosini bildiradi
-
-+++++
-
-Maktab o'quv dasturi nimalar asosida tuziladi?
-=====
-# Bazis va tipik(namunaviy) rejalar 
-=====
-Ishchi va o’quv dasturlar
-=====
-Darslik va o’quv qo’llanmalar
-=====
-Asosiy va qo’shimcha materiallar
-
-+++++
-
-Bolonya tizimi bo‘yicha oliy malakali kadrlarni tayyorlash qanday bosqichlarda amalga oshiriladi?
-=====
-to’rt yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 2 yillik magistratura
-=====
-uch yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 1 yillik magistratura
-=====
-# uch yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 1-2 yillik magistratura
-=====
-besh yildan kam bo‘lmagan bakalavrlar tayyorlash hamda 3 yillik magistrature
-
-+++++
-
-Kredit bu?
-=====
-# — talabaning me’yoriy hujjat bilan belgilangan, odatda bir hafta davomida auditoriyada va mustaqil ravishda ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir
-=====
-— talabaning me’yoriy hujjat bilan belgilangan mustaqil ravishda ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir
-=====
-— talabaning odatda bir hafta davomida auditoriyada ta’lim olishi uchun ajratilgan minimal vaqt o‘lchovidir
-=====
-— talabaning odatda bir hafta davomida mustaqil ravishda ta’lim olishi uchun ajratilgan maksimal vaqt o‘lchovidir
-
-+++++
-
-ECTS tizimi bo‘yicha talabalarning bir yilda to‘plashi lozim bo‘lgan kredit miqdori qanchani tashkil etadi?
-=====
-# 60
-=====
-30
-=====
-120
-=====
-90
-
-+++++
-
-CATS bu?
-=====
-— kredit yig‘ish va almashish sxemasi/tizimi kredit-modul tizimiga asoslangan bo‘lib, uning maqsadi ko‘plab muayyan miqdordagi kreditlarni belgilash orqali ularni tartibga solish va birlashtirishdan iborat
-=====
-— kredit yig‘ish va almashish sxemasi/tizimi uning maqsadi ko‘plab malaka sertifikatlari tizimining har bir turiga muayyan miqdordagi kreditlarni belgilash orqali ularni tartibga solishdan iborat
-=====
-# — kredit yig‘ish va almashish sxemasi/tizimi kredit-modul tizimiga asoslangan bo‘lib, uning maqsadi ko‘plab malaka sertifikatlari tizimining har bir turiga muayyan miqdordagi kreditlarni belgilash orqali ularni tartibga solish va birlashtirishdan iborat
-
-+++++
-
-CATS bu?
-=====
-Shotlandiya malaka ramkasi
-=====
-Osiyo-Tinch okeani mintaqasi uchun universitet kreditlarini uzatish tizimi
-=====
-# Buyuk britaniyaning kredit tizimi
-===== 
-AQSh kredit tizimi
-
-+++++
-
-Britaniya universitetida bakalavr darajasini olish uchun …
-=====
-4 yil ta’lim olish hamda 240 ingliz kreditlarini yig‘ish talab etiladi. 
-=====
-# 3 yil ta’lim olish hamda 360 ingliz kreditlarini yig‘ish talab etiladi.
-=====
-5 yil ta’lim olish hamda 420 ingliz kreditlarini yig‘ish talab etiladi.
-=====
-2 yil ta’lim olish hamda 420 ingliz kreditlarini yig‘ish talab etiladi.
-
-+++++
-
-Nazoratning o'qitish funktsiyasi bu?
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'qitish usullariga tuzatishlar kiritish, o'quv vaqtini qayta taqsimlash, o'qitishdagi kamchiliklarni bartaraf etish 
-=====
-# - o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
-
-+++++
-
-Nazoratning tarbiya (motivatsion) funktsiyasi bu?
- =====
-# - o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
-
-+++++
-
-Nazoratning attestatsiya funktsiyasi bu? 
-=====
-# - talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
-=====
-- bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish
-
-+++++
-
-Dastlabki nazorat turi bu?
-=====
-# - bilim va ko'nikmalarning boshlang'ich darajasini belgilash va uni yangi material bilan tanishtirishda hisobga olish
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-- o'rganishni rag'batlantirish, o'zini o'zi boshqarish va o'zini o'zi qadrlashni rivojlantirish
-=====
-- o'quvchilarning bilim va ko'nikmalarini birlashtirish va tizimlashtirish
-
-+++++
-
-Dastlabki joriy turi bu?
-=====
-# - (har bir darsda, har bir mavzu uchun) talabalarning materialni o'zlashtirish jarayoni haqida ma'lumot olish;
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-=====
-(tematik, bosqichli, yillik, kurs oxirida) ta’lim natijalarini aniqlash va baholash
-=====
-- talabalarni, o'qituvchilar va maktablarning ish sifatini sertifikatlash uchun asos
-
-+++++
-
-Talaba tomonidan o‘zlashtirilgan va baho bilan tasdiqlangan malaka darajasini aks ettiradigan, ta'lim jarayonini muvaffaqiyatli tugallagach talaba o‘zlashtirgan ko‘nikmalar va ularning amalda bajarish qobiliyatining tavsifi nima deb ataladi?
-=====
-# ta'lim natijalari
-=====
-ta'lim dasturi katalogi
-=====
- ta'lim elementlari	
-=====
- akademik mobillik
-
-+++++
-
-Talaba tomonidan o‘quv faoliyatining barcha turlari - ma'ruza, amaliy maahg‘ulot, seminar, labaratoriya ishi, kurs loyihasi (ishi), amaliyot va mustaqil ishni amalga oshirish asosida kutilgan o‘quv natijalariga erishish uchun zarur bo‘lgan soatlar hajmi nima deb ataladi?
-=====
-#o‘qish yuklamasi	
-=====
-ta'lim dasturi	
-=====
-akademik mobillik
-=====
-ta'lim natijalari
-
-+++++
-
-Fanlarning ishchi dasturi nima deb ataladi?
-=====
-# syllabus
-=====
-Katalog
-=====
-element 
-=====
-yuklama
-
-+++++
-
-Test birinchi marta qayerda, kim tomonidan qo‘llanilgan?
-=====
-Buyuk Britaniya, F.Gamelton.
-=====
-Niderlandiya, B.Bloom.
-=====
-# Buyuk Britaniyada, J.Fisher.
-=====
-Angliya, I.Leyner.
-
-+++++
-
-Tavsif…?
-=====
- Obyektning mohiyatini ochib berish qobiliyati.
-=====
-Olingan bilimlarni hayotda qo’llash qobiliyati.
-=====
-# O’rganish obyektlari,ularrni muhim belgilari,xususiyatlari.
-=====
-Yangi vaziyatda bilimlarni qo’llay olish xususiyati.
-
-+++++
-
-ECTS hisob birligi?
-=====
-Ishonchga asoslangan
-=====
-Hamma joyda tanilgan
-=====
-Almashish imkoni
-=====
-# Barcha javoblar to’g’ri
-
-+++++
-
-AQSH kredit tizmi?
-=====
-UCTS
-=====
-CATS
-=====
-# USCS
-=====
-ESTC
-
-+++++
-
-USCS tizimida kreditlar, auditoryada ishlash, seminar yoki laboratoriya ishlari, kurs nomini kuzatib boradigan uchta raqam bilan aks ettiriladi:
-=====
-0.3.3
-=====
-3.0.3
-=====
-0.3.0
-=====
-# 3.3.0
-
-+++++
-
-Buyuk Britaniya universitetida bakalavr darajasini olish uchun 3yil davomida necha ingliz kreditini yeg’ish kerak?
-=====
-120
-=====
-180
-=====
-240
-=====
-# 360
-
-+++++
-
-Agar test topshirig’i matnida, uning tayanch so’zari yoki gap tushurib qoldirilgan bo’lsa bunday topshiriq…dep ataladi.
-=====
-Yopiq test
-=====
-# Ochiq test
-=====
-Standartlashtirilgan test 
-=====
-Standartlashtirilmagan test
-
-+++++
-
-Ko‘nikma — bu?
-=====
-# o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish;
-=====
-o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash 
-
-+++++
-
-Malaka — bu?
-=====
-# o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
-=====
-o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash
- 
-+++++
-
-Kompetensiya — bu?
-=====
-# mavjud bilim, ko‘nikma va malakalarni kundalik faoliyatda qo‘llay olish qobiliyati. 
-=====
-o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
-
-+++++
-
-…. davlat ta’lim standarti bo‘yicha umumiy o‘rta ta’limning malaka talablarini o‘quvchilar tomonidan o‘zlashtirilishi darajasini hamda umumiy o‘rta ta’lim muassasasining faoliyati samaradorligini aniqlaydigan mezonlar majmuidan iborat — bu?
-=====
-# Baholash tizimi 
-=====
-Ta’lim qoidalari 
-=====
-Qonuniyat
-=====
-O'quv rejasi 
-
-+++++
-
-Tadqiqotchilar mavjud didaktik kontseptsiya (tizim)larni umumlashtirib  guruhlarga ajratadilar. Ro’yhatda ortiqcha variantni belgilang
-=====
-an’anaviy;
-=====
-progressiv;
-=====
-zamonaviy
-=====
-# affektiv
-
-+++++
-
-Ta’lim shakllari metodlari, usullari, vositalari, ta’lim jarayoni ishtirokchilarining faoliyat mazmuniga qo’yiladigan talablarni anglatuvchi dastlabki qoidalar tushuniladi– bu?
-=====
-# Ta’lim tamoyillari
-=====
-Ta’lim qoidalari 
-=====
-Qonuniyat
-=====
-O'quv rejasi 
-
-+++++
-
-… bu barqaror, zaruriy, u yoki bu xodisalar va jarayonlar o’rtasidagi mutanosiblik va muhim aloqa ?
-=====
-# Qonuniyat
-=====
-O'quv rejasi 
-=====
-Baholash 
-=====
-Ta’lim qoidalari
-
-+++++
-
-Baholashning yo'naltirish funksiyasi?
-=====
-# talabaning aqliy ishiga ta'sir qilish, uni ushbu ish jarayonidan xabardor qilish va o'z bilimi va tajribasini  tushunish
-=====
-ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiradi 
-=====
-tarbiyaviy vazifalarga tizimli va vijdonan munosabatda bo'lish ko'nikmalarini shakllantirish 
-=====
-voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega
-
-+++++
-
-…  har bir o'quvchining individual yutuqlarini aniqlashga qaratilgan bo'lib, u turli talabalar tomonidan ko'rsatilgan natijalarni taqqoslashni yoki ta'lim natijalari bo'yicha ma'muriy xulosalarni o'z ichiga olmaydi, bu?
-=====
-# Formativ (ichki) baholash
-=====
-Summativ baholash
-=====
-Taksonomiya 
-=====
-Kredit 
-
-+++++
-
-Formativ baholash – bu? 
-=====
-# sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir.
-=====
-chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi 
-=====
-voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega 
-=====
-o‘simliklar tasnifini ishlab chiqqan shveytsariyalik botanik O.Dekandol tomonidan taklif qilingan
-
-+++++
-
-Chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi – bu?
-=====
-# Summativ baholash
-=====
-Formativ (ichki) baholash
-=====
-Taksonomiya 
-=====
-Kredit 
-
-+++++
-
-Taksonomiya (yunoncha taxis - tartibga solish, tuzilish, tartib va nomos - qonun) - =====
-# voqelikning murakkab tashkil etilgan sohalarini tasniflash va tizimlashtirish nazariyasi bo'lib, odatda ierarxik tuzilishga ega
-=====
-chorak/semestr oxirida (fanga qarab) ballarni kiritish orqali ifodalanadigan baholash turi 
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir 
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-
-+++++
-
-“Kredit soati” tushunchasini kim iste’molga kiritgan?
-=====
-Anderson&Krathwohl
-=====
-Benjamin Blum
-=====
-V.P. Bespalko
-=====
-#Charlz Uilyam Eliot
-
-+++++
-
-Oddiy idrok va qiziqishdan tortib, qadriyatlar yo'nalishlari va munosabatlarini o'zlashtirish, ularning faol namoyon bo'lishigacha bo'lgan atrofdagi dunyo hodisalariga hissiy va shaxsiy munosabatni shakllantirish maqsadlarini o'z ichiga oluvchi soha? 
-=====
-# Taksonomiyaning affektiv (emotsional-qiymat) sohasi
-=====
-Taksonomiyaning kognitiv sohasi
-=====
-Taksonomiyaning psixomotor sohasi 
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-
-+++++
-
-Ma'lum turdagi vosita (motor), manipulyativ faoliyat va nerv-mushaklarni muvofiqlashtirishni shakllantirish bilan bog'liq maqsadlar kiruvchi soha? 
-=====
-# Taksonomiyaning psixomotor sohasi 
-=====
-Taksonomiyaning affektiv (emotsional-qiymat) sohasi
-=====
-Taksonomiyaning kognitiv sohasi
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-
-+++++
-\
-“O‘zbekiston Respublikasi oliy ta’lim tizimini 2030-yilgacha rivojlantirish konsepsiyasini tasdiqlash to‘g‘risida”gi farmon qachon qabul qilingan 
-=====
-# 2019-yil 8-oktabr 
-=====
-2018-yil 8-oktabr
-=====
-2017-yil 9-oktabr
-=====
-2019-yil 7-oktabr
-
-+++++
-
-Kredit-modul tizimi, bu — ?
-=====
-# ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi
-=====
-sinfdagi kundalik ish jarayonida amalga oshiriladigan, o'quvchilar faoliyatining joriy ko'rsatkichi bo'lib, mashg'ulot jarayonida talaba va o'qituvchi o'rtasidagi operativ munosabatlarni ta'minlaydigan baholash turidir
-=====
-ta’limni tashkil etish jarayoni bo‘lib, o‘qitishning modul texnologiyalari jamlamasi va kredit o‘lchovi asosida baholash modeli hisoblanadi 
-=====
-oddiy idrok va qiziqishdan tortib, qadriyatlar yo'nalishlari va munosabatlarini o'zlashtirish, ularning faol namoyon bo'lishigacha bo'lgan atrofdagi dunyo hodisalariga hissiy va shaxsiy munosabatni shakllantirish maqsadlarini o'z ichiga oluvchi soha
-
-+++++
-
-Kredit-modul tamoyilida qanday asosiy masalalarga ahamiyat beriladi?
-=====
-# talabalarning mustaqil ishlashini ta’minlash va talabalar bilimini reyting asosida baholash
-=====
-talabalarning tizimli ishlashini ta’minlash va talabalar bilimini baholash
-=====
-talabalarning hamkorlikda ishlashini ta’minlash va bilimini kreditlar asosida baholash
-=====
-talabalarning loyihalar asosida ishlashini ta’minlash va bilimini modul asosida baholash
-
-+++++
-
-Didaktikaning vazifalari quyida keltirilgan. Qaysi javob ortiqcha?
-=====
-# pedagogik fan bo’lib, u tarbiya jihatlarini o’rganadi
-=====
-- ta’lim jarayonlari va ularni amalga oshiri shartlarini ta’riflash va tushuntirish;
-=====
-- ta’lim jarayonini yanada mukammal tashkil etish, ya’ni, ta’lim tizimlari va texnologiyalarini ishlab chiqish;
-=====
-- ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash.
-
-+++++
-
-Bilim — bu?
-=====
-# o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash 
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
-
-+++++
-
-Ko‘nikma — bu?
-=====
-# o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish;
-=====
-o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash 
-
-+++++
-
-Malaka — bu?
-=====
-# o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
-=====
-o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-ta’lim jarayoni uchun xos bo’lgan umumiy qonuniyatlarni aniqlash, omillarini tahlil qilish va ta’riflash
- 
-+++++
-
-Kompetensiya — bu?
-=====
-# mavjud bilim, ko‘nikma va malakalarni kundalik faoliyatda qo‘llay olish qobiliyati. 
-=====
-o‘rganilgan ma’lumotlarni eslab qolish va qayta tushuntirib berish 
-=====
-o‘rganilgan bilimlarni tanish vaziyatlarda qo‘llay olish 
-=====
-o‘rganilgan bilim va shakllangan ko‘nikmalarni notanish vaziyatlarda qo‘llay olish hamda yangi bilimlar hosil qilish
+Android ilovalarida 'Activity' nima vazifasini bajaradi?
+========
+# Foydalanuvchi interfeysini boshqaruvchi komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
+
++++++
+
+Android ilovalarida 'Service' nima vazifasini bajaradi?
+========
+# Tizim xizmatlarini boshqarish uchun komponent
+========
+Foydalanuvchi interfeysini boshqaruvchi komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+
++++++
+
+Android ilovalarida 'Broadcast Receiver' nima vazifasini bajaradi?
+========
+# E'lonlarni qabul qiluvchi komponent
+========
+Foydalanuvchi interfeysini boshqaruvchi komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
+
++++++
+
+Android ilovalarida 'Content Provider' nima vazifasini bajaradi?
+========
+# Ilovalar o'rtasida ma'lumotlarni almashish
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Foydalanuvchi interfeysini boshqaruvchi komponent
+========
+Tizim xizmatlarini boshqarish
+
++++++
+
+Android ilovalarida 'View' nima vazifasini bajaradi?
+========
+# Foydalanuvchi interfeysini ko'rsatish uchun komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
+
++++++
+
+Android ilovalarida 'Layout' nima vazifasini bajaradi?
+========
+# Foydalanuvchi interfeysini tartibga solish
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
+
++++++
+
+Android ilovalarida 'Adapter' nima vazifasini bajaradi?
+========
+# Ma'lumotlarni View komponentlariga bog'lash
+========
+Foydalanuvchi interfeysini boshqaruvchi komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+
++++++
+
+Android ilovalarida 'Fragment' nima vazifasini bajaradi?
+========
+# Faoliyat ichida ishlatiladigan foydalanuvchi interfeysi komponenti
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
+
++++++
+
+Android ilovalarida 'RecyclerView' nima vazifasini bajaradi?
+========
+# Ma'lumotlar ro'yxatini ko'rsatish uchun ishlatiladigan komponent
+========
+Ma'lumotlarni saqlash uchun komponent
+========
+Tarmoq operatsiyalarini bajarish uchun komponent
+========
+Ilovalar o'rtasida ma'lumotlarni almashish uchun komponent
