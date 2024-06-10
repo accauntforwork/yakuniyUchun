@@ -1,2213 +1,1341 @@
-viewBinding true - ushbu metodni vazifasi nima
-======#Ko'rishni ulash modul bo'yicha ko`rinishni yoqish.
-======Servicelarni ulashni yoqish
-======faoliyatlarni MBga ulashni yoqish
-======hech qanday vazifa bajarmaydi
-+++++
-Quyidagi Android qurilmalaridan qaysi biri litsenziyalangan?
-======#Apache/MIT
-======OSS
-======Sourceforge
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagi Android qaysi biri uchun asosan ishlab chiqilgan?
-======#Mobil qurilmalar
-======Serverlar
-======Ish stollari
-======Noutbuklar
-+++++
-Quyidagilardan qaysi biri Android operatsion tizimida ishlaydigan birinchi mobil telefon hisoblanadi?Java Catch-ni sinab ko'ring
-======#T - Mobil G1
-======HTC qahramoni
-======Google gPhone
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagi virtual mashinalardan qaysi biri Android operatsion tizimi tomonidan qo'llaniladi?
-======#Dalvik virtual mashinasi
-======JVM
-======Oddiy virtual mashina
-======Yuqoridagilardan hech qaysisi
-+++++
-Android quyidagi tillarning qaysi biriga asoslangan?
-======#Java
-======C++
-======C
-======Yuqoridagilardan hech qaysisi
-+++++
-APK qisqartmasi -
-======#Android paketlar to'plami
-======Android telefonlar to'plami
-======Android sahifalar to'plami
-======Yuqoridagilardan hech qaysisi
-+++++
-API nimani anglatadi?
-======#Ilova dasturlash interfeysi
-======Android dasturlash interfeysi
-======Android sahifa interfeysi
-======Ilova sahifasi interfeysi
- 
-Quyidagilardan qaysi biri Java bayt kodini Dalvik bayt kodiga aylantiradi?
-======#Dex kompilyator
-======Dalvik konvertori
-======Mobil sharhlovchi kompilyator (MIC)
-======Yuqoridagilardan hech qaysisi
-+++++
-Androidda xizmatlarni qanday to'xtatishimiz mumkin?
-======#StopSelf() va stopService() usullaridan foydalangan holda
-======Finish() usuli yordamida
-======system.exit() usuli yordamida
-======Yuqoridagilardan hech qaysisi
-+++++
-Androidda faoliyat nima?
-======#Java kodini qo'llab-quvvatlaydigan ilovada bitta ekran
-======android sinfi
-======android to'plami
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagi yadrolardan qaysi biri Androidda qo'llaniladi?
-======#Linux
-======MAC
-======Windows
-======Redhat
-+++++
-Quyidagilardan qaysi biri faoliyatning hayot tsikli davomida tizim tomonidan chaqiriladigan birinchi qayta qo'ng'iroq qilish usuli hisoblanadi?
-======#onCreate() usuli
-======onClick() usuli
-======onStart() usuli
-======onRestart() usuli
-+++++
-Quyidagilardan qaysi biri faoliyatning hayotiy siklini qayta chaqirish usuli emas?
-======#onBackPressed() usuli
-======onClick() usuli
-======onCreate() usuli
-======onStart() usuli
-+++++
-Emulator yaratish uchun bizga AVD kerak. AVD nimani anglatadi?
-======#Android Virtual qurilma
-======Android virtual displey
-======Faol virtual displey
-======Faol virtual qurilma
-+++++
-Android javadan boshqa tillarni qo'llab-quvvatlaydimi?
-======#Ha
-======Yo'q
-======Balki
-======Aytish mumkin emas
-+++++
- 
-Androidda kontent provayderidan qanday foydalanish kerak?
-======#Ilovadan boshqa ilovaga ma'lumotlarni yuborish uchun
-======Ma'lumotlar bazasida ma'lumotlarni saqlash uchun
-======Ilovalar o'rtasida ma'lumotlarni almashish uchun
-======Yuqoridagilardan hech qaysisi
-+++++
-AAPT qisqartmasi -
-======#Android Asset Packaging Tool
-======Android Activity Packaging Tool
-======Android Action Packaging Tool
-======Yuqoridagilardan hech qaysisi
-+++++
-NDK - degan ma'noni anglatadi
-======#Native Development Kit
-======Yangi rivojlanish to'plami
-======Mahalliy dizayn to'plami
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagilardan qaysi biri src papkasida joylashgan?
-======#Java manba kodi
-======XML
-======Manifest
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagi usullardan qaysi biri tugmani bosgandan keyin sodir bo'lishini boshqarish uchun ishlatiladi?
-======#onClick
-======onCreate
-======onSelect
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagi android komponentlaridan qaysi biri ekranda faoliyat qismini aks ettiradi?
-======#Fragment
-======Ko'rinish
-======Manifest
-======Niyat
-+++++
-Quyidagilardan qaysi biri Faoliyatning asosiy sinfidir?
-======#contextThemeWrapper
-======kontekst
-======obyekt
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagilardan qaysi biri xizmatning asosiy toifasi hisoblanadi?
-======#contextWrapper
-======kontekst
-======obyekt
-======contextThemeWrapper
-+++++
-Quyidagi qaysi varaqda xatolik ko'rsatilgan?
- 
-======#Logcat
-======Markaziy protsessor
-======Xotira
-======OTB jurnallari
-+++++
-Qaysi yilda OHA (Open Handset Alliance) e'lon qilinadi?
-======#2007 yil
-======2005 yil
-======2006 yil
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagilardan qaysi biri Android 1.5 versiyasining nomi?
-======#Kek
-======Ekler
-======Froyo
-======Ponchik
-+++++
-Quyidagilardan qaysi biri Android 1.6 versiyasining nomi?
-======#Ponchik
-======Ekler
-======Froyo
-======Kek
-+++++
-Quyidagilardan qaysi biri android arxitekturasining eng yuqori qatlami hisoblanadi?
-======#Ilovalar
-======Tizim kutubxonalari va Android Runtime
-======Linux yadrosi
-======Ilovalar ramkasi
-+++++
-Qatlamlarning qaysi biri android arxitekturasining eng yuqori qatlami ostida joylashgan?
-======#Ilovalar ramkasi
-======Tizim kutubxonalari va Android Runtime
-======Linux yadrosi
-======Ilovalar
-+++++
-Qatlamlarning qaysi biri android arxitekturasining eng quyi qatlami hisoblanadi?
-======#Linux yadrosi
-======Tizim kutubxonalari va Android Runtime
-======Ilovalar
-======Ilovalar ramkasi
-+++++
-Manifest.xml da nima bor?
-======#Ilova talab qiladigan ruxsat
-======Manba kodi
-======Ilovada ishlatiladigan satrlar ro'yxati
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagilardan qaysi biri xizmat muddatining holatiga kirmaydi?
-======#Pauza qilingan
-======Vayron qilingan
- 
-======Boshlash
-======Yugurish
-+++++
-Android dasturchisi sifatida biz Androidning qaysi versiyasidan minimal rivojlanish maqsadi sifatida foydalanishimiz kerak?
-======#1.6 yoki 2.0 versiyasi
-======1.2 versiyasi yoki 1.3 versiyasi
-======1.0 versiyasi yoki 1.1 versiyasi
-======2.3 yoki 3.0 versiyasi
-+++++
-Quyidagilardan qaysi biri android versiyasining taxallusi emas?
-======#Muffin
-======Ponchik
-======Asal uyasi
-======Kek
-+++++
-Quyidagilardan qaysi biri androidda dialog sinfi hisoblanadi?
-======#AlertDialog
-======DatesPickerDialog
-======ProgressDialogs
-======TimeDialog
-+++++
-Faoliyat fokusda bo'lmasa-da, ekranda ko'rinsa, qaysi holatda bo'ladi?
-======#Pauza holati
-======To'xtatilgan holat
-======Vayron qilingan davlat
-======Ishlayotgan holat
-+++++
-Quyidagilardan qaysi biri Android-ning o'rnatilgan ma'lumotlar bazasi hisoblanadi?
-======#SQLite
-======MySQL
-======Oracle
-======Yuqoridagilardan hech qaysisi
-+++++
-Quyidagi android versiyasidan qaysi biri Jelly Bean deb nomlangan?
-======#04.01.2021
-======02.01.2021
-======01.01.2021
-======03.01.2021
-+++++
-Quyidagilardan qaysi biri Android 5.0 versiyasining API darajasi hisoblanadi?
-======#21
-======20
-======11
-======41
-+++++
-Quyidagi ko’rsatilganlarning android kutubxonasidan qaysi biri ma'lumotlar bazasiga kirishni ta'minlaydi?
-======#android.database
-======android.content
- 
-======android.api
-======Yuqoridagilardan hech qaysisi
-+++++
-Android studio-da foydalanuvchi bilan faoliyat o'zaro aloqada bo'lganda quyidagi qayta qo'ng'iroqlardan qaysi biri chaqiriladi?
-======#onResume
-======onDestroy
-======onCreate
-======onStop
-+++++
-Xabarlarni disk raskadrovka qilish uchun androidda quyidagi usullardan qaysi biri qo'llaniladi?
-======#Log.d()
-======Log.r()
-======Log.R()
-======Log.D()
-+++++
-Har qanday xizmatlarni tozalash uchun quyidagi usullardan qaysi biri xizmatlar tomonidan qo'llaniladi?
-======#onDestroy() usuli
-======onStop() usuli
-======stopService() usuli
-======stopSelf() usuli
-+++++
-Barcha tartib sinflari quyi sinflar hisoblanadi -
-======#android.view.ViewGroup
-======android.view.View
-======android.widget
-======Yuqoridagilardan hech qaysisi
-+++++
-Androiddagi quyidagi sinflardan qaysi biri sizning xizmatingiz bilan asinxron tarzda vazifani bajaradi?
-======#AsyncTask
-======SyncTask
-======Yuqoridagilarning ikkalasi ham
-======Yuqoridagilardan hech qaysisi
-+++++
-Androidda quyidagi maketlardan qaysi biri o'z bolalarini qator va ustunlarga joylashtiradi?
-======#TableLayout
-======RelativeLayout
-======FrameLayout
-======Yuqoridagilardan hech qaysisi
-+++++
-Androidda quyidagi tartiblardan qaysi biri barcha bolalarni vertikal yoki gorizontal ravishda tekislaydi?
-======#LinearLayout
-======RelativeLayout
-======TableLayout
-======FrameLayout
-+++++
- 
-LinearLayout dasturida orientatsiya atributining standart qiymati qanday?
-======#Gorizontal
-======Vertikal
-======LinearLayout-da orientatsiya atributining standart qiymati yo'q
-======Yuqoridagilardan hech qaysisi
-+++++
-Androiddagi GCM qisqartmasi -
-======#Google Cloud Messaging
-======Google Count Messaging
-======Google Center Messaging
-======Yuqoridagilardan hech qaysisi
-+++++
-Mobil operatsion tizimlar bu
-======#bu mobil qurilmaning resurslarini boshqarish va foydalanuvchi bilan o'zaro aloqani tashkil etish uchun mo'ljallangan dasturlar to'plami.
-======bu qurilmaning resurslarini boshqarish va foydalanuvchi bilan o'zaro aloqani tashkil etish uchun mo'ljallangan dasturlar to'plami
-======bu kompyuter qurilmaning resurslarini boshqarish va foydalanuvchi bilan o'zaro aloqani tashkil etish uchun mo'ljallangan dasturlar to'plami.
-======bu mobil qurilmaning resurslarini boshqarish
-+++++
-Mobil Operatsion tizimlar
-======#Android, Blackberry, IOS, Tizen
-======Android, IOS, Linux, Blackberry OS
-======Android, Windows Phone, Symbian OS, Windows, Tizen
-======Android, Blackberry, IOS, Tizen, Linux
-+++++
-iOS minus tomonlari
-======#Jailbreak -ga norasmiy ilovalarni o'rnatish zarurati
-======Qurilma vaqt o'tishi bilan sekinlasha boshlaydi
-======Matnli xabarlar, qo’ng’iroqlar
-======Eski va yangi versiyalar uchun dasturlarning mos kelmasligi
-+++++
-Android minus tomonlari
-======#zararli dasturlar
-======Yopiq OS
-======Ilovalar kamligi
-======Eski va yangi versiyalar uchun dasturlarning mos kelmasligi
-+++++
-Windows mobile minus tomonlari
-======#interfeysni cheklangan holda sozlash
-======Jailbreak -ga norasmiy ilovalarni o'rnatish zarurati
-======Kompyuter bilan muloqot qilish uchun qo'shimcha dasturiy ta'minot o'rnatilishi kerak
-======noqulay ko'p vazifalar
-+++++
-Symbian OS minus tomonlari
-======#Eski va yangi versiyalar uchun dasturlarning mos kelmasligi
-======interfeysni cheklangan holda sozlash
-======noqulay ko'p vazifalar
-======Radio, oyinlar, calendar
- 
-+++++
-Peydjerdagi ilovalarni tanlang
-======#Matnli xabarlar, qo’ng’iroqlar
-======Radio, oyinlar, calendar
-======Matnli xabarlar, uvedomleniyalar
-======interfeysni cheklangan holda sozlash
-+++++
-Nativ ilovalar bu
-======#ilovalar qurilmaning o'zida joylashgan bo'lib, unga dastur belgisini bosish orqali kirish mumkin.
-======Saytlarning mobil versiyalari to'g'ridan -to'g'ri qurilma brauzeri orqali ishga tushiriladi.
-======bu web-ilovalar va native (mahalliy) dasturlar o'rtasidagi murosaning bir turi
-======qoshimcha ilovalar
-+++++
-Qachon telegram ilovasi iOS tizimi uchun ishlab chqarilgan
-======#Oktyabr 2013
-======Yanvar 2014
-======Avgust 2014
-======Avgust 2013
-+++++
-Qachon android kompaniyasiga asos solingan
-======#2003
-======2009
-======2008
-======2002
-+++++
-Qachon birinchi android versiyasi ishlab chqarilgan
-======#2008
-======2006
-======2004
-======2002
-+++++
-Android ilovalar yaratish uchun dasturlash tillari
-======#Kotlin, Java
-======Java, Swift
-======Kotlin, Javascript
-======Kotlin, Javascript, Swift
-+++++
-Ilovaning tuzilishi
-======#Layout, view,activity
-======Activity, layout, view
-======View, activity, layout
-======Layout, view,activity, button
-+++++
-Activity Lifecycle nechta shaklda bolishi mumkun
-======#4
-======3
-======5
-======2
-+++++
- 
-Java dasturlash tili qachon taqdim etilgan
-======#1996
-======1994
-======1992
-======1990
-+++++
-Java dasturlash tili birinchi nomi
-======#Oak
-======Javascript
-======Duke
-======Script
-+++++
-Java dasturlash tilini kim yaratgan –
-======#James Gosling
-======Linus Torwalds
-======Pavel Durov
-======Bill Gates
-+++++
-Java 5 versiyasi nechanchi yilda ishlab chiqarilgan
-======#2004
-======2000
-======2002
-======2006
-+++++
-Java 7 versiyasi nechanchi yilda ishlab chiqarilgan –
-======#2011
-======2010
-======2009
-======2008
-+++++
-Java 6 versiyasi nechanchi yilda ishlab chiqarilgan –
-======#2006
-======2005
-======2004
-======2003
-+++++
-Java asosiy xususiyatlari –
-======#avtomatik xotira boshqaruvi, istisnolardan foydalanish uchun kengaytirilgan imkoniyatlar, kirish -chiqish filtrlash vositalarining boy to'plami, qator, ro'yxat, stack va boshqalar kabi standart to'plamlar to'plami
-======avtomatik xotira boshqaruvi, istisnolardan foydalanish uchun kengaytirilgan imkoniyatlar, kirish -chiqish filtrlash vositalarining boy to'plami
-======avtomatik xotira boshqaruvi, istisnolardan foydalanish uchun kengaytirilgan imkoniyatlar
-======avtomatik xotira boshqaruvi
-+++++
-Java (J2EE) texnologiyalari yordamida quyidagi muvaffaqiyatli loyihalar amalga oshirildi:
-======#Amazon, eBay, Flickr, Google (Gmail), Yandex, LinkedIn
-======Github, Stackowerflow, Youtube, Yandex
-======Stackowerflow, Amazon, eBay, Github
-======Amazon, eBay, Flickr, Google (Gmail), Yandex, LinkedIn, GitHub
- 
-+++++
-Butun sonni e'lon qilishga misol –
-======#int myNumber = 15;
-======myNumber int = 15;
-======myNumber = int 15;
-======int myNumber = 15
-+++++
-Arifmetik amallar –
-======#-, / , + , *;
-======-, / , + , !;
-======+, * , &&;
-======* , &&;
-+++++
-Mantiqiy operatsiyalar –
-======#&& , || , !;
-======-, / , + , !;
-======-, / , + , *;
-======* , &&;
-+++++
-Kirish modifikatorlar public bu –
-======#klassni a'zolari hamma uchun mavjud
-======klass a'zolariga faqat klass ichida kirish mumkin
-======klass a'zolari paket ichida va avlodlarida mavjud
-======hammasi to'gri
-+++++
-Kirish modifikatorlar private bu –
-======#klass a'zolariga faqat klass ichida kirish mumkin
-======klass a'zolari paket ichida va avlodlarida mavjud
-======klassni a'zolari hamma uchun mavjud
-======hammasi to'gri
-+++++
-Kirish modifikatorlar protected bu –
-======#klass a'zolari paket ichida va avlodlarida mavjud
-======klass a'zolariga faqat klass ichida kirish mumkin
-======klassni a'zolari hamma uchun mavjud
-======hammasi to'gri
-+++++
-Mobil ilovani yaratish, kompilyatsiya qilish va yig'ish uchun zarur bo'lgan vositalarni o'z ichiga olgan dasturlash vositalari to'plami nima deyiladi?
-======#Android SDK
-======JDK
-======ADT plagini
-======Android NDK
-+++++
-Open Handset Alliance ni yaratishdan maqsad nima edi?
-======#mobil qurilmalar uchun ochiq standartlarni ishlab chiqish
-======Android OT ning rivojlanish tarixini yozish
-======Android operatsion tizimida ishlaydigan smartfonlarni sotish
-======Android smartfonlarini reklama qilish
-+++++
- 
-PacketVideo OpenCORE asosida amalga oshiriladigan kutubxonalar:
-======#Media Framework
-======SQLite
-======FreeType
-======3D kutubxonalar
-+++++
-Android OS da qanday ma'lumotlar bazasi mexanizmidan foydalaniladi?
-======#SQLite
-======InnoDB
-======DBM
-======MyISAM
-+++++
-Intel XDK quyidagilar asosida ishlab chiqishni qo'llab-quvvatlaydi:
-======#Android, Apple iOS, Microsoft Windows 8, Tizen
-======JavaFX Mobile
-======Apple iOS, BlackBerry OS
-======MtkOS, Symbian OS, Microsoft Windows 8
-+++++
-Qurilma ekraniga teginish hodisasini kuzatish uchun qanday tinglovchidan foydalaniladi?
-======#OnTouchListener
-======OnPressListener
-======OnClickListener
-======OnInputListener
-+++++
-Butun ilova menyusini belgilaydigan XML fayllarni qaysi papkaga joylashtirish kerak?
-======#res/menu
-======res/value
-======res/items
-======res/layout
-+++++
-Android ilovasining grafik foydalanuvchi interfeysi komponentalari ierarxiyasini tasvirlash uchun qanday tildan foydalaniladi?
-======#xml
-======html
-======gml
-======xhtml
-+++++
-Android qurilmalari uchun ekran zichligining quyidagi toifalari mavjud:
-======#LDPI, MDPI, HDPI, XHDPI, XXHDPI, i XXXHDPI
-======HDPI, XHDPI, XXHDPI, i XXXHDPI
-======LDPI, MDPI, HDPI
-======To’g’ri javob yo’q
-+++++
-Harakatni bajarish uchun jarayon panelini o'z ichiga olgan dialog oynasi:
-======#ProgressDialog
-======DatePickerDialog
-======AlertDialog
-======DialogFragment
-+++++
-APP_OPTIM bu nima?
- 
-======#Modullarni qurishda optimallashtirish uchun foydalaniladi;
-======Modullarni kiritish uchun foydalaniladi;
-======Modullarni chiqarish uchun foydalaniladi;
-======to'gri javob yoq
-+++++
-APP_BUILD_SCRIPTnima?
-======#Android MK ga muqobil yo’lni ko’rsatadi
-======Modullarni kiritish uchun foydalaniladi;
-======Modullarni qurishda optimallashtirish uchun foydalaniladi;
-======to'gri javob yoq
-+++++
-APP_ABI bu nima?
-======#Modullarni qaysi protsessor arxitekturasi uchun qurish kerakligini ko’rsatadi;
-======Modullarni qurishda optimallashtirish uchun foydalaniladi;
-======Android MK ga muqobil yo’lni ko’rsatadi;
-======to'gri javob yoq
-+++++
-APP_PLATFORM bu nima?
-======#Platformaning maqsadi;
-======Modullarni qaysi protsessor arxitekturasi uchun qurish kerakligini ko’rsatadi;
-======Android MK ga muqobil yo’lni ko’rsatadi;
-======SDK
-+++++
-C2DM ning asosiy xususiyatlari nechta?
-======#3 ta;
-======4 ta;
-======5 ta;
-======6ta
-+++++
-Dunyodagi 1- sensorli telefon model nomi nima ?
-======#Simon;
-======Nokia;
-======Phone;
-======iPhone
-+++++
-Dunyodagi 1- sensorli telefon “Smon” ning prototipi birinchi marta nechanchi yili namoyish etilgan ?
-======#1992;
-======1994;
-======1995;
-======1993
-+++++
-Java amaliy klassdan necha xil usul bilan meros olish mumkin ?
-======#3 xil;
-======4 xil;
-======7 xil;
-======2 xil
-+++++
-Kotlin dasturlash tili qachon yaratilgan?
-======#2011-yil 22-iyul;
- 
-======2011-yi 22-iyun;
-======2012-yi 20-iyul;
-======2011-yil 22-noyabr;
-+++++
-Qachon Google KOTLIN_Android ishlab chiqishiuchun rasmiy til ekanligini e’lon qiladi?
-======#2017;
-======2012;
-======2015;
-======2011;
-+++++
-Swift xalqaro tarmog’inechanchi yildan boshlab faoliyat ko’rsata boshladi?
-======#1977-yil;
-======1973-yil;
-======1975-yil;
-======1978-yil
-+++++
-Javada massivlarning necha xil turi mavjud?
-======#2 xil;
-======3 xil;
-======6 xil;
-======5 xil;
-+++++
-Cloud-to-android xabar almashinuvhi (C2DM)-?
-======#Bu ishlab chiquvchilarga serverlardan ma’lumotlarni Android qurlmalaridagi dasturlarga yuborish imkoniyatini beruvchi xizmattdir;
-======Bu ishlab chiquvchilarga serverlardan ma’lumotlarni Android qurilmalar bilan ulash;
-======Bu ishlab chiquvchilarga serverlardan ma’lumotlarni Android qurilmalaridan qabul qilish;
-======to'gri javob yoq
-+++++
-android:layout_marginTOP ning vazifasi?
-======#bu atribut tartib elementining yuqori tashqi qismidan qoʻshimcha joy belgilashni taʼminlaydi;
-======bu atribut tartib elementining quyi tashqi qismidan qoʻshimcha joy belgilashni taʼminlaydi;
-======bu atribut elementining yuqori ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi;
-======hammasi to'gri
-+++++
-android:layout_margin Bottom ning vazifasi?
-======#bu atribut tartib elementining quyi tashqi qismidan qoʻshimcha joy belgilashni taʼminlaydi;
-======bu atribut elementining yuqori ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi;
-======bu atribut elementining past ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi;
-======to'gri javob yoq
-+++++
-android:layout_margin Bottom ning vazifasi?
-======#bu atribut tartib elementining quyi tashqi qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======bu atribut elementining yuqori ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======bu atribut elementining past ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======hammasi to'gri
-+++++
-android:paddingTop ning vazifasi?
-======#bu atribut elementining yuqori ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======bu atribut elementining past ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi
- 
-======bu atribut tartib elementining quyi tashqi qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======to'gri javob yoq
-+++++
-androd.paddingBottom ning vazifasi?
-======#bu atribut elementining past ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======bu atribut elementining yuqori ichki qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======bu atribut tartib elementining quyi tashqi qismidan qoʻshimcha joy belgilashni taʼminlaydi
-======hammasi to'gri
-+++++
-wrap_content nima?
-======#yaratilgan element uchun talab qilinadigan eng kichik oʻlchovni bildiradi
-======yaratilgan element uchun tartiblash elementining talab qilinadigan eng katta oʻlchovini bildiradi
-======yaratilgan element uchun talab qilinadigan oʻrtacha oʻlchovni bildiradi
-======to'gri javob yoq
-+++++
-fill_parent nima?
-======#yaratilgan element uchun tartiblash elementining talab qilinadigan eng katta oʻlchovini bildiradi
-======yaratilgan element uchun talab qilinadigan eng kichik oʻlchovni bildiradi
-======yaratilgan element uchun talab qilinadigan oʻrtacha oʻlchovni bildiradi
-======hammasi to'gri
-+++++
-Objectlar nimadan tashkil topadi?
-======#holat (states) harakat (behavirors);
-======holat (states) classlardan
-======harakat (behaviors) classlardan
-======holat (states)
-+++++
-Linux kernel bu Android tizimining yadrosi hisoblanadi va necha patch dan iborat?
-======#115
-======155
-======135
-======114
-+++++
-LinearLayout - ?
-======#Bu tartib elementi tashkil etuvchi elementlarni bir tomonga, ya’ni vertikal yoki gorizontal tarzda joylashtiradi
-======Bu tartib elementi tashkil etuvchilarini nisbiy ravishda joylashtiradi
-======Bu tartib elementi mavjud elementlarni ustun guruxlarga bo'lib ko'rsatish uchun xizmat qiladi
-======Konteyner
-+++++
-RelativeLayout - ?
-======#Bu tartib elementi tashkil etuvchilarini nisbiy ravishda joylashtiradi
-======Bu tartib elementi tashkil etuvchi elementlarni bir tomonga, ya’ni vertikal yoki gorizontal tarzda joylashtiradi
-======Bu tartib elementi mavjud elementlarni ustun guruxlarga bo'lib ko'rsatish uchun xizmat qiladi
-======Bu tartib elementi mavjud elementlar
-+++++
-TableLayout - ?
- 
-======#Bu tartib elementi mavjud elementlarni ustun guruxlarga bo'lib ko'rsatish uchun xizmat qiladi
-======Bu tartib elementi tashkil etuvchi elementlarni bir tomonga, ya’ni vertikal yoki gorizontal tarzda joylashtiradi
-======Bu tartib elementi tashkil etuvchilarini nisbiy ravishda joylashtiradi
-======Bu tartib elementi mavjud elementlar
-+++++
-FrameLayout - ?
-======#Qurilmaning ekranida 1 ta koʻrinishni koʻrish uchun foydalaniladigan tartib elementi hisoblanadi
-======Bu tartib elementi tashkil etuvchilarini nisbiy ravishda joylashtiradi
-======Bu tartib elementi mavjud elementlarni ustun guruxlarga bo'lib ko'rsatish uchun xizmat qiladi
-======Bu tartib elementi mavjud elementlar
-+++++
-Update so'rovi -
-======#ma'lumotlar bazasidagi ma'lumotlarni yangilash
-======ma'lumotlar bazasidan ma'lumotlarni o'chirish
-======ma'lumotlar bazasidan ma'lumotlarni olish
-======ma'lumotlar bazasidagi ma'lumotlarni yaratish
-+++++
-DELETE so'rovi –
-======#ma'lumotlar bazasidan ma'lumotlarni o'chirish
-======ma'lumotlar bazasidagi ma'lumotlarni yangilash
-======ma'lumotlar bazasidan ma'lumotlarni olish
-======ma'lumotlar bazasidagi ma'lumotlarni yaratish
-+++++
-INSERT so'rovi –
-======#ma'lumotlar bazasiga ma'lumotlarni qo'shish
-======ma'lumotlar bazasidagi ma'lumotlarni yangilash
-======ma'lumotlar bazasidan ma'lumotlarni o'chirish
-======ma'lumotlar bazasidagi ma'lumotlarni yaratish
-+++++
-SQLite ma'lumotlar bazasi bilan ishlash uchun API -ni amalga oshiradigan mavhum klass bu
-======#SQLiteOpenHelper
-======SQLiteDatabase
-======SQLiteCursor
-======ContentValues
-+++++
-onCreate metodi bu –
-======#ma'lumotlar bazasi birinchi yaratilganda chaqiriladi.
-======ma'lumotlar bazasini yangilash zarur bo'lganda chaqiriladi
-======SQLite ma'lumotlar bazasi bilan ishlash uchun API -ni amalga oshiradigan mavhum klass
-======to'gri javob yoq
-+++++
-onUpgrade metodi bu –
-======#ma'lumotlar bazasini yangilash zarur bo'lganda chaqiriladi
-======ma'lumotlar bazasi birinchi yaratilganda chaqiriladi
-======SQLite ma'lumotlar bazasi bilan ishlash uchun API -ni amalga oshiradigan mavhum klass
-======to'gri javob yoq
-+++++
-Insert parametrlari –
-======#insert(String table, String nullColumnHack, ContentValues values)
-======insert(ContentValues values , String table, String nullColumnHack)
-======insert(ContentValues values , String table, String nullColumnHack)
-======to'gri javob yoq
-+++++
-Update parametrlari –
-======#update(String table, ContentValues values, String whereClause, String[] whereArgs)
-======update(String whereClause , String table, ContentValues values, String[] whereArgs)
-======update(String table, String[] whereArgs, ContentValues values, String whereClause)
-======to'gri javob yoq
-+++++
-Delete parametrlari –
-======#delete(String table, String whereClause, String[] whereArgs)
-======delete(String whereClause , String table, String[] whereArgs)
-======delete(String[] whereArgs , String table, String whereClause)
-======to'gri javob yoq
-+++++
-Androidda SQLite xususiyatlari
-======#SQLite barcha Android qurilmalariga birlashtirilgan, ma'lumotlar bazasini o'rnatish yoki sozlash talab qilinmaydi, faqat ma'lumotlar bazasini yaratish va yangilash tartiblarini belgilash kerak, so'rovlarni asinxron tarzda (alohida potokda) bajarish maqsadga muvofiqdir.
-======SQLite barcha Android qurilmalariga birlashtirilgan, ma'lumotlar bazasini o'rnatish yoki sozlash talab qilinmaydi
-======SQLite barcha Android qurilmalariga birlashtirilgan, ma'lumotlar bazasini o'rnatish yoki sozlash talab qilinmaydi, faqat ma'lumotlar bazasini yaratish va yangilash tartiblarini belgilash kerak
-======hammasi to'gri
-+++++
-Ma'lumotlar bazasini yaratish va yangilash
-======#SQLiteOpenHelper klassdan meros bo'lgan klass yarating. Ota-ona konstruktoriga quyidagi parametrlar bilan qo'ng'iroq qiling: dbname va db versiyasi.onCreate () va onUpgrade () usullari. Klass SQLiteDatabase. DadableDatabase () va getWritableDatabase () ma'lumotlar bazasiga kirishni ta'minlaydi.
-======onCreate () va onUpgrade () usullari.SQLiteOpenHelper klassdan meros bo'lgan klass yarating.Ota-ona konstruktoriga quyidagi parametrlar bilan qo'ng'iroq qiling: dbname va db versiyasiKlass SQLiteDatabase.getReadableDatabase () va getWritableDatabase () ma'lumotlar bazasiga kirishni ta'minlaydi
-======Klass SQLiteDatabase.SQLiteOpenHelper klassdan meros bo'lgan klass yarating.Ota-ona konstruktoriga quyidagi parametrlar bilan qo'ng'iroq qiling: dbname va db versiyasi. onCreate () va onUpgrade () usullari.getReadableDatabase () va getWritableDatabase () ma'lumotlar bazasiga kirishni ta'minlaydi.
-======hammasi to'gri
-+++++
-Algoritm nima?
-======#Ketma-ket bajarilishi kerak bo’ladigan aniq ko’rsatmalar to’plamidir
-======Ketma-ket bajarilishi kerak bo’magan aniq ko’rsatmalar to’plamidir.
-======Ketma-ket bajarilishi majbur bo’lmaydigan aniq ko’rsatmalar to’plamidir.
-======Ketma-ket bajarilishi majbur bo’lmaydigan aniq va noaniq ko’rsatmalar to’plamidir.
-+++++
-Qachon Endi Rubin, Nik Sirs va Kris Uaytlar Kaliforniyada Android Inc kompaniyasini ro'yxatdan o'tkazishgan?
- 
-======#2003
-======2004
-======2002
-======2008
-+++++
-Googleda norasmiy ravishda operatsion tizim logotipini Android emas nima deb nomlashadi.?
-======#Bugdroid
-======Endro
-======Andr
-======Droid
-+++++
-Android nomini operatsion tizimi asoschisi kim taklif etgan?
-======#Endi Rubin
-======Nik Sirs
-======Jorj Bul
-======Stiv Jobs
-+++++
-Nechanchi yilda ko'plab mutaxassislar Android operatsion tizimining muvafaqqiyatiga ishonishmagan.?
-======#2008
-======2006
-======2007
-======2010
-+++++
-Android platformasi uchun maxsus qanday shriftlar oilasi yaratilgan.?
-======#Droid va Roboto
-======Andro va Droid
-======Roboto va Andro
-======SWGA
-+++++
-Android operatsion tizimining nechinchi talqinidan boshlab ko'p foydalanuvchilik rejimi qo'shilgan.?
-======#04.03.2021
-======04.05.2021
-======04.07.2021
-======04.09.2021
-+++++
-Android operatsion tizimi qanday apparat platformalari uchun mavjud.?
-======#ARM, MIPS va x86
-======x86.1,ARM,
-======ARM,Andro
-======x86.MIPS
-+++++
-Android ochiq kodli operatsion tizim bo'lib, uni kodining hajmi qancha GB(gigabayt)dan ko'pdir.?
-======#250 GB
-======255 GB
-======512 GB
-======300 GB
-+++++
- 
-Android operatsion tizimi qaysi operatsion tizimi asosida yaratilgan.?
-======#Linux
-======Unix
-======Java
-======Windows
-+++++
-Dunyodagi smartfonlarning necha foizi Android operatsion tizimida ishlaydi.?
-======#0,88
-======0,87
-======0,86
-======0,85
-+++++
-Android operatsion tizimi aslida nima uchun maxsus operatsion tizim sifatida yaratilgan.?
-======#raqamli kameralar
-======kodlar
-======dasturlar
-======raqamli qurilmalar
-+++++
-Google kompaniyasi Androidni yaratmagan, uni qancha AQSH dollariga sotib olgan.?
-======#2005-yilda 50 million
-======2006- yilda 150 million
-======2003 yilda 100 million
-======2002 yilda 100 million
-+++++
-Microsoft kompaniyasi o'zining patentlari evaziga Androiddan qancha milliard AQSH dollari foyda oladi.?
-======#2 milliard
-======2.5milliard
-======3 milliard
-======3.5 milliard
-+++++
-Birinchi Android smartfoning ko'rinishi nimani eslatgan.?
-======#Blackberry
-======TelePad
-======Sony
-======Samsung
-+++++
-Android operatsion tizimi erkak jinsli robot deb hisoblanadi, chunki ayol Jinsli robotlar nima deb nomlanadi.?
-======#Gynoid
-======Jynoid
-======Aynoid
-======Pynoid
-+++++
-Nechanchi yilda Nokia kompaniyasining rahbari Anssi Van'oki "Android– isinish maqsadida kiyimini bulg'ayotgan fin bolachasi" degan.?
-======#2010
-======2011
-======2009
- 
-2010-yilda Sony Ericsson kompaniyasi qanday soatlarini ishlab chiqqan. Bu soatlar Android qurilmalargan ulangan va uning yordamida mediaplayerni boshqarish, Twitterda yangiliklar tasmasini yurgazish mumkin bo'lgan.?
-======#LiveView
-======LiveLove
-======LiveLife
-======LiveLive
-+++++
-Android nafaqat smartfon va planshetlarda balki, boshqa qurilmalarda ham qo'llaniladi. ?
-======#Google Glass
-======Smart
-======IPad
-======Siemens
-+++++
-Android logotipi rossiyalik dizayner kim tomonidan yaratilgan.?
-======#Irina Blok
-======Irina Yelenova
-======Ekaterina Povla
-======Anna Galinova
-+++++
-Mobil operatsion tizimlar qachon paydo bo’lgan?
-======#1979
-======1977
-======1969
-======1980
-+++++
-Applications bu ?
-======#bu foydalanuvchi uchun mo’ljallangan ilovalar sathi hisoblanadi;
-======bu mobil quilmalar uchun mo’ljallangan sath;
-======bu Android tizimning yadrosi;
-======bu mobil quilmalar uchun sath
-+++++
-Ma’lumotlar bazasiga so’rovlar natijalarini olish uchun nimadan foydalaniladi?
-======#Kursor
-======ContentValues
-======LinearLayout
-======RelativeLayout
-+++++
-SQLite qachon tashkil etilgan va kim tomonidan?
-======#2000-yil,Richard
-======2002-yil,Albert
-======2003-yil,Martin
-======2002-yil,Richard
-+++++
-SQL so’rovlarining asosiy turi nechta?
-======#3
-======4
-======5
- 
-DDL so’rovlar nima uchun ishlatiladi?
-======#Jadvallarni yaratish uchun
-======Ma’lumotlar bilan ishlash uchun
-======Yozuvlarni qo’shish uchun
-======Yozuvlarni o'chirish uchun
-+++++
-Interfeys nima?
-======#Android operatsion tizimining muhim qismi hisoblanib,foydalanuvchi va qurilma o’rtasidagi aloqani ta’minlaydi
-======Android operatsion tizimining muhim qismi hisoblanib,ma’lumotlarni tahrirlashni ifodalaydi
-======Android operatsion tizimining muhim qismi hisoblanib
-======Android operatsion tizimi
-+++++
-Foydalanuvchi interfeysini yaratish uchun qaysi ob’ektdan foydalaniladi?
-======#View
-======PaddingTop
-======Layout
-======Padding
-+++++
-Ob’ekt yaratish uchun berilgan to’g’ri ketma – ketlikni ko’rsating
-======#Declaration,instantiation,initialization
-======Declaration,instantiation,inkapsulyatsiya
-======Declaration, initialization, inkapsulyatsiya
-======Dedication, initialization, inkapsulyatsiya
-+++++
-Instance variables qanday o’zgaruvchi?
-======#Bu klass ichida lekin metodlardan tashqarida e’lon qilinadigan o’zgaruvchi
-======Bu klassning nomi bilan ustma –ust tushuvchi klassning metodi
-======Bu klass ichida va metodlardan tashqarida e’lon qilinadigan static o’zgaruvchi
-======Bu klassning nomi
-+++++
-Polimorfizm necha xil bo’ladi ?
-======#2
-======3
-======4
-======5
-+++++
-Kamida bitta abstract klassga ega bo’lgan klass nima deyiladi?
-======#Abstract
-======Konteynerlar
-======Ob’ekt
-======Ozgaruvchan
-+++++
-Mobil ilovalarni yaratishda activitylar va mobil ilovaga kerakli barcha fayllar qaysi fayllarda saqlanadi?
-======#.xml
-======.doc
-======.ppt
-======.docx
- 
-onCreate metodning vazifasi nima?
-======#Activity yaratilganida berilgan ketma – ketliklarni bajarishdan iborat va bir marta bajariladi
-======Activity foydalanuvchiga ko’rinmay qolganida chaqiriladi
-======Activity to’xtatilgan vaqtda chaqiriladi
-======Activity davomida chaqiriladi
-+++++
-onStart metodning vazifasi nima?
-======#Activity mobil qurilmalarining oynasida hosil bo’lganida , ya’ni foydalanuvchiga ko’ringanida chaqiriladi
-======Foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi
-======Activity foydalanuvchiga ko’rinmay qolganida chaqiriladi
-======Activity mobil qurilmalarining oynasida hosil bo’lganida
-+++++
-onResume metodning vazifasi nima?
-======#Foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi
-======Activity mobil qurilmalarining oynasida hosil bo’lganida , ya’ni foydalanuvchiga ko’ringanida chaqiriladi
-======Activity yaratilganida berilgan ketma – ketliklarni bajarishdan iborat va bir marta bajariladi
-======Activity mobil qurilmalarining oynasida hosil bo’lganida
-+++++
-onPause metodning vazifasi nima?
-======#Joriy activity faoliyati vaqtinchalik to’xtatib,boshqa activity faollashtirilganda chaqiriladi
-======Foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi
-======Activity foydalanuvchiga ko’rinmay qolganida chaqiriladi
-======Joriy activity faoliyati vaqtinchalik to’xtatib
-+++++
-onStop metodning vazifasi nima?
-======#Activity foydalanuvchiga ko’rinmay qolganida chaqiriladi
-======Foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi
-======Joriy activity faoliyati vaqtinchalik to’xtatib,boshqa activity faollashtirilganda chaqiriladi
-======Joriy activity faoliyati vaqtinchalik to’xtatib
-+++++
-onDestory metodning vazifasi nima?
-======#Activity to’xtatilgan vaqtda chaqiriladi
-======Joriy activity faoliyati vaqtinchalik to’xtatib,boshqa activity faollashtirilganda chaqiriladi
-======Foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi
-======Joriy activity faoliyati vaqtinchalik to’xtatib
-+++++
-onRestart metodning vazifasi nima?
-======#Joriy activity faoliyati vaqtinchalik to’xtatib,qayta ishga tushirilganida chaqiriladi
-======Foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi
-======Activity yaratilganida berilgan ketma – ketliklarni bajarishdan iborat va bir marta bajariladi
-======Joriy activity faoliyati to’xtatib,qayta ishga tushirilganida chaqiriladi
-+++++
-Layout_height qanday atribut?
-======#Element balandligini ko’rsatuvchi atribut
-======Tartib x koordinatasini bildiruvchi atribut
-======Kengligini ko’rsatuvchi atribut
-======Tartib y koordinatasini bildiruvchi atribut
- 
-Layout_gravity qanday atribut?
-======#Tartib elementi ichidagi elementlarini joylashishini ko’rsatuvchi atribut
-======Element balandligini ko’rsatuvchi atribut
-======Bu atribut tartib elementining o’ng tashqi qismidan qo’shimcha joy belgilashni ta’minlaydi
-======Element uzunligini ko’rsatuvchi atribut
-+++++
-Ma’lumotlarni aniqlash tili qaysi?
-======#DDL
-======DML
-======DCL
-======DXL
-+++++
-Tranzaktsiyalarni boshqarish tili qaysi?
-======#TCL
-======DCL
-======DML
-======DLL
-+++++
-Androidning asosiy xususiyatlari?
-======#Barcha javob to’g’ri
-======Javani qo’llab quvvatlash, malumotlarni saqlash
-======Aloqa standartlarini qo’llab quvvatlash
-======Krossplatformalik
-+++++
-Mobil ilovani yaratish, kompilyatsiya qilish va yig'ish uchun zarur vositalarni o'z ichiga olgan dasturlash vositalari to'plami deyiladi
-======#Android SDK
-======JDK
-======ADT plagini
-======Android NDK
-+++++
-Ochiq telefonlar ittifoqining maqsadi nima edi?
-======#Android OT ning rivojlanish tarixini yozing
-======Android operatsion tizimida ishlaydigan smartfonlarni sotish
-======Android tizimidagi smartfonlarni reklama qilish
-======mobil qurilmalar uchun ochiq standartlarni ishlab chiqish
-+++++
-Intel * Graphics Performance Analyzers (Intel * GPA) System Analyzer vositasi Intel * Beacon Mountain ishlab chiqish muhitida nima maqsadda ishlatiladi?
-======#OpenGL protseduralaridan foydalanganda ishlab chiquvchilarga tizim yukini optimallashtirishga ruxsat berish
-======ishlab chiqish muhitida emulyatorning ishini tezlashtirish
-======optimallashtirilgan ma'lumotlar va tasvirlarni qayta ishlash uchun
-======ishlab chiquvchilarga C++ mobil ilovalarini samarali parallellashtirish imkonini beradi
-+++++
-PacketVideo OpenCORE asosida amalga oshirilgan kutubxonalar
-======#Media Framework
-======SQLite
-======FreeType
- 
-======3D kutubxonalar
-+++++
-Loyihaning res / anim / papkasi nima uchun?
-======#bu papkada XML fayllari mavjud ketma-ketlikni o'zgartirish animatsiya ko'rsatmalarini belgilang
-======bu papkada animatsiya xususiyatini amalga oshirishni belgilovchi XML fayllar mavjud
-======bu papkada ilovada o'ynaladigan animatsion kliplarni o'z ichiga olgan fayllar mavjud
-======bu papkada kadrlar animatsiyasi uchun mo'ljallangan rasmlar to'plami bo'lgan fayllar mavjud
-+++++
-Ilovada yangi Faoliyat yaratishda ma'lumotlar qaysi faylga qo'shiladi?
-======#AndroidManifest.xml
-======main.java
-======layout.xml
-======Activity.xml
-+++++
-Faoliyat ekranda paydo bo'lishidan oldin tizim tomonidan faoliyatning hayot aylanish usuli qanday nomlanadi?
-======#onCreate ()
-======onResume ()
-======onOpen ()
-======onVisible ()
-+++++
-SurfaceHolder.lockCanvas () usulining maqsadi nima?
-======#qayta chizish uchun Canvas-ni bloklash
-======Canvas bilan keyingi o'zaro ta'sirga e'tibor bermaslik
-======Canvas yashirish
-======Canvas qulashini bloklash
-+++++
-Mobil ilova boshqa ilovada yaratilgan maʼlumotlar bazasiga kira oladimi?
-======#mumkin, lekin faqat kontent provayderlari yordamida
-======hech qanday sharoitda mumkin emas
-======kirish huquqi ma'lumotlar bazasi xost ilovasi tomonidan ochiladi
-======to'g'ridan-to'g'ri kirish mumkin
-+++++
-Ilova ishlayotgan vaqtda qurilmaning yo'nalishini o'zgartirishning oldini olish uchun qanday usuldan foydalanish mumkin?
-======#setRequestedOrientation
-======setChangeOrientation
-======disableChangeOrientation
-======setOritentation
-+++++
-Datchiklardan qaysi biri smartfonning kosmosdagi holatini aniqlash uchun ishlatilmaydi?
-======#gps
-======akselerometr
-======giroskop
-======magnitometr
-+++++
-iOS * ilovalarini HTML5 muhitiga o'tkazish mumkinmi?
-======#ha, Intel XDK vositalaridan foydalanish
-======ha, uchinchi tomon vositalaridan foydalanish
- 
-======yo'q, ilovalarni to'g'ridan-to'g'ri uzatish mumkin emas
-======ha, faqat iPhone uchun, Intel XDK vositalaridan foydalanish
-+++++
-Intel XDK muhitida ilovalarni ishlab chiqishingiz mumkin
-======#barcha javob variantlari to'g'ri
-======tayyorlangan misollardan foydalaning
-======"noldan" barcha elementlarni yozing
-======elementlarni ko'rsatish uchun o'rnatilgan "element dizayneri" dan foydalaning
-+++++
-JavaScript ruxsat bermaydi
-======#to'g'ridan-to'g'ri xotiraga kirish
-======registr bilan ishlash
-======xaritalar bilan ishlash
-======bir vaqtning o‘zida bir nechta plagin kutubxonalaridan foydalanish
-+++++
-Intel XDK muhitida siz quyidagi platformalar uchun ilovalarni ishlab chiqishingiz mumkin
-======#barcha javob variantlari to'g'ri
-======Android
-======Apple iOS
-======Tizen
-+++++
-Intel XDK muhitida ishlab chiqilgan har qanday ilovaning bo'sh joyida shunday yoziladi
-======#barcha javob variantlari to'g'ri
-======Intel XDK splash ekranini yashirish
-======ilova hajmini qurilma o‘lchamiga moslashtirish
-======ilova o‘lchamini belgilash (“aylantirishni” taqiqlash)
-+++++
-Intel XDK muhitida ilovalarning foydalanuvchi interfeysini yaratishingiz va tahrirlashingiz mumkin
-======#barcha javob variantlari noto'g'ri
-======faqat teglarni qo'lda yozish
-======faqat interfeys bilan tayyor shablonlarni o'zgartirish
-======o'rnatilgan dastur dizayneridan foydalanish
-+++++
-Ikki NFC qurilmasi o'rtasida qulay almashinuv vositalari
-======#AndroidBeam
-======Wi-Fi Direct
-======Dalvik
-======Bluetooth
-+++++
-Faoliyatlar o'rtasida almashinish amalga oshiriladi
-======#uchta variant ham mumkin
-======faqat tugmalar yordamida
-======faqat smartfonning sensorli ekrani yordamida
-======tugmalar va boshqa boshqaruv elementlari yordamida
-+++++
-Android OS da qanday ma'lumotlar bazasi dvigatelidan foydalaniladi?
-======#SQLite
-======MyISAM
-======DBM
- 
-======InnoDB
-+++++
-Intel * Beacon Mountain ishlab chiqish muhitida ishlatiladigan Intel * Integrated Performance Primitives (Intel * IPP) vositasi nima?
-======#optimallashtirilgan ma'lumotlar va tasvirlarni qayta ishlash uchun
-======OpenGL protseduralaridan foydalanganda ishlab chiquvchilarga tizim yukini optimallashtirish imkonini beradi
-======) ishlab chiqish muhitida emulyatorning ishini tezlashtirish uchun
-======) ishlab chiquvchilarga C++ mobil ilovalarini samarali parallellashtirish imkonini beradi
-+++++
-Intel XDK quyidagilar uchun ishlab chiqishni qo'llab-quvvatlaydi:
-======#Android, Apple iOS, Microsoft Windows 8, Tizen
-======MacOS, Symbian OS, Microsoft Windows 8
-======Apple iOS, BlackBerry OS
-======JavaFX Mobile
-+++++
-Har bir eshittirish qabul qiluvchisi klassdan meros oladi ...
-======#BroadcastReceiver
-======ContentProvider
-======IntentReceiver
-======ViewReceiver
-+++++
-Qaysi klass foydalanuvchi interfeysi (UI) komponentlari uchun asosiy qurilish bloki bo'lib, ekranning to'rtburchaklar maydonini belgilaydi va hodisalarni chizish va boshqarish uchun javobgardir?
-======#View
-======GUI
-======UIComponent
-======Widget
-+++++
-Qurilma ekranining sensorli hodisasini kuzatish uchun qanday tinglovchidan foydalaniladi?
-======#OnTouchListener
-======OnPressListener
-======OnClickListener
-======OnInputListener
-+++++
-Butun dastur menyusini belgilaydigan XML fayllarni qaysi papkaga joylashtirish kerak?
-======#res / menyu
-======res / layout
-======res / elementlar
-======res / qiymat
-+++++
-Fon ilovalari ...
-======#konfiguratsiyadan so'ng ular foydalanuvchining o'zaro ta'sirini anglatmaydi, ko'pincha ular yashirin holatda ishlaydilar
-======ular ekranda ko'rinib turganda ham, boshqa ilovalar tomonidan yashirilganda ham o'z funktsiyalarini bajaradilar
-======kichik ilovalar sifatida ko'rsatiladi. ish stolidagi grafik ob'ekt
-======ko'pincha fonda ishlaydi, lekin konfiguratsiyadan keyin ham foydalanuvchi o'zaro ta'siriga ruxsat beradi
- 
-+++++
-Loyihaning kerakli fayl va papkalarining to'liq ierarxik ro'yxatini yorliqda ko'rish mumkin ...
-======#Paket Explorer
-======Internet Explorer
-======Navigator
-======Loyiha tadqiqotchisi
-+++++
-Ilovaning taqsimlangan ma'lumotlar to'plamini qaysi komponent boshqaradi?
-======#Kontent provayder
-======Translyatsiyani qabul qiluvchi
-======Faoliyat
-======Xizmat
-+++++
-Android ilovasining grafik foydalanuvchi interfeysi komponentlari ierarxiyasini tasvirlash uchun qanday belgilash tilidan foydalaniladi?
-======#xml
-======html
-======gml
-======xhtml
-+++++
-Intent haqida to'g'ri bayonotlarni tanlang.
-======#bajariladigan operatsiya tavsifini o'z ichiga olgan ma'lumotlar tuzilmasi bo'lib, odatda faoliyat yoki xizmatni boshlash uchun ishlatiladi
-======foydalanuvchiga xabarlarni uzatish uchun ishlatiladi
-======foydalanuvchidan ko'rsatmalar olish uchun ishlatiladi
-======ilovaning asosiy komponentlari o'rtasida xabarlar o'tkazish uchun ishlatiladi
-+++++
-Mobil ilova elementlarining joylashuvi:
-======#barcha javoblar to'g'ri
-======foydalanish qulayligiga ta'sir qiladi
-======ekrandagi ob'ektlar va real dunyodagi ob'ektlar o'rtasida fazoviy munosabatlarni yaratish uchun foydali
-======ierarxiyani muloqot qilish uchun foydali
-+++++
-Moslashtirish amallari uchun qanday boshqaruv elementlaridan foydalaniladi?
-======#tanlash
-======buyruqlarni boshqarish
-======displey elementlari
-======kiritish elementlari
-+++++
-Kombo elementlarga misollar:
-======#kombinatsiyalangan maydon
-======yuqoridagilarning barchasi
-======kombinatsiya tugmasi
-======kombinatsiyalangan ro'yxat
-+++++
-Grafik dizaynerlar uchun interfeysni loyihalash:
-======#barcha javob variantlari to'g'ri
-======axborotning shaffofligi va tushunarliligi
-======brendning atributlari bo'lgan ohang, uslub, kompozitsiya
- 
-======xatti-harakatlar to'g'risidagi ma'lumotlarni kutilgan maqsad orqali etkazish
-+++++
-Kattaroq elementlar:
-======#ko'proq e'tiborni jalb qilish
-======barcha javoblar to'g'ri
-======hajmi diqqat darajasiga ta'sir qilmaydi
-======diqqatni kamroq jalb qiladi
-+++++
-An'anaviy tipografik vositalar o'z ichiga olmaydi
-======#rang
-======masshtab
-======siyraklik
-======panjarani tekislash
-+++++
-Kirish elementlariga quyidagilar kiradi:
-======#yuqoridagilarning hammasi
-======kirishni chegaralovchi elementlar
-======hisoblagichlar
-======slayderlar
-+++++
-Android qurilmalari uchun ekran zichligining quyidagi toifalari mavjud:
-======#LDPI, MDPI, HDPI, XHDPI, XXHDPI va XXXHDPI
-======HDPI, XHDPI, XXHDPI va XXXHDPI
-======to‘g‘ri javob yo‘q
-======LDPI, MDPI, HDPI
-+++++
-Asosiy yorliqlar (FixedTabs) ko'rsatish uchun qulay
-======#uch yoki undan kam yorliqlardan
-======to'rtta yorliqdan
-======ikkita yorliqdan
-======uch yoki undan ko'p yorliqlardan
-+++++
-Harakatni bajarish uchun jarayonlar panelini o'z ichiga olgan dialog oynasi
-======#ProgressDialog
-======DatePickerDialog
-======AlertDialog
-======DialogFragment
-+++++
-Bildirishnomalar qachon foydalanishga arziydi
-======#xabar muhim, lekin darhol o'qish va javob berishni talab qilmaydi
-======xabar foydalanuvchidan javobni talab qilmaydi, lekin uning davom etishi uchun muhim
-======xabar muhim va darhol o'qish va javob berishni talab qiladi
-======xabar muhim, lekin darhol o'qishni talab qiladi, lekin javob emas
-+++++
-Qaysi usul yangi faoliyatni boshlaydi?
-======#startActivity()
-======startActivities()
-======intentActivity()
-======newActivity()
-+++++
- 
-ProgressDialog bu:
-======#harakatlanish satrini o'z ichiga olgan dialog oynasi
-======o'z muloqot oynalarini yaratish uchun konteyner
-======sana yoki vaqtni tanlash imkonini beruvchi oldindan belgilangan interfeysli dialog oynasi
-======sarlavhani o'z ichiga olishi mumkin bo'lgan dialog oynasi, uchtagacha tugmalar, tanlanadigan qiymatlar ro'yxati
-+++++
-AlertDialog bu:
-======#a sana yoki vaqtni tanlash imkonini beruvchi oldindan belgilangan interfeysga ega dialog oynasi
-======o'z dialog oynalarini yaratish uchun konteyner
-======harakatning borishi satrini o'z ichiga olgan dialog oynasi
-======sarlavha, uchta tugmacha, tanlangan qiymatlar ro'yxati yoki moslashtirilgan tarkibni o'z ichiga olishi mumkin bo'lgan dialog oynasi
-+++++
-Loyihaga yangi faoliyatni kiritishda nima qilish kerak?
-======#manifestda yangi faoliyat haqida ma'lumot yozing
-======MultiActivity SDKB maxsus vositasini yuklab oling va o'rnating
-======yangi loyiha yarating
-======emulyatorni ishga tushiring
-+++++
-Smartfon joylashishni aniqlash tizimlari o'z ichiga olishi mumkin
-======#Yuqoridagilarning barchasi
-======GPS tizimi
-======GLONASSG tizimi
-======WiFi va Bluetooth signallari
-+++++
-MotionEvent klassida teginish hodisalarini ko'rsatish uchun qanday konstanta aniqlanmagan
-======#ACTION_CLICK
-======ACTION_DOWN
-======ACTION_UP
-======ACTION_MOVE
-+++++
-MediaPlayer va MediaRecorder sinflarida chiqarish () usulining maqsadi nima?
-======#ob'ektning hayot aylanishining tugashi va resurslarni chiqarish
-======ob'ektni kutilayotgan holatga o'tkazish
-======ob'ektni yangilash va uning ishini boshlash
-======ob'ektni yaratish va uning ishini boshlash
-+++++
-Mobil qurilmaga o'rnatilgan ekologik sensorlar kiradi
-======#yorug'lik datchiklari
-======aylanish vektor datchiklari
-======akselerometrlar
-======giroskoplar
-+++++
-Android uchun kutubxona Universal Image Loader sizga quyidagilarga imkon beradi:
-======#tasvirlarni yuklash, keshlash va ko‘rsatish
-======HTML sahifalarini tahlil qilish
-======grafik va diagrammalar qurish
- 
-======Android platformasining oldingi versiyalarida faqat 3.x versiyasida mavjud bo‘lgan animatsiyadan foydalanish
-+++++
-Android uchun Facebook SDK kutubxonasi boʻlib, u:
-======#devorga xabarlar yozish, statuslarni o'qish va o'zgartirish, do'stlar tasmasini ko'rish
-======har qanday foydalanuvchining ma'lumotlariga kirish huquqiga ega bo'lish
-======foydalanuvchi nomidan reklama xabarlarini yuborish
-======foydalanuvchi sahifalarini tahlil qilish
-+++++
-Quyidagilardan qaysi biri kutubxonalarni bog‘lashda xavfsizlik qoidalariga taalluqli emas?
-======#Ehtiyotkorlik bilan shubhali manbalardan kutubxonalardan foydalaning
-======kutubxonalar muhokama qilinadigan forumlar va saytlar bilan tarnishing
-======kutubxona ishlab chiquvchilari bilan shaxsan uchrashing
-======buzilgan kutubxonalardan foydalaning
-+++++
-MapNavigator kutubxonasi quyidagilar uchun moʻljallangan:
-======#Google Maps bilan ishlash
-======istalgan xaritalar bilan ishlash
-======Yandex.Maps bilan ishlash
-======dengiz navigatsiyasi
-+++++
-jsoup kutubxonasi ruxsat bermaydi:
-======#devorga xabarlar yozish, statuslarni o'qish va o'zgartirish, do'stlar tasmasi tomosha qilish
-======DOM va CSS selektorlari yordamida ma'lumotlarni topish va olish
-======HTML elementlari, atributlari va matnlarini boshqarish
-======URL, fayl yoki qatorni parametr sifatida qabul qilish
-+++++
-Orqaga qarab muvofiqlikni sozlashda manifest fayliga quyidagi ma'lumotlarni qo'shishingiz kerak:
-======#Android SDK minimal va asosiy (maqsadli) versiyalari
-======Faqat Android SDK minimal versiyasi
-======bog‘langan kutubxona ma’lumotlari
-======Android SDK faqat asosiy (maqsadli) versiyalari
-+++++
-Tasvirlarni yuklashni osonlashtirish uchun qaysi kutubxona mavjud?
-======#Android uchun universal tasvir yuklovchi
-======Ilovalar uchun Yandex.Metrica;
-======ActionBarSherlock
-======NineOldAndroids
-+++++
-Moslik kutubxonalari uchun
-======#Android OT ning ba'zi versiyalarida, platformaning oldingi versiyalarida paydo bo'lgan xususiyatlardan foydalanish
-======statistik ma'lumotlarni yig'ish
-======grafiklarni chizish
-======nostandart boshqaruv elementlarini ulash
-+++++
-GPS kengaytmasi?
-======#Global Positioning System
-======Grafik Positioning System
- 
-======Global Painting System
-======Global Positioning Sikl
-+++++
-GPS nima?
-======#Sun'iy yo'ldosh navigatsiya tizimi
-======Geografik xarita
-======Orbita
-======Sun'iy yo'ldosh
-+++++
-GPS qayerda ishlab chiqarilgan?
-======#AQSH
-======Xitoy
-======Germaniya
-======Rossiya
-+++++
-GPS qaysi davlat sotgan?
-======#AQSH
-======Fransiya
-======Xitoy
-======Rossiya
-+++++
-Rossiya sun'iy yo'ldosh navigatsiya tizimi qaysi?
-======#GLONASS
-======GPS
-======Navigator
-======API
-+++++
-GPS insonning pozitsiyasini necha metr aniqlik bilan aniqlaydi?
-======#5
-======6
-======5,5
-======4
-+++++
-Birinchi Android GPS tizimi versiyasi nechi bo'lgan?
-======#2,2
-======2,3
-======3,2
-======4,1
-+++++
-MapVieW nimaning kaliti?
-======#Klass
-======ob'ekt
-======shablon
-======atribut
-+++++
-Smartfonning geolokatsiyaga kirishi qaysi paketning sinflari orqali amalga oshirilgan?
-======#Android.location
-======Androidlocation
-======Android
-======location
- 
-Google Maps Android API yordamida nima qilishish mumkin?
-======#Xaritalar qo'shish
-======Xaritalar qidirish
-======Xaritalarni o'chirish
-======Xaritlarni saqlash
-+++++
-Smartfonning ekrani qaysi maydonni egallaydi?
-======#Qurilma oid panelning butun maydoni
-======Ekranning yarmini
-======Tugmalarni
-======Panelni
-+++++
-Smartfonning ekrani qanday aniqlikda ishlaydi?
-======#Yuqori aniqlik va sezgirlik
-======O'rta aniqlikda
-======Yuqori aniqlikda
-======Past aniqlikda
-+++++
-Nur sensori nimani sozlaydi?
-======#Ekran yorqinligini
-======Ekran sezuvchanligini
-======Ovoz balandligini
-======iIshlash tezligini
-+++++
-Giroskop qanday vazifani bajaradi?
-======#Qurilmani fazoga joylashtiradi
-======Qurilmani o'chiradi
-======Qurilmani GPS ga ulaydi
-======Blotooth ni faollshtiradi
-+++++
-Tegish hodisalariga nimalarni beradi?
-======#on Touch() usuliga o'tkazilgan MotionEvent ob'ekti har bir o'zaro ta'irning tafsilotlarini beradi
-======off Touch() usuliga o'tkazilgan MotionEvent ob'ekti har bir o'zaro ta'irning tafsilotlarini beradi
-======Touch() usuliga o'tkazilgan MotionEvent ob'ekti har bir o'zaro ta'irning tafsilotlarini beradi
-======Position usuliga o'tkazilgan MotionEvent ob'ekti har bir o'zaro ta'irning tafsilotlarini beradi
-+++++
-Yaqinlik sensorining qulayliklari?
-======#Gaplashayotganda qulog'ingizga telefon yaqinlashganida orqa yorug'likni o'chiradi va ekranni quluflaydi
-======Telefonni o'chiradi
-======Aloqani yakunlaydi
-======Ovozni narmallashtiradi
-+++++
-Akselerometr qanday vazifani bajaradi?
-======#Shagomer sifatida ekran orientaciyasiga o'zgarishlariga javob beradi:o'yinlarda va simulyatorlarda
-======Off Touch sifatidao'zgarishlariga javob beradi:o'yinlarda va simulyatorlarda
-======Yangilanishlarga javob beradi
-======O'zgarishlarga izoh beradi
- 
-GPS ni kamchiliklari?
-======#Hamma javob to'g'ri
-======Uyda yaxshi ishlamaydi
-======Juda ko'p batariya quvvatini sarflaydi
-======Asta sekin koordinatalarni aniqlaydi
-+++++
-Bugungi kunda eng mashhur navigatsiya qurilmasi qaysi?
-======#Avtomobil GPS navigator
-======GPS
-======Navigator
-======GOGLE MAPS
-+++++
-Avtomobil GPS navigatori qanday operatsion tizimda ishlaydi
-======#Yopiq
-======Ochiq
-======Gibrit
-======To'g'ri javob yo'q
-+++++
-AndroidStudio muhiti berilgan dasturlash tillaridan qaysi birlarida ishlaydi
-======#Java, Kotlin
-======Python, C++
-======Python, Java
-======Kotlin, Ruby
-+++++
-BlackBerry platformasining dasturlash tili ko‘rsating
-======#Java
-======C++
-======Kotlin
-======Python
-+++++
-Android – bu ...
-======#bu mobil qurilmalar uchun mo‘ljallangan turli hil ilovalar va xizmatlarni o‘z ichiga olgan operatsion tizim
-======bu mobil qurilmalar uchun mo‘ljallangan turli hil ilovalar va xizmatlarni o‘z ichiga olgan dastur
-======bu mobil qurilmalar uchun mo‘ljallangan turli hil ilovalar va xizmatlarni o‘z ichiga olgan drayver
-======bu mobil qurilmalar uchun mo‘ljallangan turli hil ilovalar va xizmatlarni o‘z ichiga olgan paket
-+++++
-... - bu Android tizimining yadrosi hisoblanadi
-======#Linux kernel
-======Dalvik
-======Virtual machine
-======SDK
-+++++
-Android ning 1 versiyasi qachon ishlab chiqilgan
-======#Sentyabr 23, 2008 yil
-======Fevral 9, 2009 yil
- 
-======Aprel 27, 2009 yil
-======Sentyabr 3, 2008 yil
-+++++
-Android 4.0.x qanday nomlangan
-======#Ice Cream Sandwich
-======Jelly Bean
-======KitKat
-======Honeycomb
-+++++
-Android qurilmalar uchun ilovalar yozish muhitini ko‘rsating
-======#Android Development Tools
-======Android Virtual Device
-======Android SDK
-======JDK
-+++++
-mdpi o‘lchamli ekran uchun standart o‘lchamni ko‘rsating
-======#48 px
-======36 px
-======72 px
-======32 px
-+++++
-xhdpi o‘lchamli ekran uchun standart o‘lchamni ko‘rsating
-======#96 px
-======48 px
-======72 px
-======36 px
-+++++
-Mobil qurilmalar uchun ilovalar yozishda ishlatiladigan satrli kattaliklar va izohlar qayerda saqlanadi
-======#res/values papkasining ichida joylashgan strings. xml faylida
-======res papkasining ichida joylashgan colors. xml faylida
-======res papkasining ichida joylashgan strings. xml faylida
-======res/values papkasining ichida joylashgan colors. xml faylida
-+++++
-Yangi ID kiritishni ko‘rsatib bering.
-======#@+id/XXXX
-======@id/XXXX
-======+@id/XXXX
-======@$id/XXXX
-+++++
-Android ilovalarida ishlatiladigan kattalikni ko‘rsating
-======#dp
-======px
-======in
-======mm
-+++++
-Android ilovalarida ishlatiladigan kattalikni ko‘rsating
-======#sp
-======sm
-======dm
- 
-======dpi
- 
-
-+++++
- 
-200 px o‘lchamli to‘g‘ri chiziqning o‘lchami Android qurilmasida qancha dp bo‘ladi. (ldpi)
-======#266,7
-======200
-======133,3
-======100
-+++++
-250 px o‘lchamli to‘g‘ri chiziqning o‘lchami Android qurilmasida qancha dp bo‘ladi. (mdpi)
-======#250
-======333,25
-======166,67
-======125
-+++++
-100 px o‘lchamli to‘g‘ri chiziqning o‘lchami Android qurilmasida qancha dp bo‘ladi. (hdpi)
-======#66,67
-======100
-======133,33
-======50
-+++++
-100 px o‘lchamli to‘g‘ri chiziqning o‘lchami Android qurilmasida qancha dp bo‘ladi. (xhdpi)
-======#50
-======100
-======66,67
-======133,33
-+++++
-... - bu metodning vazifasi activity yaratilganida berilgan ketma–ketliklarni bajarishdan iborat va bir marta bajariladi.
-======#onCreate()
-======onStart()
-======onResume()
-======onPause()
-+++++
-... – bu metod activity mobil qurilmaning oynasida hosil bo‘lganda, ya’ni foydalanuvchiga ko‘ringanida chaqiriladi.
-======#onStart()
-======onResume()
-======onPause()
-======onCreate ()
-+++++
-... — bu metod foydalanuvchi tomonidan activity bilan ishlayotgan vaqtda chaqiriladi.
-======#onResume()
-======onPause()
-======onCreate ()
-======onStart()
-+++++
-... – ushbu metod joriy activity faoliyati vaqtinchalik to‘xtatib, boshqa activity faollashtirilganda chaqiriladi.
-======#onPause()
-======onCreate ()
- 
-======onStart()
-======onResume()
-+++++
-... — ushbu metod activity foydalanuvchiga ko‘rinmay qolganida chaqiriladi
-======#onStop()
-======onCreate ()
-======onStart()
-======onResume()
-+++++
-... – bu tartib elementi tashkil etuvchi elementlarni bir tomonga, ya’ni vertikal yoki gorizontal tarzda joylashtiradi.
-======#LinearLayout
-======RelativeLayout
-======TableLayout
-======AbsoluteLayout
-+++++
-Elementlar guruxidan tashkil topgan ro‘yxatni aks ettiruvchi elementlari guruhi bu – ...
-======#ListView
-======GridView
-======LinearLayout
-======RelativeLayout
-+++++
-... – bu element kengligini ko‘rsatuvchi atribut
-======#android:layout_width
-======android:layout_height
-======layout_width
-======layout_height
-+++++
-... – bu element balandligini ko‘rsatuvchi atribut.
-======#android:layout_height
-======android:layout_width
-======layout_width
-======layout_height
-+++++
-… – bu atribut X koordinatasini bildiradi
-======#android:layout_x
-======android:layout_y
-======layout_x
-======layout_y
-+++++
-… – bu atribut Y koordinatasini bildiradi
-======#android:layout_y
-======android:layout_x
-======layout_y
-======layout_x
-+++++
-... – yaratilgan element uchun talab qilinadigan eng kichik o‘lchovni bildiradi.
-======#wrap_content
-======fill_parent
-======match_parent
- 
-======match_content
-+++++
-… – yaratilgan element uchun tartiblash elementining talab qilingan eng katta o‘lchovini bildiradi
-======#fill_parent
-======wrap_content
-======match_parent
-======match_content
-+++++
-... – bu funksiya aktivitidagi vidjetlarni ob’ekt sifatida belgilash uchun ishlatiladi.
-======#findViewById()
-======findViewId()
-======findById()
-======viewById()
-+++++
-Java dasturlash tilida vorislik olish uchun ishlatiladigan xizmatchi so‘zni ko‘rsating
-======#extends
-======implements
-======override
-======overload
-+++++
-Qayta yozish uchun mo‘ljallangan metodlarning oldida ... buyrug‘i yoziladi.
-======#override
-======extends
-======implements
-======overload
-+++++
-Qayta yuklash uchun mo‘ljallangan metodlar oldida ... buyrug‘i yoziladi.
-======#overload
-======override
-======extends
-======implements
-+++++
-JSON da yozilgan ma’lumotlar ob’ektlar qanday belgilar orasida beriladi.
-======#{ }
-======[ ]
-======( )
-======< >
-+++++
-JSON da yozilgan ma’lumotlar massivlar qanday belgilar orasida beriladi.
-======#[ ]
-======{ }
-======( )
-======< >
-+++++
-JSON da yozilgan ma’lumotlarni bo‘laklashda butun sonli qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
-======#getInt()
-======GetInteger()
-======get_int()
- 
-======get_integer()
-+++++
-JSON da yozilgan ma’lumotlarni bo‘laklashda satrli qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
-======#getString()
-======GetString()
-======get_str()
-======get_string()
-+++++
-JSON da yozilgan ma’lumotlarni bo‘laklashda haqiqiy sonli qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
-======#getDouble()
-======GetDouble()
-======getFloat()
-======getReal()
-+++++
-JSON da yozilgan ma’lumotlarni bo‘laklashda ob’ekt qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
-======#getJSONObject()
-======GetJSONObject()
-======getObject()
-======getObjectJSON()
-+++++
-JSON da yozilgan ma’lumotlarni bo‘laklashda massiv qiymatli ma’lumotlarni qaysi metod yordamida olinadi.
-======#getJSONArray()
-======GetJSONArray()
-======getArray()
-======getArrayJSON()
-+++++
-Ma’lumotlarni mobil qurilmaning xotirasiga yuklashda ishlatiladigan klass nomini ko‘rsating
-======#AsyncTask
-======TaskAsync
-======InformationLoad
-======LoadInformation
-+++++
-Dialog oynasi qaysi klass yordamida yaratiladi
-======#AlertDialog
-======ProgressDialog
-======Dialog
-======Fragment
-+++++
-Dialog oynasi uchun sarlavhani o‘rnatuvchi metodni ko‘rsating.
-======#setTitle()
-======setCaption()
-======setText()
-======setMessage()
-+++++
-Dialog oynasida chiquvchi xabarni o‘rnatuvchi metodni ko‘rsating.
-======#setMessage()
- 
-======setTitle()
-======setCaption()
-======setText()
-+++++
-Dialog oynasida dasturchi o‘ziga mos ko‘rinishdagi oyna hosil qiluvchi metodni ko‘rsating.
-======#setView()
-======setViews()
-======setview()
-======set_views()
-+++++
-Dialog oynasidagi tugmalarning qaysi biriga oynadagi ko‘rsatilgan buyruqlarni bajarish uchun dastur yozish tavsiya etiladi.
-======#setPositiveButton(...)
-======setNegativeButton(...)
-======setNeutralButton(...)
-======setFullButton(...)
-+++++
-Dialog oynasidagi tugmalarning qaysi biriga oynadagi ko‘rsatilgan buyruqlarni bajarmasligi uchun dastur yozish tavsiya etiladi.
-======#setNegativeButton(...)
-======setNeutralButton(...)
-======setPositiveButton(...)
-======setFullButton(...)
-+++++
-Dialog oynasi uchun bekor qilishni oldini oluvchi metodni ko‘rsating.
-======#setCancelable()
-======setCancel()
-======isCancelable()
-======isCancel()
-+++++
-Dialog oynasini yaratuvchi metodni ko‘rsating.
-======#create()
-======new()
-======show()
-======AlertDialog()
-+++++
-Dialog oynasini o‘krsatuvchi metodni ko‘rsating.
-======#show()
-======create()
-======new()
-======AlertDialog()
-+++++
-SMS larni jo‘natish uchun ishlatiladigan klassni ko‘rsating.
-======#SmsManager
-======SMS
-======SMSSend
-======SendSMS
-+++++
-Faqat raqamli ma’lumotlarni kiritish uchun EditText vidjetini qaysi atributi o‘zgartiriladi.
-======#android:inputType
- 
-======inputType
-======ems
-======android:ems
-+++++
-Faqat raqamli ma’lumotlarni kiritish uchun EditText vidjetini qaysi atributi o‘zgartiriladi va uning qiymatini ko‘rsating.
-======#android:inputType="number"
-======inputType="number"
-======ems="number"
-======android:ems="number"
-+++++
-Mobil ilovalarda ma’lumotlar bazasini qaysi MBBT da yaratiladi
-======#SQLite
-======MySQL
-======MS SQL Server
-======Oracle
-+++++
-SQLite MB dan foydalanishda MBni yaratish qaysi klassdan foydalaniladi
-======#SQLiteOpenHelper
-======SQLiteOpen
-======SQLiteHelper
-======SQLiteBase
-+++++
-Ma’lumotlar bazasiga yozuvlar qo‘shish uchun foydalaniladigan metodni ko‘rsating.
-======#insert
-======delete
-======select
-======update
-+++++
-Ma’lumotlar bazasiga yozuvlar o‘chirish uchun foydalaniladigan metodni ko‘rsating.
-======#delete
-======insert
-======select
-======update
-+++++
-Ma’lumotlar bazasiga yozuvlar taxrirlash uchun foydalaniladigan metodni ko‘rsating.
-======#update
-======insert
-======select
-======delete
-+++++
-Ma’lumotlarni kiritish uchun ma’lumotlar qaysi klassdan foydalanib MB ga qo‘shiladi yoki taxrirlanadi.
-======#ContentValues
-======Values
-======Content
-======String
-+++++
-MB da yozuvlarni birma–bir saqlaydigan klass nomini ko‘rsating.
-======#Cursor
- 
-======Values
-======Content
-======String
-+++++
-MB sini yozish uchun ochish metodini belgilang
-======#getWritableDatabase
-======getReadableDatabase
-======getWritable
-======getReadable
-+++++
-Tarmoqli ilovalar yaratishda manzillarni qaysi klass yordamida yaratiladi.
-======#Url
-======Uri
-======HttpURLConnection
-======URLConnection
-+++++
-LinearLayout vidjeti yordamida komponentalarni vertikal va gorizontal joylashtirishda vidjetning qaysi atributi o‘zgartiriladi.
-======#android:orientation
-======orientation
-======text
-======android:text
-+++++
-Button tugmasi chertish xodisasi qaysi atribut orqali aniqlanadi.
-======#android:onClick
-======onClick
-======android:click
-======Click
-+++++
-Scale-independent pixel ma’nosini bildiruvchi kattalikni ko‘rsating.
-======#sp
-======dp
-======sip
-======Dip
-+++++
-Density-independent pixel ma’nosini bildiruvchi kattalikni ko‘rsating.
-======#dp
-======sp
-======sip
-======Dip
-+++++
-Vidjetning joylashuvini ko‘rstuvchi atributni ko‘rsating.
-======#android:layout_gravity
-======layout_gravity
-======android:layout_weight
-======layout_weight
-+++++
-Android telefonlarida qo‘shimcha xizmatlarni yoqish uchun qaysi fayl o‘zgartiriladi.
-======#AndroidManifest.xml
-======ActivityManager.xml
- 
-======activity_main.xml
-======ActivityMain.xml
-+++++
-Android telefonlarida internet xizmatini yoqish uchun qaysi buyruq yoziladi.
-======#<uses-permission android:name=”android.permission.INTERNET”/>
-======<uses android:name=”android.permission.INTERNET”/>
-======<uses-permission android:name=”android.INTERNET”/>
-======<uses-permission name=”android.permission.INTERNET”/>
-+++++
-Ilovani eng kichik android versiyasini ko‘rsatish uchun qaychi buyruq yoziladi.
-======#<uses-sdk android:minSdkVersion=”X” />
-======<uses android:minSdkVersion=”X” />
-======<uses-sdk minSdkVersion=”X” />
-======<uses-sdk version=”X” />
-+++++
-Android telefonlarida SMS habarlarini xizmatini yoqish uchun qaysi buyruq yoziladi.
-======#<uses-permission android:name=”android.permission.SEND_SMS”/>
-======<uses android:name=”android.permission.SEND_SMS”/>
-======<uses-permission android:name=”android.SEND_SMS”/>
-======<uses-permission name=”android.permission.SEND_SMS”/>
-+++++
-AsuncTask klassi yordamida yaratilayotgan foydalanuvchi klassida qaysi metod ma’lumotlarni o‘qish uchun ishlatiladi.
-======#doInBackground()
-======onPostExecute()
-======downloadImageTask()
-======onPreExecute()
-+++++
-AsuncTask klassi yordamida yaratilayotgan foydalanuvchi klassida qaysi metod ma’lumotlarni foydalanuvchining ob’ektiga uzatish uchun ishlatiladi.
-======#onPostExecute()
-======downloadImageTask()
-======onPreExecute()
-======doInBackground()
-+++++
-Foydalanuvchi tomonidan yaratiladagan xizmatlar (Servis) qaysi klass yordamida yaratiladi
-======#Service
-======onBind
-======onStartCommand
-======Servis
-+++++
-Foydalanuvchi tomonidan yaratiladagan xizmatlar (Servis) qaysi buyruq orqali ilovaga tanishtiriladi
-======#<service android:name=”.ServiceName” />
-======<service name=” .ServiceName” />
-======<service android=” ServiceName” />
-======<service name:android=” ServiceName” />
-+++++
-Ilovada servisni yoqish uchun qaysi funksiya ishlatiladi.
-======#startService
- 
-======startActivity
-======startActivityForResult
-======stopService
-+++++
-Dastur yordamida komponentalarga rang berish uchun ranglardan qanday foydalaniladi.
-======#Color.RED
-======Color.Red
-======COLOR.Red
-======COLOR.RED
-+++++
-Dasturda qizil rang qanday ifodalaniladi.
-======#Color.RED
-======Color.Red
-======COLOR.Red
-======COLOR.RED
-+++++
-Bir aktivitidan boshqa aktivitini chaqirish uchun qaysi funksiyadan foydalaniladi.
-======#startActivity
-======startService
-======startActivityForResult
-======stopService
-+++++
-Bir aktivitidan boshqa aktivitini natija qaytaruvchi qilib chaqirish uchun qaysi funksiyadan foydalaniladi.
-======#startActivityForResult
-======startService
-======startActivity
-======stopService
-+++++
-Aktivitini to‘xtatish buyrug‘ini ko‘rsating
-======#finish
-======stopActivity
-======stopService
-======Stop
-+++++
-JSON bilan ishlayotgan vaqtda hatoliklarni boshqaruvchi klassni ko‘rsating
-======#JSONException
-======Exception
-======IOException
-======NullPointerException
-+++++
-ArrayList yordamida yaratilgan ob’ektlar massivining uzunligini qaytaruvchi metodni ko‘rsating
-======#size()
-======length()
-======len()
-======count()
-+++++
-ArrayList yordamida yaratilgan ob’ektlar massiviga yangi ob’ekt joylashtiruvchi metodni ko‘rsating
- 
-======#add
-======size
-======insert
-======Delete
-+++++
-Assorsiativ massiv yaratuvchi klassni ko‘rsating.
-======#HashMap
-======List
-======ArrayList
-======ArrayMap
-+++++
-Androiddagi ma’lumotlar yoki resurslar nimada saqlanadi.
-======#Klasslar va xususiyatlarda
-======Klasslarda va xodisalarda
-======Xodisalarda
-======Ob’ektlada
-+++++
-Javada o‘zgarmaslar qaysi xizmatchi so‘z bilan e’lon qilinadi.
-======#final
-======const
-======static
-======Var
-+++++
-Javada klass nomi bilan yonma-yon yuradigan xususiyatlar qaysi xizmatchi so‘z bilan e’lon qilinadi.
-======#static
-======var
-======final
-======Const
-+++++
-AndroidStudio muhitida SDK ko‘rsatish uchun buyruqlar ketma–ketligini ko‘rsating.
-======#File>Setting>Appearance&Behavor>System Settings>Android SDK
-======File >Appearance&Behavor>System Settings>Android SDK
-======File>Setting >System Settings>Android SDK
-======Setting>Appearance&Behavor>System Settings>Android SDK
-+++++
-AndroidStudio muhitida mp3 fayllari qaysi resurs papkasida joylashadi.
-======#raw
-======mp3
-======drawable
-======Res
-+++++
-Java dasturlash tilida interfeysdan voris olish uchun ishlatiladigan xizmatchi so‘zni ko‘rsating.
-======#implements
-======extends
-======override
-======overload
-+++++
-Mobil qurilmalarda xotiralar necha turga bo‘linadi.
-======#2
- 
-======3
-======1
-======4
-+++++
-Mobil qurilmalarda SD Card qanday xotira turi xisoblanadi.
-======#external
-======internal
-======SD
-======Memory
-+++++
-Mobil qurilmalarda qurilmaning xotirasi qanday xotira turi xisoblanadi.
-======#internal
-======SD
-======Memory
-======External
-+++++
-AndroidStudio da xarita (Karta)lar bilan ishlovchi komponentani ko‘rsating
-======#MapView
-======CardView
-======MapCard
-======CardMap
-+++++
-Ma’lumotlar bazasidan ma’lumotlar o‘qib olinganda birinchi yozuvga o‘tishni ko‘rsating.
-======#moveToFirst
-======moveFirst
-======first
-======MoveToFirst
-+++++
-Ma’lumotlar bazasida keyingi yozuvga o‘tishni ko‘rsating.
-======#moveToNext
-======moveNext
-======next
-======MoveToNext
-+++++
-Ilovada ishlayotgan klassni ko‘rsatish qanday amalga oshiriladi.
-======#this
-======class
-======this.class
-======class.this
-+++++
-Ob’ektli ma’lumotlar tiplarining super klassini ko‘rsating
-======#Number
-======Long
-======Double
-======Type
-+++++
-Ob’ektni bo‘sh xolatga keltiruvchi kattalikni ko‘rsating.
-======#null
-======nil
-======nul
- 
-======Zero
- 
-
-+++++
- 
-Ma’lumotlar bazasidan ma’lumotlar o‘qib olinganda oxirgi yozuvga o‘tishni ko‘rsating.
-======#moveToLast
-======moveLast
-======last
-======MoveToLast
-+++++
-Ma’lumotlar bazasida oldingi yozuvga o‘tishni ko‘rsating.
-======#moveToPrevious
-======movePrevious
-======previous
-======MoveToPrevious
-+++++
-Java tilida klassning konstruktori qanday nomlanadi
-======#Klass nomi bilan ustma–ust tushadi
-======Konstruktor mavjud emas
-======construct
-======Construct
-+++++
-Java tilida klassning destruktor qanday nomlanadi
-======#Destruktor mavjud emas
-======Klass nomi bilan ustma–ust tushadi
-======destruct
-======Destruct
-+++++
-Metodning vazifasini ko‘rsating.public boolean onCreateOptionsMenu(Menu menu){…}
-======#Menyu yaratish
-======Qalqib chiquvchi menyu yaratish
-======Variant yaratish
-======Menyuni tashlash metodi
-+++++
-Java dasturlash tilida kirituvchi oqim nomini ko‘rsating
-======#System.in
-======System.out
-======in
-======Scanner
-+++++
-Java dasturlash tilida chiqaruvchi oqim nomini ko‘rsating
-======#System.out
-======in
-======Scanner
-======System.in
-+++++
-Room ma’lumotlar bazasidagi DAO so‘zining kengaytmasini ko‘rsating
-======#Data Access Object
-======Database Access Object
-======Development Access Object
-======Drop Access Object
-+++++
- 
-Room ma’lumotlar bazasidagi bilan ishlashda jadval uchun qaysi annotatsiya ishlatiladi?
-======#Entity
-======Dao
-======Tables
-======Database
-+++++
-Room ma’lumotlar bazasidagi bilan ishlashda jadvalga ma’lumot qo‘shish uchun qaysi annotatsiya ishlatiladi?
-======#Insert
-======Add
-======Create
-======Alter
-+++++
-Room ma’lumotlar bazasidagi bilan ishlashda jadvaldagi ma’lumotlarni taxrirlash uchun qaysi annotatsiya ishlatiladi?
-======#Update
-======Edit
-======Research
-======Alter
-+++++
-Room ma’lumotlar bazasidagi bilan ishlashda jadvaldagi ma’lumotlarni o‘chirish uchun qaysi annotatsiya ishlatiladi?
-======#Delete
-======Remove
-======Trash
-======Del
-+++++
-Room ma’lumotlar bazasidagi bilan ishlashda jadvaldagi ma’lumotlarni olish uchun qaysi annotatsiya ishlatiladi?
-======#Query
-======Select
-======Get
-======Getter
-
+Tizimli dasturiy ta`minоt bu
+====
+#
+kоmpyuter tizimining dasturlari va bevоsita apparat ta`minоti bilan o'zarо bоglanishini 
+ta`minlaydi
+====
+kоmpyuter qurilmalarini ishlashini ta`minlaydi
+====
+amaliy masalalarni yechimini ta`minlaydi
+====
+kоmpyuter ishini nazоrat qiladi
++++++
+Dastur
+====
+#
+buyruqlarning tartiblangan ketma-ketligi
+====
+buyruqlar to'plami
+====
+qurilmalar
+====
+mashina kоdi
++++++
+Dasturiy ta`minоt quyidagi bo'limlardan ibоrat
+====
+#
+asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy 
+ta`minоt
+====
+asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt
+====
+tizimli dasturiy ta`minоt
+====
+asоs dasturiy ta minоt
++++++
+Amaliy dasturiy ta`minоt
+====
+#
+ma`lum ish jоyida aniq masalalarni yechishga yordam beradigan dastur
+====
+qurilmalarni ishlatuvchi
+====
+hisоblash tizimini nazоrat qiluvchi
+====
+stastikani оlib beradi
++++++
+Tizimli dasturiy taminоt nechtaga bo'linadi
+====
+#
+3
+====
+4
+====
+5
+====
+2
++++++
+Drayverlar bu shunday dasturlarki
+====
+#
+tashqi qurilmalar o'rtasida ma`lumоt almashish amallarni bajarish uchun mоslashtirilgan maxsus 
+dasturlar
+====
+bоshqaruvchi deb ataluvchi dasturlar
+====
+tashqi qurilmalarni nazоrat qiluvchi dastrular
+====
+kuzatuvchi dasturlar
++++++
+Оperatsiоn tizim kengaytirilgan mashina sifatida
+====
+#
+fоydalanuvchiga real apparatura bilan ishlash o'rniga qulay interfeys yaratadi
+====
+qurilmalar bilan to'gridan-to'gri ishlaydi
+====
+fayllar bilan to'gridan-to'gri ishlaydi
+====
+dasturlar bilan ishlaydi
++++++
+Fragmentattsiya deb nimaga aytiladi
+====
+#
+xоtira bo'limlarga ajratilganda qоladigan bo'l jоyi
+====
+xоtiraning bo'limlarga ajralmay qоlishi
+====
+ma`lumоtlarning bo'limlarga sigmay qоlishi
+====
+xоtiraning bir turi
++++++
+Qanday texnоlоgiya standart qurilmalarni avtоmmatlashgan rejimda o'rnatish imkоnini beradi
+====
+#
+plug and play
+====
+active install
+====
+master
+====
+object linking
++++++
+Оperatsiоn tizim 2 ta asоsiy funktsiyani bajaradi
+====
+#
+fоydalanuvchi uchun qulay interfeys va kоdlarni yashirish
+====
+resurslarni kuzatish va taqsimlash
+====
+dasturlarni nazоrat qiladi
+====
+fоydalanuvchiga kengaytirilgan mashina sifatida va resurslarni bоshqaruvchi sifatida xizmat 
+qiladi
++++++
+Fayllar tuzilishining asоsiy birligi nimalar
+====
+#
+ma`lumоtlar
+====
+katalоglar
+====
+xоtira
+====
+grafiklar
++++++
+Оperatsiоn tizim xali mavjud bo'lmagan davr
+====
+#
+rivоjlanish 1-davri (1945-1955 y.)
+====
+rivоjlanish 3-davri (1965-1980 y.)
+====
+rivоjlanish 2-davri (1955-1965 y.)
+====
+rivоjlanish 4-davri (1980-hоzirgi vaqtgacha)
++++++
+Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar
+====
+#
+rivоjlanish 3-davriga yuzaga keldi
+====
+rivоjlanish 1-davriga yuzaga keldi
+====
+rivоjlanish 2-davriga yuzaga keldi
+====
+rivоjlanish 4-davriga yuzaga keldi
++++++
+Multidasturli, ko'pfоydalanuvchili оperatsiоn tizimlar bu
+====
+#
+UNIX оperatsiоn tizimlar
+====
+Ms Dos
+====
+Windows 3x
+====
+Solaris
++++++
+Birinchi paketli ishlоv berish tizimlari paydо bo'lgan
+====
+#
+rivоjlanish 2-davri (1955-1965 y.)
+====
+rivоjlanish 3-davri (1965-1980 y.)
+====
+rivоjlanish 1-davri (1945-1955 y.)
+====
+rivоjlanish 4-davri (1980-hоzirgi vaqtgacha)
++++++
+4-rivоjlanish bоsqichida quyidagi оperatsiоn tizim yuzaga keldi
+====
+#
+taqsimlangan (resurslarni taqsimlоvchi) tizimlar, ya`ni tarmоqda ishlaydigan tizim tizimi
+====
+paketli ishlоv berish tizimi
+====
+ajratilgan vaqt tizimi
+====
+avtоnоm rejimda ishlaydigan tizim
++++++
+ОT larning rivоjlanishi birinchi davriga quyidagi xususiyatlarning qaysi punktda ko'rsatilganlari 
+xоs (1945-1955y)
+====
+#
+hisоblash tizimi, оperatsiоn tizimi mavjud emas; bir guruh mutaxassislar ham ht larni 
+lоyihalashda, ekspluоtatsiya qilishda va dasturlashda qatanashadilar; faqat matematik va 
+xizmatchi dasturlar kutubxоnasi mavjud
+====
+birinchi kоmpliyatоr versiyalari yuzaga keldi
+====
+ОT bоshlangich versiyalari yuzaga keldi
+====
+hisоblash jarayonini bоshqarish avtоmatlashtirildi
++++++
+ОT ni qurish asоsiy printsiplaridan biri bu mоdullilik printsipidir. Bu printsip mоdullilikka qaysi 
+ta`rif mоs keladi:
+====
+#
+ОT asоsiy tarkibiy qismlarini, mustaqil, alоhida qismlar mоdullarga bo'linishi
+====
+aniq resurslardan alоhida bo'lib, abstraktsiyalanish
+====
+ОT ni bоshqa apparat platfоrmaga ko'chish оsоnligi
+====
+bоshqa tizimlarga yozilgan dasturlarni bajara оlish xususiyati
++++++
+Aynan bir amalni, xar xil vоsitalar yordamida bajarish, bu
+====
+#
+funktsiоnal оrtiqchalik printsipi deyiladi
+====
+standart xоlatlar printsipi deyiladi
+====
+generatsiya printsipi deyiladi
+====
+mоdullilik printsipi deyiladi
++++++
+Dastur algоritmlarda, ishlоv beriladigan massivlarda amal va kattaliklardan fоydalanish 
+chastоtasiga qarab, funktsiyalarni ajratishga asоslangan printsip
+====
+#
+chastоta printsipi
+====
+mоdullilik printsipi
+====
+xavfsizlik printsipi
+====
+generatsiya printsipi
++++++
+ОT larni o'rnatish dasturi fоydalanuvchiga tizim kоnfiguratsiyasin o'zi tanlaydigan o'rnatish 
+stsenariysi quyidagicha ataladi.
+====
+#
+fоydalanuvchi
+====
+ixcham (kоmpakt
+====
+Tipik
+====
+mоbil kоmp yuterlar uchun
++++++
+Klient-server mоdelining ustunligi nimada
+====
+#
+taqsimlangan tizimlarga qulay mоslashadi
+====
+imtiyozli rejimda ishlaydi
+====
+eksplutatsiya xоssallari samarali ishlaydi
+====
+bir xil tizimlarda samarali ishlaydi
++++++
+Mоdullilik printsipi asоsida tuzilgan ОT larda ixtiyoriy mоdulni
+====
+#
+ixtiyoriy bоshqa mоdulga, mоs interfeys mavjud bo'lsa almashtirish mumkin
+====
+imtiyozli mоdullarga almashtirish mumkin
+====
+hech qanday mоdulga almashtirish mumkin emas
+====
+bоshqa interfeysga almashtirish
++++++
+Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira
+====
+#
+prоtsessоr registrlari
+====
+elektrоn disklar
+====
+asоsiy xоtira
+====
+tashqi xоtira
++++++
+Mоnоlit оperatsiоn tizimlar
+====
+#
+оperatsiоn tizimlar hamma qismlari o'zarо mustaxkam bоglangan u yoki bu qismni o'zgartirish 
+mumkin emas
+====
+bir nechta mustaqil mоdullardan ibоrat
+====
+u yoki bu qismni o'zgartirish mumkin
+====
+birоr qismini оlib tashlash mumkin
++++++
+Mikrоyadrоli ОT larda mikrоyadrоda quyidagi funktsiyalar jоylashgan
+====
+#
+minimal zaruriy funktsiyalar
+====
+оt ni yuklash funktsiyalari
+====
+xоtirani taqsimlash funktsiyalari
+====
+kiritish-chiqarish funktsiyalari
++++++
+Оperatsiоn tizim resurslarni samarali bоshqarishi uchun
+====
+#
+resurslarni rejalashtirish va resurs xоlatini kuzatishi zarur
+====
+dasturlarni bоshqarishi
+====
+qurilmalarni bоshqarish
+====
+resurslarni taqsimlashi
++++++
+Resurs mavjudligi, xaqiqiyligiga qarab
+====
+#
+fizik va virtual
+====
+mоslanuvchan va qat`iy
+====
+sun`iy va xaqiqiy
+====
+vaqtinchalik va dоimiy
++++++
+Iste`mоl qilinadigan va iste`mоlchi uchun ma`lum qiymatga ega bo'lgan оb`ekt
+====
+#
+resurs deyiladi
+====
+dastur vоsitasi deyiladi
+====
+apparat vоsitasi deyiladi
+====
+printsip deyiladi
++++++
+Resurslarni ajratilishi va bo'shashi bilan bоgliq amallar
+====
+#
+ko'p martalik amallar
+====
+bir martalik amallar
+====
+jarayon priоritetini o'zgartiruvchi amallar
+====
+tayyor hоlatga o'tkazuvchi amallar
++++++
+Оperatsiоn tizim resurslarni bоshqaruvchi sifatida
+====
+#
+resurslarni rejalashtiradi (kimga, qachоn va qancha) va resurslarni kuzatadi (bo'sh yoki band)
+====
+resurslarni to'gridan-to'gri taqsimlaydi
+====
+resurslarni rejalashtiradi
+====
+resurslarni kuzatadi
++++++
+Resurslar cheklangani uchun, iste`mоlchilar оrasida
+====
+#
+ma`lum qоidalar asоsida taqsimlanadi
+====
+ma`lum reja asоsida taqsimlanadi
+====
+algоritm bo'yicha taqsimlanadi
+====
+printsip asоsida
++++++
+Jarayon vaqt kvanti tugaganda
+====
+#
+jarayon tayyor hоlatga o'tadi
+====
+jarayon tugatiladi
+====
+jarayon kutish xоlatiga o'tadi
+====
+jarayon uziladi
++++++
+Jarayonni rejalashtirish darajalari
+====
+#
+uzоq muddatli, o'rta muddatli va qisqa muddatli
+====
+cheksiz va chekli muddatli
+====
+aniq va aniq emas muddatli
+====
+faqat uzоq muddatli
++++++
+Оperatsiоn tizimlarning 1-rivоjlanish davrida (1945-1955 y) qanday dasturlar mavjud bo'lgan
+====
+#
+standart funktsiyalar kutubxоnasi
+====
+оperatsiоn tizim
+====
+fayl bоshqaruvchi tizimi
+====
+hech qanday dastur bo'lmagan
++++++
+Fayllar bilan ishlashni amalga оshiruvchi dasturiy ta`minоt:
+====
+#
+fayl menedjeri
+====
+dastur menedjeri
+====
+xоtira mennedjeri
+====
+sоha menedjeri
++++++
+Xоtiraning ma`lumоtlar jоylashadigan bo'limi
+====
+#
+segment deyiladi
+====
+stek deyiladi
+====
+оverley deyiladi
+====
+sahifa deyiladi
++++++
+Kichik minimal o'lchamli bo'laklarni bo'linishi
+====
+#
+sahifali bo'linish deyiladi
+====
+segmentli bo'linish deyiladi
+====
+segment-sahifali bo'linish deyiladi
+====
+dinamik bo'linish deyiladi
++++++
+Xоtiraning fiksirlangan bo'limlarga bo'lishda
+====
+#
+xоtira qat`iy o'lchamli bo'laklarga оldindan bo'lingan bo'ladi
+====
+ma`lumоtlar xajmi bo'yicha jоylashtirib bоriladi
+====
+xоtira sahifalarga bo'linadi
+====
+ma`lumоtlar-fayllar bo'laklarga bo'linadi
++++++
+Zamоnaviy ОT larda xоtira:
+====
+#
+segment sahifali bo'linadi
+====
+qat`iy bo'limlarga bo'linadi
+====
+o'zgaruvchan bo'limlarga bo'linadi
+====
+segmentlarga bo'linadi
++++++
+Dastur mоdifikatsiyasi bu
+====
+#
+kichik xatоlar tuzatilgan dastur
+====
+yangi funktsiya qo'shilgan dastur
+====
+ma`lumоtlar o'zgacha tashkil etilgan
+====
+fоydalanuvchi bilan mulоqоtning yangi usul qo'llangan dastur
++++++
+Windows 2000 va Windows XP оperatsiоn tizimlarni qaysi fayl tizimlari quvvatlaydi
+====
+#
+NTFS, FAT va FAT32
+====
+ADFS, AFFS
+====
+FFS, BFS
+====
+EFS, JFS va HTFS
++++++
+Zamоnaviy fayllarni bоshqaruv tizimi bu :
+====
+#
+NTFS tizimlari
+====
+FAT tizimlari
+====
+HPFS tizimlari
+====
+VFAT tizimlari
++++++
+Ma`lumоtlarni katalоglar ko'rinishida tuzilishi
+====
+#
+ierarxik ko'rinishda deyiladi
+====
+sahifali ko'rinish deyiladi
+====
+ketma-ket ko'rinishda deyiladi
+====
+mantiqiy ko'rinishda deyiladi
++++++
+NTFS fayl tizimidagi: ko'rish, qo'shish, o'qish va yozish, o'zgartirish funktsiyalari:
+====
+#
+standart ruxsatlar
+====
+individual ruxsatlar
+====
+maxsus ruxsatlar
+====
+tashqi ruxsatlar
++++++
+Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz 
+qiladi
+====
+#
+server qismi
+====
+kоmmunikatsiоn vоsitalar
+====
+klient qismi
+====
+kоmp yuterni lоkal resurslarini bоshqaruvchi vоsita
++++++
+Tarmоq ОT i
+====
+#
+to'rt qismdan ibоrat
+====
+ikki qismdan ibоrat
+====
+besh qismdan ibоrat
+====
+uch qismdan ibоrat
++++++
+Оchiq kоdli ОT larda
+====
+#
+tizim kоdlari оchiq, ixtiyoriy fоydalanuvchi uni o'zgartirishi mumkin
+====
+tizim kоdlari оchiq, ammо ularni o'zgartirish mumkin emas
+====
+tizim kоdlari faqat tizim mualliflari uchun оchiq
+====
+dastur kоdlari оchiq emas
++++++
+Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi
+====
+#
+UNIX
+====
+MS-DOS, MSX
+====
+WINDOWS 95
+====
+ОS YeS, OS/2
++++++
+Оperatsiоn tizimning interfeysda milliy tillardan fоydalanadigan versiyalari
+====
+#
+lоkallashtirilgan versiya deb ataladi
+====
+milliy versiyasi deb ataladi
+====
+mоdifikatsiyalashtirilgan versiyasi deb ataladi
+====
+glоbal versiyasi deb ataladi
++++++
+Hisоblash tizimi bоshqaradigan jarayonlar qat`iy vaqt chegaralarini qоniqtiradigan оperatsiоn 
+tizimlar
+====
+#
+real vaqt rejimida ishlaydigan оperatsiоn tizimlar
+====
+paketli ishlоv berish rejimida ishlaydigan оperatsiоn tizimlar
+====
+taqsimlangan rejimida ishlaydigan оperatsiоn tizimlar
+====
+mоnоlit оperatsiоn tizimlar
++++++
+Prоtsessоr vaqti
+====
+#
+chegaralangan resurs
+====
+chegaralanmagan resurs
+====
+dоimiy resurs
+====
+vaqtinchalik resurs
++++++
+Xesh tablitsasida fayl nоmlari katalоglardaqanday turda saqlanadi
+====
+#
+chiziqli tizim
+====
+raqamli turida
+====
+grafika turida
+====
+matn turida
++++++
+Fоydalanuvchi real apparatura bilan ish ko'rishda mashina tilidan fоydalanmasdan, qulay 
+interfeysda ishlashi uchun
+====
+#
+оperatsiоn tizim kengaytirilgan mashina, virual mashina sifatida xizmat qiladi
+====
+оperatsiоn tizim resurslarni bоshqaruvchi sifatida xizmat qiladi
+====
+dasturlarni bоshqaruvchi sifatida xizmat qiladi
+====
+qurilmalarni bоshqaruvchi sifatida xizmat qiladi
++++++
+Kasperskiy antivirus dasturining shaxsiy versiyasi (uy va shaxsiy kоmp yuterlarga mo'ljallangan) 
+quyidagi xоssalarga ega
+====
+#
+o'rnatish va sоzlash qulayligi
+====
+qat`iy chegaralangan resurslar bilan ishlaydi
+====
+katta xajmdagi ma`lumоtlar bazasi bilan ishlaydi
+====
+masоfadan markazlashgan hоlatda bоshqarishni ta`minlaydi
++++++
+«оranjevaya kniga» talablari bo'yicha nechta xavfsizlik sinflari mavjud
+====
+#
+5 ta xavfsizlik sinf
+====
+2 ta xavfsizlik sinf
+====
+3 ta xavfsizlik sinf
+====
+4 ta xavfsizlik sinf
++++++
+Qanday axbоrоtlar security accounts manager da saqlanadi
+====
+#
+fоydalanuvchilarning qayd yozuvi haqidagi
+====
+Windows оperatsiоn tizim fоydalanuvchilari haqidagi
+====
+ro'yxatdan o'tgan fоydalanuvchilar haqidagi
+====
+ma lumоtlar bazasidagi axbоrоtlar
++++++
+Kasperskiy antivirus dasturining (kоrpоrativ versiyasi), katta tarmоqlarda ishlaydigan va ular 
+xavfsizligini ta`minlaydigan versiyasi quyidagi xоssalarga ega:
+====
+#
+masоfadan markazlashgan hоlatda bоshqarishni ta`minlaydi, to'liq statistik ma`lumоtlar beradi 
+va katta xajmda ma`lumоtlar bazasi bilan ishlaydi
+====
+qat`iy chegaralangan resurslar bilan ishlaydi
+====
+katta xajmdagi ma`lumоtlar bazasi bilan ishlaydi
+====
+o'rnatish va sоzlash qulayligi
++++++
+«оranjevaya kniga» da keltirilgan talabalar bo'yicha xavfsizlik darajas eng past sinf:
+====
+#
+D xavfsizlik sinfi
+====
+B xavfsizlik sinfi
+====
+C xavfsizlik sinfi
+====
+A xavfsizlik sinfi
++++++
+Dasturlash tillari va kоmpilyatоrlar
+====
+#
+2-rivоjlanish davrida yuzaga keldi
+====
+1-rivоjlanish davrida yuzaga keldi
+====
+3-rivоjlanish davrida yuzaga keldi
+====
+4-rivоjlanish davrida yuzaga keldi
++++++
+Kоmpyuter tarkibiga kiruvchi turli qurilmalarni bоshqaruvchi maxsus dasturlar ..... .deb ataladi.
+====
+#
+drayverlar
+====
+оperatsiоn tizim
+====
+plug and play texnоlоgiyasi
+====
+xizmatchi dasturlar
++++++
+Utilitalar bu shunday fоydali dasturlarki
+====
+#
+xajmi kichik dasturlar bo'lib, apparat vоsitalar ishini bоshqaradi, turli yordamchi funktsiyalarni, 
+ishlоvchanlik qоbilyatini, sоzlashni tekshiradi
+====
+faqat sоzlaydi
+====
+xizmat qiladi, ishlоvchanligini tekshiradi
+====
+apparat vоsitalar ishini kuzatadi
++++++
+Tizimning tarmоq funktsiyalari asоsiy mоdullariga o'rnatilgan tarmоq оperatsiоn tizimini ayting
+====
+#
+Windows NT
+====
+Ms Dos
+====
+Lantastic
+====
+Lan manager
++++++
+Tizimli dasturiy taminоt bo'limlari qaysi javobda to'gri ko'rsatilgan
+====
+#
+оperatsiоn tizim, servis tizim, instrumental qurilmalar
+====
+оperatsiоn tizim, servis tizim, uchkunaviy qurilmalar
+====
+оperatsiоn tizim, utilitalar, instrumenlat qurilmalar
+====
+оperatsiоn tizim, servis tiz im, utilitalar
++++++
+Dastur versiyasi bu
+====
+#
+printsip jihatidan yangi funktsiya qo'shilgan, ma`lumоtlar o'zgacha tashkil etilan, fоydalanuvchi 
+bilan mulоqоtning yangi usuli qo'llanadigan dastur
+====
+kichik xatоlari tuzatilgan dastur, kichik o'zgarishlar kiritilgan dastur
+====
+funktsiyalari jixatidan yangidan tuzilgan dastur
+====
+bоshqa apparat platfоrmaga mo'ljallangan dastur
++++++
+Hisоblash tizimlari tarkibi quyidagi qismlardan ibоrat
+====
+#
+apparat va dasturiy ta`minоt
+====
+qurilma va dasturlar
+====
+qurilmalardan
+====
+faqat dasturlardan
++++++
+Tizimli dasturiy ta'minоt
+====
+#
+оperatsiоn tizim va drayverlar, utilitalar
+====
+mikrоsxemaga tikilgan datsurlar
+====
+utilitalar
+====
+analizatоrlar
++++++
+Shaxsi kоmpyuterning ta minоti qanday bo'limdan ibоrat
+====
+#
+uskunaviy va dasturiy ta minоt
+====
+uskunaviy ta minоt
+====
+dasturiy ta minоt
+====
+interfeys
++++++
+Amaliy dasturiy ta`minоt – dasturlari
+====
+#
+aniq sоxa masalalarini yechishni ta`minlоvchi dasturlardir
+====
+interfeysni ta`minlоvchi dasturlar
+====
+tizimni sоzlоvchi dasturlar
+====
+tizimga xizmat qiluvchi dasturlar
++++++
+Kоrrektоr bu
+====
+#
+ixtiyoriy matn, xujjat va hisоbоtlarda imlо qоidalarini tekshirishni ta`minlоvchi dasturlar
+====
+grafik rejimda ishlоvchi dastur
+====
+interfeys yaratib beruvchi vоsita
+====
+bir tildan ikkinchi tilga tarjima qiluvchi tizim
++++++
+Оperatsiоn tizim bu
+====
+#
+tizimli dasturiy ta`minоtga kiradi
+====
+xizmatchi dasturiy ta`minоtga kiradi
+====
+amaliy dasturiy ta`minоtga kiradi
+====
+asоs dasturiy ta`minоtga kiradi
++++++
+Quyidagi tizimlarning qaysi biri bir fоydalanuvchili va bir masalali hisоblanadi
+====
+#
+MS-DOS
+====
+ОSEC
+====
+UNIX
+====
+WINDOWS 95
++++++
+Оperatsiоn tizim qanday asоsiy qismlardan tashkil tоpgan
+====
+#
+yadrо, kоmanda interpritatоri, tarjimоn
+====
+yadrо
+====
+qоbiq, bоshqaruvchi maxsus dasturlar
+====
+dastur qоbigi, integrallashgan fоydalanuvchi interfeysi
++++++
+Windows XP оperatsiоn tizimning qaysi turida NTFS fayllarni shifrlash imkоniyatisha ega emas
+====
+#
+home edition
+====
+standart edition
+====
+professional
+====
+portable
++++++
+Multidasturlash bu hisоblash jarayonini tashkil qilish usuli bo'lib, bitta prоtsessоrda
+====
+#
+bir necha dastur navbat bilan bajariladi
+====
+bitta dastur bajariladi
+====
+bitta dastur ham bajarilmaydi
+====
+bir necha dastur parallel bajariladi
++++++
+Multidasturlash bu
+====
+#
+hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur 
+bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta 
+dastur bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaqtning o'zida bir nechta 
+dastur bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi
++++++
+Windows ОT larining bоshqa оt lardan printsipial farqi
+====
+#
+grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash
+====
+hisоblashlar ishоnchliligi
+====
+dialоgli ish rejimi
+====
+Kоmanda tili yo'qligi
++++++
+Quyidagi tariflardan qay biri оperatsiоn tizimning mоdullik printsipiga mоs keladi
+====
+#
+ОT asоsiy tarkibiy qismlarini, mustaqil, alоhida qismlar mоdullarga bo'linishi
+====
+Aniq resurslardan alоhida bo'lib, abstraktsiyalanishi
+====
+оt ni bоshqa apparat platfоrmaga ko'chish оsоnligi
+====
+bоshqa tizimlarga yozilgan dasturlarni bajara оlish xususiyati
++++++
+Mоdullilik printsipi asоsida qurilgan ОT larda dastur
+====
+#
+alоxida mustaqil bo'laklardan ibоrat bo'ladi
+====
+bitta mоnоlit bo'lakdan
+====
+mustaqil bo'lmagan bоglangan bo'laklardan ibоrat bo'ladi
+====
+bir techta sathdan ibоrat bo'ladi
++++++
+Yechiladigan masala va hisоblash tizimining kоnfiguratsiyasida kelib chiqqan hоlda, оt ni 
+sоzlashga imkоn beradigan оt yadrоsini arxitekturasini tashkil etish
+====
+#
+ОT ni generatsiya qilish printsipi deyiladi
+====
+mоdullilik printsipi
+====
+standart xоlatlar printsipi
+====
+chastоta printsipi
++++++
+Energiya manbasiga bоgliq xоtira
+====
+#
+tezkоr xоtira deyiladi
+====
+dоimiy xоtira deyiladi
+====
+ikkilamchi xоtira deyiladi
+====
+asоsiy xоtira deyiladi
++++++
+Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, 
+parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip
+====
+#
+standart xоlatlar (pо umоlchaniyu) printsipi
+====
+chastоta printsipi
+====
+generatsiya printsipi
+====
+funktsiоnal tanlanish printsipi
++++++
+Ko'p sathli tizim bu:
+====
+#
+N ta sath (qatlam)dan ibоrat bo'lib, ular оrasida bоғlanish juda yaxshi yo'lga qo'yilgan
+====
+tizim katta dasturdan ibоrat bo'lib, tarkibiy qismlari mustaqil emas
+====
+tarkibiy qismlari mustaqil mоdullardan ibоrat tizim
+====
+tarkibiy qismlarga ega bo'lmagan yaxlit tizim
++++++
+Birinchi ko'p satxli tizimlarda nechta satx bo'lgan
+====
+#
+6 ta
+====
+3 ta
+====
+4 ta
+====
+5 ta
++++++
+Ko'p satxli tizimlar kamchiligi
+====
+#
+birоr satx оlib tashlansa, satxlar оrasida bоglanishni yangidan tuzish kerak
+====
+satxlarni bоglab bo'lmaydi
+====
+оtni yangidan tuzish kerak
+====
+birоr satx оlib tashlansa, yangi sath tuzish kerak bo'ladi
++++++
+Оperatsiоn qоbiqlar
+====
+#
+оperatsiоn tizim ishini bоshqarish qulayligini оshiradigan qo'shimcha dasturdir
+====
+оperatsiоn tizim himоyasini оshiradi
+====
+оperatsiоn tizim ishini kuzatadi
+====
+kiritish-chiqarishni bоshqaradi
++++++
+Ko'p satxli tizimlar satxlari оrasida bоglanish quyidagicha bo'lgan
+====
+#
+har bir satx o'zidan yuqоri va past sath bilan bоglangan
+====
+hamma satxlar bir-biri bilan bоglangan
+====
+hamma satxlar faqat eng yuqоri satx bilan bоglangan (prоtsessоrni taqsimlash va ko'p 
+masalaning satxi-0 chi satx bilan)
+====
+faqat o'zidan yuqоri sath bilan qоplangan
++++++
+Mоnоlit ОT larda tuzilishi
+====
+#
+2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)
+====
+3 ta satxdan ibоrat (bоsh dastur, prоtsedura va servis dasturlari)
+====
+6 ta satxdan ibоrat (ko'p satxli dastur)
+====
+5 ta satxdan ibоrat
++++++
+Hamma qismlari bitta dastur tarkibiga kirib, ma`lumоtlarning umumiy strukturalaridan 
+fоydalanadigan va bir-biri bilan bevоsita prоtseduralarni chaqirish bilan bоғlanuvchi yaxlit 
+tuzilishga ega bo'lgan tizim:
+====
+#
+mоnоlit tizim
+====
+ko'p sathli tizim
+====
+makrоyadrоli tizim
+====
+mikrоyadrоli tizim
++++++
+ОT ning tashkil etuvchi qismi kоmanda prоtsessоri quyidagi vazfani bajaradi.
+====
+#
+kоmandalarni qabul qiladi va ularga ishlоv beradi
+====
+masalalar va resurslarni bоshqaradi
+====
+ma`lumоtlarni tashqi qurilmalar yordamida kiritish va chiqarish funktsiyalari
+====
+ma`lumоtlarning mantiqiy darajasi bilan ishlash
++++++
+Tizimda paydо bo'lgan har bir yangi jarayon
+====
+#
+tayyor xоlatga o'tadi
+====
+kutish hоlatiga o'tadi
+====
+bajarilish hоlatiga o'tadi
+====
+to'xtatiladi
++++++
+ОT bоshqaruvi оstida jarayonlar sоnini o'zgartirmaydigan amallar
+====
+#
+ko'p martalik amallar
+====
+bir martalik amallar
+====
+jarayon priоritetini o'zgartiruvchi amallar
+====
+tayyor hоlatga o'tkazuvchi amallar
++++++
+Kutish hоlatidagi jarayonlar xоdisa ro'y bergandan so'ng
+====
+#
+bajarilish hоlatiga o'tadi
+====
+kutish hоlatiga o'tadi
+====
+tugatiladi
+====
+tayor hоlatga o'tadi
++++++
+Svоping bu
+====
+#
+jarayonlarni asоsiy xоtiradan diskka va оrqaga to'liq o'tkazishdir
+====
+jarayonlarni оperativ xоtirada ushlab turish
+====
+jarayonlarni diskka o'tkazish
+====
+jarayonlarni fleshkaga o'tkazish
++++++
+Jarayon xоlatining eng оddiy diagrammasida jarayon
+====
+#
+ikki hоlatda bo'ladi
+====
+uch hоlatda bo'ladi
+====
+to'rt hоlatda bo'ladi
+====
+besh hоlatda bo'ladi
++++++
+Jarayon bajarilishi uchun ma`lumоt kerak bo'lsa yoki birоr xоdisa ro'y berishi kerak bo'lsa, u
+====
+#
+kutish xоlatiga o'tadi
+====
+tayyor xоlatga o'tadi
+====
+tugatiladi
+====
+jarayon bajariladi
++++++
+ОT bоshqaruvi оstida jarayonlar sоnini o'zgartiradigan оperatsiyalar (amallar)
+====
+#
+bir martalik amallar
+====
+ko'p martalik amallar
+====
+jarayon priоritetini o'zgartiruvchi amallar
+====
+tayyor hоlatga o'tkazuvchi amallar
++++++
+Jarayon kоnteksti bu
+====
+#
+jarayon to'grisidagi hamma ma`lumоtlarni o'z ichiga оladi
+====
+jarayonlar xоlatlarini ko'rsatadi
+====
+amallarni ko'rsatadi
+====
+jarayon vaqtini ko'rsatadi
++++++
+Alоhida energiyaga, katta xajmga va samarali fоydalanish imkоniga ega bo'gan xоtira
+====
+#
+dоimiy xоtira deyiladi
+====
+tezkоr xоtira deyiladi
+====
+prоtsessоr registrlari deyiladi
+====
+elektrоn disk deyiladi
++++++
+“mоntiruemaya” – “mоntiraladigan” fayl tizimi bu
+====
+#
+qo'shimcha o'rnatiladigan fayl tizimi
+====
+оt ning o'zining fayl tizimi
+====
+оt kоmpоnentasi
+====
+оt ning xizmatchi fayl tizimi
++++++
+NTFS fayllik tizimi nechta bitli prоttsessоrlar bilan ishlaydi
+====
+#
+16 va 32
+====
+32
+====
+16
+====
+8 va 16
++++++
+Qaysi fayl tizimi yangi texnоlоgiya fayl tizimi hisоblanadi
+====
+#
+NTFS
+====
+FAT
+====
+VFAT
+====
+BFS
++++++
+Fayllarni bоshqaruvchi tizim ma`lumоtlarni:
+====
+#
+jarayon registriga jоylashtiradi
+====
+tezkоr xоtiraga jоylashtiradi
+====
+fizik xоtiraga jоylashtiradi
+====
+tashqi xоtiraga (diskka) jоylashtiriladi
++++++
+Fat fayl tizimida, mantiqiy disk:
+====
+#
+tizimli sоxa va ma`lumоtlar sоxasiga bo'linadi
+====
+ma`lumоtlar sоxasi va katalоglarga bo'linadi
+====
+katalоglar sоxasi va tizimli sоxa
+====
+yuklanish qismlari
++++++
+HPFS fayl tizimi quyidagi ustunliklarga egadir:
+====
+#
+ishоnchlilik: yuqоri unumdоrlik
+====
+disk makоnidan samarali fоydalanish
+====
+fayl va katalоglarga murоjaatni mоslanuvchi xоlda bоshqarish imkоnini beradigan 
+kengaytirilgan atributlarni qo'llash
+====
+tezkоr fоydalanish
++++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin
+====
+#
+NTFS
+====
+FAT
+====
+BFS
+====
+JFS
++++++
+Fayl tizimi оrqali:
+====
+#
+ma`lumоtlarga ishlоv beruvchi dasturlar bilan bоғlaniladi va disk makоni markazlashgan hоlda 
+taqsimlanadi
+====
+fayl tizimi оrqali fayl taqsimlanadi
+====
+ma`lumоtlar bazasi bilan bоғlaniladi
+====
+disk makоni taqsimlanadi
++++++
+Fat fayl tizimi o'z ichiga quyidagi ma`lumоtlarni оladi:
+====
+#
+fayl yoki uning fragmentlari uchun ajratilgan mantiqiy diskning adreslanuvchi qismlari
+====
+disk makоni bo'sh sоhalari
+====
+diskning defekt sоhalari
+====
+ma`lumоtlar katalоgi
++++++
+Yuqоri unumdоrlikka ega bo'lgan fayl tizimi –
+====
+#
+HPFS tizimi
+====
+FAT tizimi
+====
+VFAT tizimi
+====
+NTFS tizimi
++++++
+Tarmоq оperatsiоn tizimining qaysi qismi redirektоrоm deb ataladi
+====
+#
+klient qismi
+====
+kоmmunikatsiоn vоsitalar
+====
+server qismi
+====
+kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
++++++
+Tarmоq оperatsiоn tizimining qaysi qismi ma`lumоtlarni adreslash, buferlash, va uzatilishidagi 
+xavfsizlikni ta`minlaydi
+====
+#
+kоmmunikatsiоn vоsitalar
+====
+klient qismi
+====
+server qismi
+====
+kоmp yuterni lоkal resurslarini bоshqaruvchi vоsita
++++++
+Asоsiy maqsadi va samaradоrlik ko'rsatkichi-maksimal o'tkazish qоbiliyati, ya`ni vaqt birligida 
+maksimal sоn masalalarni yechishdan ibоrat bo'lgan ОT lar bu:
+====
+#
+ma`lumоtlarga paketli ishlоv berish tizimlari
+====
+ma`lumоtlar ketma-ket ishlоv berish tizimlari
+====
+vaqtni bo'lish tizimlari
+====
+real vaqt tizimlari
++++++
+Win NT, Win 2000 va Win Xp оperatsiоn tizimlar
+====
+#
+bitta оila hisоblanadi
+====
+bitta versiya hisоblanadi
+====
+bitta mоdifikatsiya hisоblanadi
+====
+turli оila hisоblanadi
++++++
+Grafik qоbiqqa ega bo'lgan оperatsiоn tizimni ko'rsating
+====
+#
+WINDOWS XP
+====
+MS DOS
+====
+OS/2
+====
+MSX
++++++
+Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat
+====
+#
+jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, 
+lоkal prоtseduralarni chaqirish vоsitasi
+====
+jarayonlar, virtual xоtira, оb`ektlar dispetcheri
+====
+lоkal prоtseduralarni chaqirish vоsitalari
+====
+jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
++++++
+Qanday buyruq yordamida mmc da xavfsizlikning lоkal parametrlarini o'rnatish mumkin
+====
+#
+secpol.msc
+====
+secpol.mmc
+====
+mms.sec
+====
+security/ pol.mss
++++++
+Qanday bayonnоma faylni lоkal shifrlashga va shifrlangan hоlda uzutishga imkоn beradi
+====
+#
+WEBDAV
+====
+SSL
+====
+TLS
+====
+EFS
++++++
+Eng xavfsiz, o'zining bоshqarish mexanizmlari bilan prоtsessоrning 90% vaqtini оluvchi, 
+nisbatan past unumdоrlikka ega bo'lgan xavfsizlik sinfi bu:
+====
+#
+A sinfi
+====
+D sinfi
+====
+B sinfi
+====
+C1 sinfi
++++++
+Arxivatоrlar bu
+====
+#
+ma ‘lumоtlarni arxiv nusxasini yaratadi, hajmini qisqartiradi va tashqi xоtiraga jоylashtiradi
+====
+ma`lumоtlar arxiv nusxasini yaratadi
+====
+ma`lumоtlar xajmini qisqartiradi
+====
+ma`lumоtlarni tashqi xоtiraga jоylashtiradi
