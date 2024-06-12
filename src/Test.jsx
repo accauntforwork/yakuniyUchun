@@ -103,7 +103,7 @@ function Test() {
       {!isTestStarted && (
         <div className="w-[100%] h-[95vh] flex justify-center items-center">
           <button
-            className="bg-blue-500 rounded-lg mt-4 p-2 text-white text-2xl"
+            className="bg-[#3C8DBC] rounded-sm mt-4 p-2 text-white text-2xl hover:bg-opacity-60"
             onClick={startTest}
           >
             Testni boshlash
@@ -111,7 +111,7 @@ function Test() {
         </div>
       )}
       {isTestStarted && timer > 0 && (
-        <div className="p-4 bg-[#3C8DBC] w-full sticky top-0 right-0 text-[#E6FBFF] flex items-center justify-between gap-4 container px-[10%]">
+        <div className="p-4 bg-[#3C8DBC] w-[100vw] sticky top-0 right-0 text-[#E6FBFF] flex items-center justify-between gap-4 px-[5%] z-10">
           <div>
             <div className="text-2xl">
               1:
@@ -135,12 +135,12 @@ function Test() {
       )}
       {isTestStarted && timer > 0 && (
         <div className="px-[5%] text-[#545552]">
-          <div className="w-full p-4 flex flex-col lg:flex-row gap-4">
+          <div className="w-full p-4 flex flex-col lg:flex-row gap-4 lg:items-start">
             <div>
               {questions.map((question, index) => (
                 <div
                   key={question.uniqueId}
-                  className=" mt-4 rounded-md border-t-4 border-[#E0E3EA] bg-white"
+                  className=" mt-2 rounded-md border-t-4 border-[#E0E3EA] bg-white"
                   ref={(el) => (questionRefs.current[index] = el)}
                 >
                   <h2 className="text-xl border-b-[1px] border-[#E0E3EA] p-3">
@@ -149,7 +149,7 @@ function Test() {
                   <ul className="flex flex-col gap-2 py-2">
                     {question.options.map((option) => (
                       <li
-                        className="px-2 py-1 border-black bg-white hover:bg-emerald-300 flex gap-2 items-center"
+                        className="px-2 py-1 border-black bg-white hover:bg-emerald-300 flex gap-2 items-center relative"
                         key={option.id}
                         onClick={() =>
                           handleAnswerSelection(question.uniqueId, option)
@@ -179,31 +179,41 @@ function Test() {
                             : "auto", // Disable further clicks if an answer is already selected
                         }}
                       >
-                        <span
-                          className="w-4 h-4 rounded-full border-[1px] border-gray-500 bg-[#F2F2F2]"
+                        <div
+                          className="w-4 h-4 p-1 rounded-full border-[1px] border-gray-500 bg-[#F2F2F2] absolute"
                           style={{
                             border:
                               selectedAnswers[question.uniqueId] === option.text
                                 ? "3px solid #3C8DBC"
                                 : "",
                           }}
-                        ></span>
-                        {option.text}
+                        ></div>
+                        <div className="ml-5">{option.text}</div>
                       </li>
                     ))}
                   </ul>
                 </div>
               ))}
             </div>
-            <div className="max-w-[400px] border-t-4 border-[#E0E3EA] rounded-md bg-white h-[400px] sticky top-20">
-              <h1 className="border-b-[1px] border-[#E0E3EA] text-xl p-2">
-                Javoblar
+            <div className="w-full lg:max-w-[380px] border-t-4 border-[#E0E3EA] rounded-md bg-white lg:sticky top-20">
+              <h1 className="border-b-[1px] border-[#E0E3EA] text-xl p-2 flex justify-between items-center">
+                <span>Javoblar</span>
+                <div>
+                  <span className="text-xl text-green-600">
+                    {correctAnswersCount}✅{" "}
+                  </span>
+                  |{" "}
+                  <span className="text-red-600">
+                    {totalAnswersCount - correctAnswersCount}
+                  </span>
+                  ❎ | <span>{totalAnswersCount}</span>
+                </div>
               </h1>
-              <div className="flex flex-wrap gap-1 bg-opacity-20 p-2 ">
+              <div className="flex flex-wrap gap-1 p-2 border-b-[1px] border-[#E0E3EA] pb-4 mb-3">
                 {questions.map((_, i) => (
                   <div
                     key={i}
-                    className="border flex h-4 w-4 p-[20px] text-xl justify-center items-center cursor-pointer rounded-full"
+                    className="border flex h-4 w-4 p-[20px] text-[16px] justify-center items-center cursor-pointer rounded-full"
                     style={{
                       backgroundColor: selectedTestNumbers.includes(
                         questions[i].uniqueId
@@ -220,12 +230,14 @@ function Test() {
                   </div>
                 ))}
               </div>
-              <button
-                onClick={endTest}
-                className="bg-blue-500 rounded-sm py-1 hover:bg-blue-300 text-white w-full"
-              >
-                Yakunlash
-              </button>
+              <div className="w-[90%] mx-auto">
+                <button
+                  onClick={endTest}
+                  className="bg-[#3C8DBC] rounded-sm py-1 hover:bg-blue-300 w-full text-white  mb-2 "
+                >
+                  Yakunlash
+                </button>
+              </div>
             </div>
           </div>
         </div>
@@ -236,7 +248,7 @@ function Test() {
           <span className="text-center">Umumiy: {totalAnswersCount}</span>
           <button
             onClick={startTest}
-            className="bg-blue-500 rounded-lg p-2 hover:bg-blue-300 text-white"
+            className="bg-[#3C8DBC] rounded-sm p-2 hover:bg-blue-300 text-white"
           >
             Testni qaytadan boshlash
           </button>
